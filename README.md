@@ -1,19 +1,28 @@
 # 🚗 Analítica de Reseñas — Demo
 
 Spark + Flask para buscar vehículos por **nombre** (sin IDs) y ver:
-- ⭐ *Calificación promedio* (simulada, 2.5–5.0)
-- 💬 *Número de reseñas* (simuladas, 5–800)
+- ⭐ Calificación promedio (simulada)
+- 💬 Número de reseñas (simuladas)
 
----
+## Requisitos
+- Python 3.10+ (ideal 3.11)
 
-## 📁 Estructura del proyecto
+## Instalación rápida
+```bash
+# clonar
+git clone https://github.com/juangrueso24/spark-proyecto.git
+cd spark-proyecto
 
-spark-proyecto/
-├── analisis_final_spark.py # genera vehiculos_agg.csv (5000 filas simuladas)
-├── autos_limpiov8.csv # dataset base de autos
-├── dashboard/
-│ ├── app.py # servidor Flask
-│ └── templates/
-│ └── busqueda.html
-├── requirements.txt
-└── README.md
+# (opcional) entorno virtual
+python3 -m venv venv && source venv/bin/activate
+
+# deps
+pip install -r requirements.txt
+
+# generar datos simulados (5000 vehículos, SIN NaN)
+python3 analisis_final_spark.py
+
+# lanzar dashboard
+cd dashboard
+python3 app.py
+

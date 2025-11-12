@@ -1,0 +1,10 @@
+services:
+  analitica:
+    build: .
+    container_name: analitica-resenas
+    ports:
+      - "8090:8081"
+    environment:
+      - PYSPARK_PYTHON=python3
+      - FLASK_ENV=production
+    restart: unless-stopped

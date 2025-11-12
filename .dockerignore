@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.log
+*.parquet
+*.ipynb_checkpoints/
+venv/
+out/
+salida_*/
+.DS_Store
+.git
+.gitignore
