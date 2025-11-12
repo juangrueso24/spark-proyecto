@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Analítica de Reseñas — Demo</title>
+  <style>
+    body{font-family:Arial, sans-serif; margin:24px; background:#fafafa; color:#222}
+    .tabs a{margin-right:12px; text-decoration:none; color:#0b6bff}
+    .muted{color:#666}
+    .files{font-size:13px; margin:6px 0 14px}
+    .card{background:#fff;border:1px solid #eee;border-radius:10px;padding:12px;margin:16px 0}
+    table.grid{border-collapse:collapse;width:100%; font-size:14px}
+    table.grid th, table.grid td{border:1px solid #eee; padding:8px 10px; white-space:nowrap}
+    table.grid th{background:#f7f9ff}
+    .filters{background:#fff;border:1px solid #eee;border-radius:10px;padding:10px;margin:8px 0}
+    .filters input, .filters select{margin-right:8px}
+  </style>
+</head>
+<body>
+  <h2>Analítica de Reseñas — Demo</h2>
+
+  <div class="tabs">
+    <a href="/dashboard?vista=vehiculos">Vehículos</a>
+    <a href="/dashboard?vista=marcas">Marcas</a>
+    <a href="/dashboard?vista=calificaciones">Calificaciones</a>
+    <a href="/dashboard?vista=resenas">Reseñas</a>
+  </div>
+
+  <div class="files muted">
+    <b>Vista actual:</b> {{ vista }} —
+    {% for fname, mt in files %}
+      <code>{{ fname }}</code> ({{ mt }}){% if not loop.last %} · {% endif %}
+    {% endfor %}
+  </div>
+
+  {% if vista == 'vehiculos' %}
+    <form class="filters" action="/dashboard" method="get">
+      <input type="hidden" name="vista" value="vehiculos" />
+      <label>ID exacto: <input type="text" name="id" placeholder="11213" /></label>
+      <label>Contiene (q): <input type="text" name="q" placeholder="112" /></label>
+      <label>Top n: <input type="number" name="n" min="1" max="200" value="20" /></label>
+      <label>Orden:
+        <select name="order">
+          <option value="promedio_calificacion">promedio_calificacion</option>
+          <option value="n_calificaciones">n_calificaciones</option>
+          <option value="n_resenas">n_resenas</option>
+        </select>
+      </label>
+      <button type="submit">Aplicar</button>
+    </form>
+  {% endif %}
+
+  {% if vista == 'marcas' %}
+    <form class="filters" action="/dashboard" method="get">
+      <input type="hidden" name="vista" value="marcas" />
+      <label>Marca exacta: <input type="text" name="marca" placeholder="Toyota" /></label>
+      <label>Contiene (q): <input type="text" name="q" placeholder="toy" /></label>
+      <label>Top n: <input type="number" name="n" min="1" max="200" value="20" /></label>
+      <label>Min calificaciones: <input type="number" name="min_calif" min="0" value="0" /></label>
+      <button type="submit">Aplicar</button>
+    </form>
+  {% endif %}
+
+  {% for note in notas %}<div class="muted">🔁 {{ note }}</div>{% endfor %}
+
+  {% if charts.fig1 %}<div class="card">{{ charts.fig1|safe }}</div>{% endif %}
+  {% if charts.fig2 %}<div class="card">{{ charts.fig2|safe }}</div>{% endif %}
+  {% if charts.fig3 %}<div class="card">{{ charts.fig3|safe }}</div>{% endif %}
+
+  {% if table_html %}
+    <div class="card">
+      <h3 style="margin:6px 0 12px">{{ table_title }}</h3>
+      {{ table_html|safe }}
+    </div>
+  {% endif %}
+</body>
+</html>
