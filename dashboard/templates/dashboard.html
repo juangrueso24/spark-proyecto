@@ -1,65 +1,308 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8" />
+  <meta charset="utf-8">
   <title>Analítica de Reseñas — Demo</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <style>
-    body{font-family:Arial, sans-serif; margin:24px; background:#fafafa; color:#222}
-    .tabs a{margin-right:12px; text-decoration:none; color:#0b6bff}
-    .muted{color:#666}
-    .files{font-size:13px; margin:6px 0 14px}
-    .card{background:#fff;border:1px solid #eee;border-radius:10px;padding:12px;margin:16px 0}
-    table.grid{border-collapse:collapse;width:100%; font-size:14px}
-    table.grid th, table.grid td{border:1px solid #eee; padding:8px 10px; white-space:nowrap}
-    table.grid th{background:#f7f9ff}
-    .filters{background:#fff;border:1px solid #eee;border-radius:10px;padding:10px;margin:8px 0}
-    .filters input, .filters select{margin-right:8px}
+    body { font-family: sans-serif; margin: 12px; }
+    h2 { margin-bottom: 4px; }
+    .tabs a { margin-right: 16px; text-decoration: none; }
+    .tabs a.active { font-weight: bold; }
+    table { border-collapse: collapse; width: 100%; margin-top: 8px; }
+    th, td { border: 1px solid #ddd; padding: 4px 6px; font-size: 12px; }
+    th { background: #f0f0f0; }
+    .small { font-size: 11px; color: #666; }
+    .filters { margin-top: 8px; margin-bottom: 8px; }
+    .filters input[type="text"] { width: 260px; }
+    canvas { max-width: 100%; }
+    .row { display: flex; gap: 16px; margin-top: 12px; }
+    .col-50 { flex: 1; }
   </style>
 </head>
 <body>
-  <h2>Analítica de Reseñas — Demo</h2>
 
-  <div class="tabs">
-    <a href="/dashboard?vista=vehiculos">Vehículos</a>
-    <a href="/dashboard?vista=calificaciones">Calificaciones</a>
-    <a href="/dashboard?vista=resenas">Reseñas</a>
-  </div>
+<div class="tabs">
+  <a href="/dashboard?vista=vehiculos"
+     class="{{ 'active' if vista == 'vehiculos' else '' }}">Vehículos</a>
+  <a href="/dashboard?vista=calificaciones"
+     class="{{ 'active' if vista == 'calificaciones' else '' }}">Calificaciones</a>
+  <a href="/dashboard?vista=reseñas"
+     class="{{ 'active' if vista == 'reseñas' else '' }}">Reseñas</a>
+</div>
 
-  <div class="files muted">
-    <b>Vista actual:</b> {{ vista }} —
-    {% for fname, mt in files %}
-      <code>{{ fname }}</code> ({{ mt }}){% if not loop.last %} · {% endif %}
-    {% endfor %}
-  </div>
+<hr>
 
-  {% if vista == 'vehiculos' %}
-    <form class="filters" action="/dashboard" method="get">
-      <input type="hidden" name="vista" value="vehiculos" />
-      <label>ID exacto: <input type="text" name="id" placeholder="11213" /></label>
-      <label>Contiene (q): <input type="text" name="q" placeholder="112" /></label>
-      <label>Top n: <input type="number" name="n" min="1" max="200" value="20" /></label>
-      <label>Orden:
-        <select name="order">
-          <option value="promedio_calificacion">promedio_calificacion</option>
-          <option value="n_calificaciones">n_calificaciones</option>
-          <option value="n_resenas">n_resenas</option>
-        </select>
-      </label>
-      <button type="submit">Aplicar</button>
-    </form>
-  {% endif %}
+{# ===================== VISTA VEHÍCULOS ===================== #}
+{% if vista == 'vehiculos' %}
+  <h2>Vehículos ({{ total_autos }} autos reales)</h2>
 
-  {% for note in notas %}<div class="muted">🔁 {{ note }}</div>{% endfor %}
+  <form method="get" action="/dashboard" class="filters">
+    <input type="hidden" name="vista" value="vehiculos">
+    Buscar (marca / modelo):
+    <input type="text" name="q" value="{{ search or '' }}" placeholder="Ej: acura, mercedes">
+    Orden:
+    <select name="orden">
+      <option value="mejor"        {% if orden == 'mejor' %}selected{% endif %}>Mejor calificados</option>
+      <option value="peor"         {% if orden == 'peor' %}selected{% endif %}>Peor calificados</option>
+      <option value="mas_resenas"  {% if orden == 'mas_resenas' %}selected{% endif %}>Más reseñas</option>
+      <option value="menos_resenas"{% if orden == 'menos_resenas' %}selected{% endif %}>Menos reseñas</option>
+    </select>
+    <button type="submit">Buscar</button>
+    <span class="small">
+      Tip: en esta vista NO se muestran IDs de vehículos, solo el nombre comercial.
+    </span>
+  </form>
 
-  {% if charts.fig1 %}<div class="card">{{ charts.fig1|safe }}</div>{% endif %}
-  {% if charts.fig2 %}<div class="card">{{ charts.fig2|safe }}</div>{% endif %}
-  {% if charts.fig3 %}<div class="card">{{ charts.fig3|safe }}</div>{% endif %}
-
-  {% if table_html %}
-    <div class="card">
-      <h3 style="margin:6px 0 12px">{{ table_title }}</h3>
-      {{ table_html|safe }}
+  <div class="row">
+    <div class="col-50">
+      <h4>Top 20 vehículos — mejor calificación</h4>
+      <canvas id="chartVehiculosRating"></canvas>
+      <p class="small">Barras: calificación promedio. Tooltip: número de reseñas.</p>
     </div>
-  {% endif %}
+    <div class="col-50">
+      <h4>Top 20 vehículos — por número de reseñas</h4>
+      <canvas id="chartVehiculosResenas"></canvas>
+      <p class="small">Vehículos con más reseñas del dataset real.</p>
+    </div>
+  </div>
+
+  <h3>Listado completo</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Vehículo</th>
+        <th>Calificación Promedio</th>
+        <th>N° Reseñas</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for v in vehiculos %}
+        <tr>
+          <td>{{ v.get('vehiculo_label', '') }}</td>
+          <td>{{ '%.2f'|format(v.get('promedio_calificacion', 0)) }}</td>
+          <td>{{ v.get('n_resenas', 0) }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+{# ===================== VISTA CALIFICACIONES (NUEVA) ===================== #}
+{% elif vista == 'calificaciones' %}
+  <h2>Calificaciones</h2>
+  <p class="small">
+    Total de calificaciones: {{ total_calif }}<br>
+    Promedio global de estrellas: {{ promedio_global }} / 5
+  </p>
+
+  <div class="row">
+    <div class="col-50">
+      <h4>Promedio de calificación por estrella</h4>
+      <canvas id="chartPromedioPorEstrella"></canvas>
+    </div>
+
+    <div class="col-50">
+      <h4>Distribución de calificaciones (1–5 estrellas)</h4>
+      <canvas id="chartDistEstrellas"></canvas>
+    </div>
+  </div>
+
+{# ===================== VISTA RESEÑAS ===================== #}
+{% elif vista == 'reseñas' %}
+  <h2>Reseñas por usuario</h2>
+  <p class="small">
+    Total de reseñas: {{ total_resenas }}<br>
+    Usuarios con reseñas: {{ total_usuarios }}<br>
+    Promedio de reseñas por usuario: {{ promedio_resenas_usuario }}
+  </p>
+
+  <div class="row">
+    <div class="col-50">
+      <h4>Top 20 usuarios por número de reseñas</h4>
+      <canvas id="chartUsuariosResenas"></canvas>
+    </div>
+    <div class="col-50">
+      <h4>Detalle de usuarios</h4>
+      <table>
+        <thead>
+          <tr>
+            <th>Usuario</th>
+            <th>N° Reseñas</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for u in usuarios %}
+            <tr>
+              <td>{{ u.username }}</td>
+              <td>{{ u.n_resenas }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+{% endif %}
+
+<script>
+  const vista = "{{ vista }}";
+
+  // ================= VEHÍCULOS =================
+  if (vista === "vehiculos") {
+    const labelsRating  = {{ veh_chart_labels|default([])|tojson }};
+    const dataRating    = {{ veh_chart_scores|default([])|tojson }};
+    const dataResenas   = {{ veh_chart_resenas|default([])|tojson }};
+    const labelsResTop  = {{ veh_resenas_labels|default([])|tojson }};
+    const dataResTop    = {{ veh_resenas_counts|default([])|tojson }};
+
+    const ctx1 = document.getElementById('chartVehiculosRating');
+    if (ctx1 && labelsRating.length > 0) {
+      new Chart(ctx1.getContext('2d'), {
+        type: 'bar',
+        data: {
+          labels: labelsRating,
+          datasets: [{
+            label: 'Calificación promedio',
+            data: dataRating
+          }]
+        },
+        options: {
+          responsive: true,
+          plugins: {
+            tooltip: {
+              callbacks: {
+                afterLabel: function(context) {
+                  const idx = context.dataIndex;
+                  return '  Nº reseñas: ' + (dataResenas[idx] ?? 0);
+                }
+              }
+            }
+          },
+          scales: {
+            x: {
+              ticks: { maxRotation: 60, minRotation: 60, autoSkip: false }
+            },
+            y: {
+              beginAtZero: true,
+              max: 5
+            }
+          }
+        }
+      });
+    }
+
+    const ctx2 = document.getElementById('chartVehiculosResenas');
+    if (ctx2 && labelsResTop.length > 0) {
+      new Chart(ctx2.getContext('2d'), {
+        type: 'bar',
+        data: {
+          labels: labelsResTop,
+          datasets: [{
+            label: 'Nº reseñas',
+            data: dataResTop
+          }]
+        },
+        options: {
+          responsive: true,
+          scales: {
+            x: {
+              ticks: { maxRotation: 60, minRotation: 60, autoSkip: false }
+            },
+            y: {
+              beginAtZero: true
+            }
+          }
+        }
+      });
+    }
+  }
+
+  // ================= CALIFICACIONES (NUEVO JS) =================
+  if (vista === "calificaciones") {
+    const distLabels = {{ dist_labels|default([])|tojson }};
+    const distValues = {{ dist_values|default([])|tojson }};
+
+    // Izquierda: "Promedio" por estrella (visual bonito usando las estrellas mismas)
+    const promLabels = distLabels;
+    const promData   = distLabels.map(v => Number(v));
+
+    const ctxProm = document.getElementById("chartPromedioPorEstrella");
+    if (ctxProm && promLabels.length > 0) {
+      new Chart(ctxProm.getContext("2d"), {
+        data: {
+          labels: promLabels,
+          datasets: [
+            {
+              type: "bar",
+              label: "Estrella",
+              data: promData
+            },
+            {
+              type: "line",
+              label: "Valor promedio",
+              data: promData,
+              borderWidth: 2
+            }
+          ]
+        },
+        options: {
+          responsive: true,
+          scales: {
+            y: { beginAtZero: true, max: 5 }
+          }
+        }
+      });
+    }
+
+    // Derecha: distribución real de calificaciones
+    const ctxDist = document.getElementById('chartDistEstrellas');
+    if (ctxDist) {
+      new Chart(ctxDist.getContext('2d'), {
+        type: 'bar',
+        data: {
+          labels: distLabels,
+          datasets: [{
+            label: 'Cantidad de calificaciones',
+            data: distValues
+          }]
+        },
+        options: {
+          responsive: true,
+          scales: { y: { beginAtZero: true } }
+        }
+      });
+    }
+  }
+
+  // ================= RESEÑAS =================
+  if (vista === "reseñas") {
+    const uLabels = {{ res_users_labels|default([])|tojson }};
+    const uCounts = {{ res_users_counts|default([])|tojson }};
+    const ctxU = document.getElementById('chartUsuariosResenas');
+    if (ctxU && uLabels.length > 0) {
+      new Chart(ctxU.getContext('2d'), {
+        type: 'bar',
+        data: {
+          labels: uLabels,
+          datasets: [{
+            label: 'Nº reseñas',
+            data: uCounts
+          }]
+        },
+        options: {
+          responsive: true,
+          scales: {
+            y: {
+              beginAtZero: true
+            },
+            x: {
+              ticks: { maxRotation: 60, minRotation: 60, autoSkip: false }
+            }
+          }
+        }
+      });
+    }
+  }
+</script>
+
 </body>
 </html>

@@ -1,190 +1,264 @@
+import os
+import pandas as pd
 from flask import Flask, render_template, request
-import pandas as pd, os, datetime
-import plotly.express as px
 
-BASE = os.path.expanduser('~/spark-proyecto')
 app = Flask(__name__)
 
-# ---------------- utils ----------------
-def mtime_str(p):
-    try:
-        t = os.path.getmtime(p)
-        return datetime.datetime.fromtimestamp(t).strftime("%Y-%m-%d %H:%M:%S")
-    except Exception:
-        return "—"
+# ===========================
+# RUTAS DE ARCHIVOS
+# ===========================
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))      # .../spark-proyecto/dashboard
+ROOT_DIR = os.path.dirname(BASE_DIR)                       # .../spark-proyecto
 
-def load_csv_safe(name):
-    p = os.path.join(BASE, name)
-    return (pd.read_csv(p), p) if os.path.exists(p) else (None, p)
+CSV_VEHICULOS = os.path.join(ROOT_DIR, "data", "vehiculos_agg.csv")
+CSV_CALIF = os.path.join(ROOT_DIR, "calificacionesv2.csv")
+CSV_RESENAS = os.path.join(ROOT_DIR, "resenas.csv")  # ajusta si lo tienes en /data
 
-def pick_col(df, candidates, default=None):
-    for c in candidates:
-        if c in df.columns:
-            return c
-    return default
 
-# ---------------- routes ----------------
-@app.route('/')
-def home():
-    return '<h2>Dashboard PySpark — <a href="/dashboard">Abrir</a></h2>'
+# ===========================
+# HELPERS
+# ===========================
+def cargar_vehiculos():
+    if not os.path.exists(CSV_VEHICULOS):
+        raise RuntimeError(f"No encuentro el CSV de vehículos en: {CSV_VEHICULOS}")
 
-@app.route('/dashboard')
+    df = pd.read_csv(CSV_VEHICULOS)
+
+    # Normalizar nombres de columnas esperadas
+    # Esperado: vehiculo_label, modelo, promedio_calificacion, n_resenas
+    if "vehiculo_label" not in df.columns:
+        # fallback por si se llama distinto
+        for c in df.columns:
+            if "vehiculo" in c.lower():
+                df = df.rename(columns={c: "vehiculo_label"})
+                break
+
+    # numéricos
+    for col in ["promedio_calificacion", "modelo", "n_resenas"]:
+        if col in df.columns:
+            df[col] = pd.to_numeric(df[col], errors="coerce")
+
+    if "n_resenas" in df.columns:
+        df["n_resenas"] = df["n_resenas"].fillna(0).astype(int)
+
+    if "promedio_calificacion" in df.columns:
+        df["promedio_calificacion"] = df["promedio_calificacion"].fillna(0.0)
+
+    return df
+
+
+def cargar_calificaciones():
+    if not os.path.exists(CSV_CALIF):
+        raise RuntimeError(f"No encuentro el CSV de calificaciones en: {CSV_CALIF}")
+
+    df = pd.read_csv(CSV_CALIF)
+
+    # columna de estrellas
+    col_est = None
+    for c in df.columns:
+        if "estrella" in c.lower():
+            col_est = c
+            break
+    if col_est is None:
+        raise RuntimeError("No encuentro columna de estrellas en calificacionesv2.csv")
+
+    df["estrellas_num"] = pd.to_numeric(df[col_est], errors="coerce")
+
+    # columna de fecha (para gráfico por mes)
+    col_fecha = None
+    for c in df.columns:
+        if c.lower().startswith("fecha"):
+            col_fecha = c
+            break
+
+    if col_fecha is not None:
+        df[col_fecha] = pd.to_datetime(df[col_fecha], errors="coerce")
+    df["_col_estrellas"] = col_est
+    df["_col_fecha"] = col_fecha
+
+    return df
+
+
+def cargar_resenas():
+    if not os.path.exists(CSV_RESENAS):
+        raise RuntimeError(f"No encuentro el CSV de reseñas en: {CSV_RESENAS}")
+
+    df = pd.read_csv(CSV_RESENAS)
+
+    # columnas esperadas: username, idVehiculo, comentario, fecha
+    if "username" not in df.columns:
+        raise RuntimeError("resenas.csv debe tener columna 'username'.")
+
+    if "fecha" in df.columns:
+        df["fecha"] = pd.to_datetime(df["fecha"], errors="coerce")
+
+    return df
+
+
+# ===========================
+# VISTAS
+# ===========================
+@app.route("/dashboard")
 def dashboard():
-    vista = (request.args.get('vista') or 'vehiculos').lower()
-    charts, notas, files = {}, [], []
-    table_title, table_html = "", ""
+    vista = request.args.get("vista", "vehiculos")
 
-    # ========== CALIFICACIONES (sin cambios) ==========
-    if vista == 'calificaciones':
-        d, p = load_csv_safe('distribucion_estrellas.csv')
-        files.append(('distribucion_estrellas.csv', mtime_str(p)))
-        if d is not None and len(d):
-            col_star = pick_col(d, ['calificacion', 'estrellas', 'rating', 'star'])
-            col_n    = pick_col(d, ['n', 'count', 'total'])
-            if col_star and col_n:
-                charts['fig1'] = px.bar(
-                    d, x=col_star, y=col_n, title='Distribución de calificaciones'
-                ).to_html(full_html=False, include_plotlyjs='cdn')
-        m, pm = load_csv_safe('calificaciones_mensual.csv')
-        if m is not None and len(m):
-            files.append(('calificaciones_mensual.csv', mtime_str(pm)))
-            col_x = pick_col(m, ['ym', 'mes', 'month'])
-            col_y = pick_col(m, ['n_calif', 'n', 'count', 'total'])
-            if col_x and col_y:
-                charts['fig2'] = px.line(
-                    m, x=col_x, y=col_y, markers=True, title='Calificaciones por mes'
-                ).to_html(full_html=False, include_plotlyjs=False)
-        notas.append("Para actualizar esta vista: VISTA=calificaciones  python3 analisis_spark.py")
+    # ----------------------------------
+    # VISTA VEHÍCULOS
+    # ----------------------------------
+    if vista == "vehiculos":
+        df = cargar_vehiculos()
+        q = request.args.get("q", "").strip()
+        orden = request.args.get("orden", "mejor")
 
-    # ========== VEHÍCULOS (ahora con búsqueda por ID y gráficas del carro) ==========
-    elif vista == 'vehiculos':
-        v, pv = load_csv_safe('vehiculos_agg.csv')
-        if v is None or not len(v):
-            notas.append("No encontré vehiculos_agg.csv. Ejecuta: VISTA=vehiculos  python3 analisis_spark.py")
-        else:
-            files.append(('vehiculos_agg.csv', mtime_str(pv)))
+        df_filtrado = df.copy()
 
-            # Mapeo flexible de columnas
-            col_id   = pick_col(v, ['id_vehiculo', 'vehiculo', 'modelo']) or v.columns[0]
-            col_rate = pick_col(v, ['promedio_calificacion', 'rating_promedio', 'avg_rating']) or v.columns[1]
-            col_nr   = pick_col(v, ['n_resenas', 'resenas', 'reviews'])
-            col_nc   = pick_col(v, ['n_calificaciones', 'calificaciones', 'votes'])
+        # Filtro por texto (marca / modelo / nombre)
+        if q:
+            q_low = q.lower()
+            # usamos vehiculo_label; si no existe, usamos la primera columna string
+            col_nombre = "vehiculo_label"
+            if col_nombre not in df_filtrado.columns:
+                col_nombre = df_filtrado.columns[0]
+            df_filtrado = df_filtrado[
+                df_filtrado[col_nombre].astype(str).str.lower().str.contains(q_low, na=False)
+            ]
 
-            # Parámetros de la UI
-            n      = int(request.args.get('n', 20))
-            order  = (request.args.get('order') or col_rate).lower()
-            q      = (request.args.get('q') or '').strip()          # filtro contiene
-            id_ex  = (request.args.get('id') or '').strip()         # ID exacto
+        # Orden
+        if orden == "mejor":
+            df_filtrado = df_filtrado.sort_values(
+                ["promedio_calificacion", "n_resenas"],
+                ascending=[False, False],
+                na_position="last"
+            )
+        elif orden == "peor":
+            df_filtrado = df_filtrado.sort_values(
+                ["promedio_calificacion", "n_resenas"],
+                ascending=[True, False],
+                na_position="last"
+            )
+        elif orden == "mas_resenas":
+            df_filtrado = df_filtrado.sort_values(
+                ["n_resenas", "promedio_calificacion"],
+                ascending=[False, False],
+                na_position="last"
+            )
+        elif orden == "menos_resenas":
+            df_filtrado = df_filtrado.sort_values(
+                ["n_resenas", "promedio_calificacion"],
+                ascending=[True, False],
+                na_position="last"
+            )
 
-            df = v.copy()
+        # Datos tabla
+        registros = df_filtrado.to_dict(orient="records")
 
-            # Filtro contiene (q)
-            if q:
-                df = df[df[col_id].astype(str).str.contains(q, case=False, na=False)]
+        # Datos para gráficas (top 20 por rating & por reseñas)
+        top_rating = df_filtrado.head(20)
+        top_resenas = df_filtrado.sort_values("n_resenas", ascending=False).head(20)
 
-            # ----- Vista DETALLE del carro (id exacto)
-            if id_ex:
-                df_car = v[v[col_id].astype(str) == id_ex]
-                if not len(df_car):
-                    notas.append(f"⚠️ No encontré el id '{id_ex}' en {col_id}.")
-                else:
-                    row = df_car.iloc[0]
-                    # Gráfica 1: barra del rating del carro (0..5)
-                    charts['fig1'] = px.bar(
-                        pd.DataFrame({
-                            'métrica':['promedio_calificacion'],
-                            'valor':[row[col_rate]]
-                        }),
-                        x='métrica', y='valor',
-                        title=f'Carro {id_ex} — Promedio de calificación'
-                    ).update_yaxes(range=[0,5]).to_html(full_html=False, include_plotlyjs='cdn')
+        return render_template(
+            "dashboard.html",
+            vista="vehiculos",
+            total_autos=len(df),
+            vehiculos=registros,
+            search=q,
+            orden=orden,
+            # gráfica top rating
+            veh_chart_labels=[str(v) for v in top_rating["vehiculo_label"]],
+            veh_chart_scores=[float(v) for v in top_rating["promedio_calificacion"]],
+            veh_chart_resenas=[int(v) for v in top_rating["n_resenas"]],
+            # gráfica top reseñas
+            veh_resenas_labels=[str(v) for v in top_resenas["vehiculo_label"]],
+            veh_resenas_counts=[int(v) for v in top_resenas["n_resenas"]],
+        )
 
-                    # Gráfica 2: comparación de conteos
-                    comp = pd.DataFrame({
-                        'métrica':['n_calificaciones','n_resenas'],
-                        'valor':[row[col_nc] if col_nc in v.columns else 0,
-                                row[col_nr] if col_nr in v.columns else 0]
-                    })
-                    charts['fig2'] = px.bar(
-                        comp, x='métrica', y='valor',
-                        title=f'Carro {id_ex} — Volumen (calificaciones vs reseñas)'
-                    ).to_html(full_html=False, include_plotlyjs=False)
+    # ----------------------------------
+    # VISTA CALIFICACIONES
+    # ----------------------------------
+    elif vista == "calificaciones":
+        df = cargar_calificaciones()
+        col_est = df["_col_estrellas"].iloc[0]
+        col_fecha = df["_col_fecha"].iloc[0]
 
-                    # Ranking del carro en el total por dos criterios
-                    df_rank_r = v.sort_values(col_rate, ascending=False).reset_index(drop=True)
-                    pos_rate = int(df_rank_r.index[df_rank_r[col_id].astype(str)==id_ex][0]) + 1
-                    df_rank_c = v.sort_values(col_nc if col_nc in v.columns else col_rate, ascending=False).reset_index(drop=True)
-                    pos_cnt  = int(df_rank_c.index[df_rank_c[col_id].astype(str)==id_ex][0]) + 1
-                    notas.append(f"Ranking por promedio: #{pos_rate} de {len(v)} — Ranking por conteo: #{pos_cnt} de {len(v)}")
+        total_calif = len(df)
+        promedio_global = round(float(df["estrellas_num"].mean()), 2)
 
-                    # Tabla con la fila del carro
-                    cols = [c for c in [col_id, col_rate, col_nc, col_nr] if c in v.columns]
-                    table_title = f"Detalle — id {id_ex}"
-                    table_html  = df_car[cols].to_html(index=False, classes="grid")
+        # Distribución 1–5
+        dist = (
+            df["estrellas_num"]
+            .round()
+            .value_counts()
+            .reindex([1, 2, 3, 4, 5], fill_value=0)
+            .sort_index()
+        )
+        dist_labels = [int(x) for x in dist.index]
+        dist_values = [int(v) for v in dist.values]
 
-            # ----- Vista TOP (sin id exacto)
-            if not id_ex:
-                # Orden
-                if order in df.columns:
-                    df = df.sort_values(order, ascending=False)
-                else:
-                    df = df.sort_values(col_rate, ascending=False)
+        # Calificaciones por mes (conteo y promedio)
+        mes_labels = []
+        mes_count = []
+        mes_avg = []
+        if col_fecha is not None:
+            df_valid = df.dropna(subset=[col_fecha])
+            if not df_valid.empty:
+                df_valid["anio_mes"] = df_valid[col_fecha].dt.to_period("M").astype(str)
+                g = (
+                    df_valid.groupby("anio_mes")["estrellas_num"]
+                    .agg(["size", "mean"])
+                    .reset_index()
+                    .sort_values("anio_mes")
+                )
+                mes_labels = g["anio_mes"].tolist()
+                mes_count = [int(v) for v in g["size"].tolist()]
+                mes_avg = [round(float(v), 2) for v in g["mean"].tolist()]
 
-                df_top = df.head(n).copy()
-                df_top['vehiculo_label'] = df_top[col_id].astype(str)
+        return render_template(
+            "dashboard.html",
+            vista="calificaciones",
+            total_calif=total_calif,
+            promedio_global=promedio_global,
+            dist_labels=dist_labels,
+            dist_values=dist_values,
+            mes_labels=mes_labels,
+            mes_count=mes_count,
+            mes_avg=mes_avg,
+        )
 
-                charts['fig1'] = px.bar(
-                    df_top, x='vehiculo_label', y=col_rate,
-                    title=f'Top {n} vehículos — orden: {order}',
-                ).to_html(full_html=False, include_plotlyjs='cdn')
+    # ----------------------------------
+    # VISTA RESEÑAS (TOP USUARIOS)
+    # ----------------------------------
+    elif vista == "reseñas":
+        df = cargar_resenas()
 
-                # Tabla (listado actual filtrado por q)
-                cols = [c for c in [col_id, col_rate, col_nc, col_nr] if c in v.columns]
-                table_title = f"Vehículos (total: {len(df)})"
-                table_html  = df[cols].to_html(index=False, classes="grid")
+        # Agrupar por usuario
+        g = (
+            df.groupby("username")["comentario"]
+            .agg(["size"])
+            .reset_index()
+            .rename(columns={"size": "n_resenas"})
+            .sort_values("n_resenas", ascending=False)
+        )
 
-            notas.append("TIP: en Vehículos usa ?id=11213 para ver el detalle exacto, o ?q=112 para filtrar por contiene.")
+        total_resenas = len(df)
+        total_usuarios = g["username"].nunique()
+        promedio_resenas_usuario = round(float(total_resenas / max(total_usuarios, 1)), 2)
 
-    # ========== RESEÑAS (sin cambios) ==========
-    elif vista == 'resenas':
-        d, pdaily = load_csv_safe('resenas_diarias.csv')
-        if d is not None and len(d):
-            files.append(('resenas_diarias.csv', mtime_str(pdaily)))
-            xcol = pick_col(d, ['fecha_d', 'fecha', 'date', 'dia'])
-            ycol = pick_col(d, ['n_resenas', 'n', 'count'])
-            if xcol and ycol:
-                try:
-                    d[xcol] = pd.to_datetime(d[xcol])
-                except Exception:
-                    pass
-                charts['fig1'] = px.line(
-                    d, x=xcol, y=ycol, markers=True, title='Reseñas por día'
-                ).to_html(full_html=False, include_plotlyjs='cdn')
-        u, pu = load_csv_safe('usuarios_agg.csv')
-        if u is not None and len(u):
-            files.append(('usuarios_agg.csv', mtime_str(pu)))
-            n = int(request.args.get('n', 10))
-            user_q = (request.args.get('user') or '').strip()
-            col_user = pick_col(u, ['usuario', 'username', 'user'])
-            col_nu   = pick_col(u, ['n_resenas', 'n', 'count'])
-            if col_user and col_nu:
-                uf = u.copy()
-                if user_q:
-                    uf = uf[uf[col_user].astype(str).str.contains(user_q, case=False, na=False)]
-                uf = uf.sort_values(col_nu, ascending=False)
-                charts['fig2'] = px.bar(
-                    uf.head(n), x=col_user, y=col_nu, title=f"Top {n} usuarios por reseñas"
-                ).to_html(full_html=False, include_plotlyjs=False)
-                table_title = f"Usuarios — {'filtrados' if user_q else 'todos'} (total: {len(uf)})"
-                table_html  = uf[[col_user, col_nu]].to_html(index=False, classes="grid")
-        notas.append("Para actualizar esta vista: VISTA=resenas  python3 analisis_spark.py")
+        top_users = g.head(20)
 
-    # ---------------------------------------
-    return render_template(
-        'dashboard.html',
-        vista=vista, charts=charts, notas=notas, files=files,
-        table_title=table_title, table_html=table_html
-    )
+        return render_template(
+            "dashboard.html",
+            vista="reseñas",
+            total_resenas=total_resenas,
+            total_usuarios=total_usuarios,
+            promedio_resenas_usuario=promedio_resenas_usuario,
+            usuarios=top_users.to_dict(orient="records"),
+            res_users_labels=top_users["username"].tolist(),
+            res_users_counts=[int(v) for v in top_users["n_resenas"].tolist()],
+        )
 
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8081, debug=False)
+    # fallback
+    return "Vista no soportada", 400
+
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=8081, debug=False)

@@ -1,0 +1,5001 @@
+vehiculo_label,modelo,promedio_calificacion,n_resenas
+Acura MDX Type S,5.0,5.0,1
+Acura TLX A-Spec,5.0,5.0,1
+Acura RDX Base,5.0,5.0,1
+Acura TLX V6 Technology & A-Spec,5.0,5.0,1
+Acura TLX FWD,5.0,5.0,1
+Acura MDX Technology,5.0,5.0,1
+Acura MDX 3.5L,5.0,5.0,1
+Acura TLX Type S,5.0,5.0,1
+Acura ILX 2.4L,5.0,5.0,1
+Acura MDX Sport Hybrid 3.0L w/Technology Package,5.0,5.0,1
+Acura MDX 3.5L w/Technology Package,5.0,5.0,1
+Acura MDX 3.5L w/Technology Package,5.0,5.0,1
+Acura TLX Technology & A-Spec,5.0,5.0,1
+Acura TSX Technology,5.0,5.0,1
+Acura TLX V6 Tech,5.0,5.0,1
+Acura TLX Technology,5.0,5.0,1
+Acura TLX V6 w/Technology Package,5.0,5.0,1
+Acura ILX 2.0L w/Premium Package,5.0,5.0,1
+Acura TLX V6 A-Spec,5.0,5.0,1
+Acura TLX FWD,5.0,5.0,1
+Acura RDX Advance Package,5.0,5.0,1
+Acura TLX A-Spec,5.0,5.0,1
+Acura TLX V6 w/Technology Package,5.0,5.0,1
+Acura TLX Technology,5.0,5.0,1
+Acura MDX 3.5L w/Technology Package,5.0,5.0,1
+Acura RDX A-Spec,5.0,5.0,1
+Acura TLX V6 w/Technology Package,5.0,5.0,1
+Acura MDX Technology,5.0,5.0,1
+Acura NSX Base,5.0,5.0,1
+Acura TLX A-Spec,5.0,5.0,1
+Acura TLX Tech,5.0,5.0,1
+Acura RDX Advance Package,5.0,5.0,1
+Acura RDX Base,5.0,5.0,1
+Acura TLX Technology,5.0,5.0,1
+Acura MDX 3.5L w/Technology Package,5.0,5.0,1
+Acura MDX Advance,5.0,5.0,1
+Acura RDX Base,5.0,5.0,1
+Acura MDX 3.5L w/Technology Package,5.0,5.0,1
+Acura MDX 3.5L,5.0,5.0,1
+Acura RDX Technology Package,5.0,5.0,1
+Acura TLX V6 w/Advance Package,5.0,5.0,1
+Acura MDX Technology,5.0,5.0,1
+Acura MDX Advance,5.0,5.0,1
+Acura TL Technology,5.0,5.0,1
+Acura MDX A-Spec,5.0,5.0,1
+Acura RDX A-Spec,5.0,5.0,1
+Acura RDX Technology Package,5.0,5.0,1
+Acura RDX Base,5.0,5.0,1
+Acura MDX Advance,5.0,5.0,1
+Acura RDX Technology Package,5.0,5.0,1
+Acura MDX Advance,5.0,5.0,1
+Acura RDX Base,5.0,5.0,1
+Acura TLX Technology,5.0,5.0,1
+Acura TLX A-Spec,5.0,5.0,1
+Acura RDX A-Spec,5.0,5.0,1
+Acura MDX Technology,5.0,5.0,1
+Acura MDX Technology,5.0,5.0,1
+Acura TLX V6 w/Technology Package,5.0,5.0,1
+Acura MDX 3.5L Technology & A-Spec Pkgs,5.0,5.0,1
+Acura RDX Technology Package,5.0,5.0,1
+Acura MDX,5.0,5.0,1
+Acura TLX Type S PMC Edition,5.0,5.0,1
+Acura RDX Base,5.0,5.0,1
+BMW X3 M40i,5.0,5.0,1
+BMW M850 Gran Coupe i xDrive,5.0,5.0,1
+BMW X5 M50i,5.0,5.0,1
+BMW iX xDrive50,5.0,5.0,1
+BMW M8 Gran Coupe Competition Gran Coupe,5.0,5.0,1
+BMW X1 xDrive28i,5.0,5.0,1
+BMW 330e xDrive,5.0,5.0,1
+BMW X5 xDrive40i,5.0,5.0,1
+BMW 760 760i xDrive,5.0,5.0,1
+BMW 530e 530e,5.0,5.0,1
+BMW X7 xDrive40i,5.0,5.0,1
+BMW X3 M40i,5.0,5.0,1
+BMW X5 sDrive40i,5.0,5.0,1
+BMW X3 xDrive30i,5.0,5.0,1
+BMW 328 i,5.0,5.0,1
+BMW 540 i xDrive,5.0,5.0,1
+BMW X6 M Base,5.0,5.0,1
+BMW M8 Gran Coupe Competition Gran Coupe,5.0,5.0,1
+BMW 530 i,5.0,5.0,1
+BMW M550 i xDrive,5.0,5.0,1
+BMW 340 i xDrive,5.0,5.0,1
+BMW X7 M60i,5.0,5.0,1
+BMW 740 i,5.0,5.0,1
+BMW X5 M50i,5.0,5.0,1
+BMW X4 xDrive30i,5.0,5.0,1
+BMW X3 xDrive30i,5.0,5.0,1
+BMW X4 M AWD,5.0,5.0,1
+BMW 540 i,5.0,5.0,1
+BMW 320 i xDrive,5.0,5.0,1
+BMW X3 sDrive30i,5.0,5.0,1
+BMW X6 M50i,5.0,5.0,1
+BMW 325 iC,5.0,5.0,1
+BMW M8 Base,5.0,5.0,1
+BMW X3 sDrive30i,5.0,5.0,1
+BMW 530 i,5.0,5.0,1
+BMW X7 xDrive40i,5.0,5.0,1
+BMW 650 i,5.0,5.0,1
+BMW X4 xDrive30i,5.0,5.0,1
+BMW X6 xDrive40i,5.0,5.0,1
+BMW M4 Base,5.0,5.0,1
+BMW X3 sDrive30i,5.0,5.0,1
+BMW 535 i xDrive,5.0,5.0,1
+BMW 650 Gran Coupe i xDrive,5.0,5.0,1
+BMW M4 Base,5.0,5.0,1
+BMW M6 Base,5.0,5.0,1
+BMW M5 Competition,5.0,5.0,1
+BMW 330 i,5.0,5.0,1
+BMW X4 xDrive30i,5.0,5.0,1
+BMW X4 M SPORTS ACTIVITY,5.0,5.0,1
+BMW 535 i,5.0,5.0,1
+BMW 530 i,5.0,5.0,1
+BMW 528 i xDrive,5.0,5.0,1
+BMW 760 760i xDrive,5.0,5.0,1
+BMW 530e 530e,5.0,5.0,1
+BMW 430 i,5.0,5.0,1
+BMW 330 i,5.0,5.0,1
+BMW 650 Gran Coupe i xDrive,5.0,5.0,1
+BMW 430 Gran Coupe i xDrive,5.0,5.0,1
+BMW 528 i xDrive,5.0,5.0,1
+BMW M850 i xDrive,5.0,5.0,1
+BMW 328 i,5.0,5.0,1
+BMW 328 i,5.0,5.0,1
+BMW X5 xDrive40i,5.0,5.0,1
+BMW M850 Gran Coupe i xDrive,5.0,5.0,1
+BMW X1 xDrive28i,5.0,5.0,1
+BMW X6 xDrive40i,5.0,5.0,1
+BMW M5,5.0,5.0,1
+BMW X7 xDrive40i,5.0,5.0,1
+BMW 330 i xDrive,5.0,5.0,1
+BMW M550 i xDrive,5.0,5.0,1
+BMW 230 i xDrive,5.0,5.0,1
+BMW X1 xDrive28i,5.0,5.0,1
+BMW X3 xDrive30i,5.0,5.0,1
+BMW X2 xDrive28i,5.0,5.0,1
+BMW 550 i xDrive,5.0,5.0,1
+BMW 328 i,5.0,5.0,1
+BMW M240 i xDrive,5.0,5.0,1
+BMW X6 M Base,5.0,5.0,1
+BMW 330 i,5.0,5.0,1
+BMW 750 i xDrive,5.0,5.0,1
+BMW X3 xDrive30i,5.0,5.0,1
+BMW X6 xDrive50i,5.0,5.0,1
+BMW 750 i xDrive,5.0,5.0,1
+BMW 328 i xDrive,5.0,5.0,1
+BMW M340 i xDrive,5.0,5.0,1
+BMW 435 Gran Coupe i xDrive,5.0,5.0,1
+BMW 328 i xDrive,5.0,5.0,1
+BMW 530 i,5.0,5.0,1
+BMW M850 i xDrive,5.0,5.0,1
+BMW M4 Base,5.0,5.0,1
+Chevrolet Silverado 3500 High Country,5.0,5.0,1
+Chevrolet Malibu RS,5.0,5.0,1
+Chevrolet Silverado 1500 RST,5.0,5.0,1
+Chevrolet Bolt EUV Premier,5.0,5.0,1
+Chevrolet Silverado 1500 WT,5.0,5.0,1
+Chevrolet Suburban Premier,5.0,5.0,1
+Chevrolet Trailblazer ACTIV,5.0,5.0,1
+Chevrolet Tahoe LT,5.0,5.0,1
+Chevrolet Silverado 2500 LTZ,5.0,5.0,1
+Chevrolet Bolt EUV LT,5.0,5.0,1
+Chevrolet Silverado 1500 RST,5.0,5.0,1
+Chevrolet Camaro 1LT,5.0,5.0,1
+Chevrolet Suburban Premier,5.0,5.0,1
+Chevrolet Silverado 1500 LTZ,5.0,5.0,1
+Chevrolet Tahoe LT,5.0,5.0,1
+Chevrolet Camaro SS,5.0,5.0,1
+Chevrolet Silverado 2500 High Country,5.0,5.0,1
+Chevrolet Tahoe High Country,5.0,5.0,1
+Chevrolet Colorado WT,5.0,5.0,1
+Chevrolet Silverado 1500 RST,5.0,5.0,1
+Chevrolet Suburban LS,5.0,5.0,1
+Chevrolet Camaro 1LT,5.0,5.0,1
+Chevrolet Camaro 2SS,5.0,5.0,1
+Chevrolet Silverado 2500 Custom,5.0,5.0,1
+Chevrolet Camaro LT1,5.0,5.0,1
+Chevrolet Silverado 1500 RST,5.0,5.0,1
+Chevrolet Silverado 2500 Custom,5.0,5.0,2
+Chevrolet Silverado 2500 Custom,5.0,5.0,2
+Chevrolet Suburban Premier,5.0,5.0,1
+Chevrolet Tahoe LS,5.0,5.0,1
+Chevrolet Tahoe RST,5.0,5.0,1
+Chevrolet Corvette Stingray w/2LT,5.0,5.0,1
+Chevrolet Corvette Stingray w/2LT,5.0,5.0,1
+Chevrolet Traverse LT Cloth,5.0,5.0,1
+Chevrolet Tahoe Z71,5.0,5.0,1
+Chevrolet Traverse LS,5.0,5.0,1
+Chevrolet Colorado Z71,5.0,5.0,1
+Chevrolet Tahoe LS,5.0,5.0,1
+Chevrolet Tahoe Premier,5.0,5.0,1
+Chevrolet Tahoe LT,5.0,5.0,1
+Chevrolet Bolt EUV Premier,5.0,5.0,1
+Chevrolet Silverado 1500 Custom,5.0,5.0,1
+Chevrolet Silverado 2500 Custom,5.0,5.0,1
+Chevrolet Blazer 3LT,5.0,5.0,1
+Chevrolet Silverado 1500 High Country,5.0,5.0,1
+Chevrolet Camaro ZL1,5.0,5.0,1
+Chevrolet Trailblazer RS,5.0,5.0,1
+Chevrolet Equinox RS,5.0,5.0,1
+Chevrolet Colorado Z71,5.0,5.0,1
+Chevrolet Tahoe Z71,5.0,5.0,1
+Chevrolet Impala 1LT,5.0,5.0,1
+Chevrolet Equinox 1LT,5.0,5.0,1
+Chevrolet Silverado 1500 ZR2,5.0,5.0,1
+Chevrolet Silverado 1500 LT Trail Boss,5.0,5.0,1
+Chevrolet Van G10,5.0,5.0,1
+Chevrolet Corvette Z06,5.0,5.0,2
+Chevrolet Corvette Z06,5.0,5.0,2
+Chevrolet Camaro ZL1,5.0,5.0,1
+Chevrolet Trailblazer ACTIV,5.0,5.0,1
+Chevrolet Silverado 1500 LT Trail Boss,5.0,5.0,1
+Chevrolet Tahoe Z71,5.0,5.0,1
+Chevrolet Suburban LT,5.0,5.0,1
+Chevrolet Tahoe Premier,5.0,5.0,1
+Chevrolet Silverado 1500 Custom,5.0,5.0,1
+Chevrolet Express 1500 Explorer Limited SE Conversion Van,5.0,5.0,1
+Chevrolet Tahoe RST,5.0,5.0,1
+Chevrolet Suburban LT,5.0,5.0,1
+Chevrolet Colorado LT,5.0,5.0,1
+Chevrolet Trailblazer LT,5.0,5.0,1
+Chevrolet Tahoe LTZ,5.0,5.0,1
+Chevrolet Impala 1LT,5.0,5.0,1
+Chevrolet Tahoe RST,5.0,5.0,1
+Chevrolet Trailblazer ACTIV,5.0,5.0,1
+Chevrolet Equinox 1LT,5.0,5.0,1
+Chevrolet Silverado 1500 LD LT,5.0,5.0,1
+Chevrolet Trax LT,5.0,5.0,1
+Chevrolet Silverado 1500 RST,5.0,5.0,1
+Chevrolet Camaro 1LT,5.0,5.0,1
+Dodge Challenger R/T Scat Pack,5.0,5.0,1
+Dodge Charger R/T,5.0,5.0,1
+Dodge Grand Caravan SXT,5.0,5.0,1
+Dodge Charger SXT,5.0,5.0,1
+Dodge Charger SXT,5.0,5.0,1
+Dodge Journey SE,5.0,5.0,1
+Dodge Challenger SRT Hellcat,5.0,5.0,1
+Dodge Charger SXT,5.0,5.0,1
+Dodge Challenger R/T Scat Pack,5.0,5.0,1
+Dodge Challenger SRT Hellcat,5.0,5.0,1
+Dodge Charger R/T,5.0,5.0,1
+Dodge Challenger R/T Scat Pack,5.0,5.0,1
+Dodge Durango Limited,5.0,5.0,1
+Dodge Challenger R/T,5.0,5.0,1
+Dodge Durango SXT,5.0,5.0,1
+Dodge Challenger R/T,5.0,5.0,1
+Dodge Durango Limited,5.0,5.0,1
+Dodge Challenger GT,5.0,5.0,1
+Dodge Durango SXT,5.0,5.0,1
+Dodge Durango R/T,5.0,5.0,1
+Dodge Journey Limited,5.0,5.0,1
+Dodge Durango GT,5.0,5.0,1
+Dodge Dart SXT,5.0,5.0,1
+Dodge Charger SE,5.0,5.0,1
+Dodge Durango GT,5.0,5.0,1
+Dodge Durango SRT Hellcat,5.0,5.0,1
+Dodge Challenger R/T,5.0,5.0,1
+Dodge Challenger GT,5.0,5.0,1
+Dodge Challenger R/T,5.0,5.0,1
+Dodge Durango Citadel,5.0,5.0,1
+Dodge Charger SXT,5.0,5.0,1
+Dodge Durango R/T,5.0,5.0,1
+Dodge Challenger R/T Scat Pack,5.0,5.0,1
+Dodge Durango GT,5.0,5.0,1
+Dodge Charger SXT,5.0,5.0,1
+Dodge Durango R/T,5.0,5.0,1
+Dodge Charger R/T,5.0,5.0,1
+Dodge Durango R/T,5.0,5.0,1
+Dodge Challenger R/T Scat Pack,5.0,5.0,1
+Dodge Ram 1500 ST,5.0,5.0,1
+Dodge Challenger R/T,5.0,5.0,1
+Dodge Dart SXT,5.0,5.0,1
+Dodge Durango SXT,5.0,5.0,1
+Dodge Charger SXT,5.0,5.0,1
+Dodge Charger SXT,5.0,5.0,1
+Dodge Challenger R/T,5.0,5.0,1
+Dodge Challenger SXT,5.0,5.0,1
+Dodge Charger SXT,5.0,5.0,1
+Dodge Dakota ST,5.0,5.0,1
+Dodge Challenger R/T,5.0,5.0,1
+Dodge Charger GT,5.0,5.0,1
+Dodge Journey Crossroad,5.0,5.0,1
+Dodge Charger SXT,5.0,5.0,1
+Dodge Durango R/T,5.0,5.0,1
+Dodge Challenger SRT8,5.0,5.0,1
+Dodge Charger GT,5.0,5.0,1
+Dodge Challenger R/T,5.0,5.0,1
+Dodge Charger SXT,5.0,5.0,1
+Dodge Challenger SXT,5.0,5.0,1
+Dodge Durango GT,5.0,5.0,1
+Dodge Durango GT Plus,5.0,5.0,1
+Dodge Durango R/T,5.0,5.0,1
+Ford Explorer Limited,5.0,5.0,1
+Ford Mustang Mach 1,5.0,5.0,1
+Ford F-250 Lariat,5.0,5.0,1
+Ford F-150 XLT,5.0,5.0,1
+Ford F-250 XL,5.0,5.0,1
+Ford Bronco Raptor,5.0,5.0,1
+Ford F-250 XLT,5.0,5.0,1
+Ford Explorer Platinum,5.0,5.0,1
+Ford Bronco Outer Banks,5.0,5.0,1
+Ford Mustang Mach-E Premium,5.0,5.0,1
+Ford F-150 XLT,5.0,5.0,1
+Ford Bronco Outer Banks Advanced,5.0,5.0,1
+Ford Mustang EcoBoost Premium,5.0,5.0,1
+Ford F-350 XL,5.0,5.0,1
+Ford Expedition Max XLT,5.0,5.0,1
+Ford Bronco Black Diamond,5.0,5.0,1
+Ford Bronco Outer Banks Advanced,5.0,5.0,1
+Ford Bronco Outer Banks Advanced,5.0,5.0,1
+Ford Explorer Timberline,5.0,5.0,1
+Ford Explorer Platinum,5.0,5.0,1
+Ford Mustang Mach 1,5.0,5.0,1
+Ford F-150 Lariat,5.0,5.0,1
+Ford Expedition EL Limited,5.0,5.0,1
+Ford Bronco,5.0,5.0,1
+Ford Escape SEL,5.0,5.0,1
+Ford F-150 Lariat,5.0,5.0,1
+Ford Transit Connect XL,5.0,5.0,1
+Ford Explorer ST-Line,5.0,5.0,1
+Ford Mustang Mach-E Premium,5.0,5.0,1
+Hyundai Tucson SEL,5.0,5.0,1
+Hyundai Elantra SEL,5.0,5.0,1
+Hyundai Tucson Hybrid SEL Convenience,5.0,5.0,1
+Hyundai Santa Cruz 2.5T Limited,5.0,5.0,1
+Hyundai Kona N Base,5.0,5.0,1
+Hyundai Palisade XRT,5.0,5.0,1
+Hyundai Elantra SEL,5.0,5.0,1
+Hyundai Elantra SE,5.0,5.0,1
+Hyundai Elantra N Base,5.0,5.0,1
+Hyundai IONIQ 5 SEL,5.0,5.0,1
+Hyundai Palisade Calligraphy,5.0,5.0,1
+Hyundai Palisade SEL,5.0,5.0,1
+Hyundai Elantra HEV Limited,5.0,5.0,1
+Hyundai Palisade SEL,5.0,5.0,1
+Hyundai Accent SE,5.0,5.0,1
+Hyundai Veloster N N,5.0,5.0,1
+Hyundai Palisade SEL,5.0,5.0,1
+Hyundai IONIQ 5 SE,5.0,5.0,1
+Hyundai Kona N Base,5.0,5.0,1
+Hyundai Kona SEL,5.0,5.0,1
+Hyundai Venue SE,5.0,5.0,1
+Hyundai Palisade Calligraphy,5.0,5.0,1
+Hyundai Santa Cruz 2.5T SEL Premium,5.0,5.0,1
+Hyundai IONIQ Hybrid Limited,5.0,5.0,1
+Hyundai Elantra Touring GLS,5.0,5.0,1
+Hyundai Santa Fe Limited 2.4,5.0,5.0,1
+Hyundai Genesis Coupe 2.0T Premium,5.0,5.0,1
+Hyundai Palisade SEL,5.0,5.0,1
+Hyundai Santa Fe SEL,5.0,5.0,1
+Hyundai Sonata SEL,5.0,5.0,1
+Hyundai Palisade Limited,5.0,5.0,1
+Hyundai Tucson Limited,5.0,5.0,1
+Hyundai Tucson SEL,5.0,5.0,1
+Hyundai Santa Fe XRT,5.0,5.0,1
+Hyundai Palisade XRT,5.0,5.0,1
+Hyundai Santa Fe Limited 2.0T,5.0,5.0,1
+Hyundai Sonata SEL,5.0,5.0,1
+Hyundai Palisade SEL,5.0,5.0,1
+Hyundai Elantra GT Base,5.0,5.0,1
+Hyundai Tucson SE Plus,5.0,5.0,1
+Hyundai Palisade SEL,5.0,5.0,1
+Hyundai Palisade Calligraphy,5.0,5.0,1
+Hyundai Palisade Limited,5.0,5.0,1
+Hyundai Veloster Base,5.0,5.0,1
+Hyundai Palisade Calligraphy,5.0,5.0,1
+Hyundai Accent SE,5.0,5.0,1
+Hyundai Kona Ultimate,5.0,5.0,1
+Hyundai Palisade SE,5.0,5.0,1
+Hyundai Sonata Limited,5.0,5.0,1
+Hyundai Palisade Calligraphy,5.0,5.0,1
+Hyundai Accent SEL,5.0,5.0,1
+Hyundai Palisade SEL,5.0,5.0,1
+Hyundai Santa Fe HEV Limited,5.0,5.0,1
+Hyundai Kona N Line,5.0,5.0,1
+Hyundai Kona Limited,5.0,5.0,1
+Hyundai Tucson SE,5.0,5.0,1
+Hyundai Sonata Limited,5.0,5.0,1
+Hyundai Tucson SE,5.0,5.0,1
+Hyundai Santa Fe Sport 2.4L,5.0,5.0,1
+Hyundai Santa Fe SEL,5.0,5.0,1
+Hyundai IONIQ 5 SE Standard Range,5.0,5.0,1
+Hyundai Palisade Limited,5.0,5.0,1
+Hyundai Santa Fe Limited 2.0T,5.0,5.0,1
+Hyundai Tucson SE,5.0,5.0,1
+Hyundai Santa Fe HEV SEL Premium,5.0,5.0,1
+Hyundai Sonata N Line,5.0,5.0,1
+Hyundai Tucson SEL,5.0,5.0,1
+Hyundai Santa Fe SEL,5.0,5.0,1
+Hyundai Santa Fe Calligraphy,5.0,5.0,1
+Hyundai Sonata Hybrid Limited,5.0,5.0,1
+Hyundai Genesis 3.8,5.0,5.0,1
+Hyundai Elantra SEL,5.0,5.0,1
+Hyundai Sonata SEL,5.0,5.0,1
+Hyundai Tucson Sport,5.0,5.0,1
+Hyundai Palisade Calligraphy,5.0,5.0,1
+Hyundai Kona SEL,5.0,5.0,1
+Hyundai Santa Fe SEL,5.0,5.0,1
+Hyundai Sonata Limited,5.0,5.0,1
+Hyundai Sonata Limited 2.0T,5.0,5.0,1
+Hyundai Santa Fe SEL 2.0T,5.0,5.0,1
+Hyundai Tucson Sport,5.0,5.0,1
+Hyundai Tucson SE,5.0,5.0,1
+INFINITI QX60 Luxe,5.0,5.0,1
+INFINITI QX80 Luxe,5.0,5.0,1
+INFINITI Q60 3.0t Red Sport 400,5.0,5.0,1
+INFINITI Q60 3.0t LUXE,5.0,5.0,1
+INFINITI QX80 PREMIUM SELECT,5.0,5.0,1
+INFINITI Q50 RED SPORT 400,5.0,5.0,1
+INFINITI Q50 Base,5.0,5.0,1
+INFINITI QX60 Luxe,5.0,5.0,1
+INFINITI Q45 4dr Sdn,5.0,5.0,1
+INFINITI QX50 SENSORY,5.0,5.0,1
+INFINITI QX60 Luxe,5.0,5.0,1
+INFINITI QX55 SENSORY,5.0,5.0,1
+INFINITI QX50 Luxe,5.0,5.0,1
+INFINITI QX80 Luxe,5.0,5.0,1
+INFINITI QX50 Base,5.0,5.0,1
+INFINITI QX50 Luxe,5.0,5.0,1
+INFINITI Q60 3.0t Red Sport 400,5.0,5.0,1
+INFINITI QX60 Pure,5.0,5.0,1
+INFINITI G25 Base,5.0,5.0,1
+INFINITI QX55 ESSENTIAL,5.0,5.0,1
+INFINITI Q50 3.0t Sport,5.0,5.0,1
+INFINITI G37x Base,5.0,5.0,1
+INFINITI QX55 ESSENTIAL,5.0,5.0,1
+INFINITI QX80 Luxe,5.0,5.0,1
+INFINITI QX50 LUXE,5.0,5.0,1
+INFINITI QX80 Luxe,5.0,5.0,1
+INFINITI Q50 3.0t Sport,5.0,5.0,1
+INFINITI G37 x,5.0,5.0,1
+INFINITI Q60 3.0t LUXE,5.0,5.0,1
+INFINITI QX80 Base,5.0,5.0,1
+INFINITI Q50 3.0t Red Sport 400,5.0,5.0,1
+INFINITI QX80 Luxe,5.0,5.0,1
+INFINITI QX80 PREMIUM SELECT,5.0,5.0,1
+INFINITI QX4,5.0,5.0,1
+INFINITI QX55 LUXE,5.0,5.0,1
+INFINITI QX80 Base,5.0,5.0,1
+INFINITI QX60 Luxe,5.0,5.0,1
+INFINITI QX80 Base,5.0,5.0,1
+INFINITI Q50 3.0t Sport,5.0,5.0,1
+INFINITI Q50 SENSORY,5.0,5.0,1
+INFINITI QX50 Luxe,5.0,5.0,1
+INFINITI Q60 3.0t Red Sport 400,5.0,5.0,1
+INFINITI QX55 SENSORY,5.0,5.0,1
+INFINITI QX56 Base,5.0,5.0,1
+INFINITI Q50 3.0t Signature Edition,5.0,5.0,1
+INFINITI EX35 Journey,5.0,5.0,1
+INFINITI Q60 LUXE,5.0,5.0,1
+INFINITI QX50 AUTOGRAPH,5.0,5.0,1
+INFINITI QX80 Luxe,5.0,5.0,1
+INFINITI QX50 ESSENTIAL,5.0,5.0,1
+INFINITI QX80 Base,5.0,5.0,1
+INFINITI QX55 ESSENTIAL,5.0,5.0,1
+INFINITI G25x Base,5.0,5.0,1
+INFINITI QX56 Base,5.0,5.0,1
+INFINITI QX80 SENSORY,5.0,5.0,1
+INFINITI QX80 Luxe,5.0,5.0,1
+INFINITI QX55 ESSENTIAL,5.0,5.0,1
+INFINITI QX60 SENSORY,5.0,5.0,1
+INFINITI QX60 Luxe,5.0,5.0,1
+INFINITI QX80 Luxe,5.0,5.0,1
+INFINITI QX50 Base,5.0,5.0,1
+INFINITI QX50 ESSENTIAL,5.0,5.0,1
+INFINITI QX80 Luxe,5.0,5.0,1
+INFINITI QX60 Luxe,5.0,5.0,1
+INFINITI Q50 3.0t LUXE,5.0,5.0,1
+INFINITI Q50 3.0t LUXE,5.0,5.0,1
+Lexus RX 350h Luxury,5.0,5.0,1
+Lexus IS 350 F Sport,5.0,5.0,1
+Lexus IS 500 F SPORT Performance,5.0,5.0,1
+Lexus ES 300h Base,5.0,5.0,1
+Lexus GX 460 Base,5.0,5.0,1
+Lexus RX 350 F SPORT Handling,5.0,5.0,1
+Lexus LC 500,5.0,5.0,1
+Lexus ES 300h Base,5.0,5.0,1
+Lexus ES 300h Base,5.0,5.0,1
+Lexus IS 350 F Sport,5.0,5.0,1
+Lexus NX 300 F Sport,5.0,5.0,1
+Lexus RX 350 Base,5.0,5.0,1
+Lexus RX 350h Premium Plus,5.0,5.0,1
+Lexus IS 350 F Sport,5.0,5.0,1
+Lexus RX 350 Base,5.0,5.0,1
+Lexus GS 350 F Sport,5.0,5.0,1
+Lexus LS 500h Base,5.0,5.0,1
+Lexus RX 350 Base,5.0,5.0,1
+Lexus UX 250h Base,5.0,5.0,1
+Lexus RX 350L Premium,5.0,5.0,1
+Lexus GX 460 Luxury,5.0,5.0,1
+Lexus ES 300h Base,5.0,5.0,1
+Lexus GX 460 Base,5.0,5.0,1
+Lexus GX 460 GX 460 Premium,5.0,5.0,1
+Lexus LS 500 LS 500,5.0,5.0,1
+Lexus LX 570 570,5.0,5.0,1
+Lexus GS 350 Base,5.0,5.0,1
+Lexus UX 250h F SPORT Design,5.0,5.0,1
+Lexus LS 460 Base,5.0,5.0,1
+Lexus GX 460 Base,5.0,5.0,1
+Lexus NX 300 F Sport,5.0,5.0,1
+Lexus GX 460 Premium,5.0,5.0,1
+Lexus RC 350 Base,5.0,5.0,1
+Lexus RC 300 Base,5.0,5.0,1
+Lexus GX 460 Base,5.0,5.0,1
+Lexus ES 300h,5.0,5.0,1
+Lexus RC 300 Base,5.0,5.0,1
+Lexus ES 300h 300H,5.0,5.0,1
+Lexus RX 350 Base,5.0,5.0,1
+Lexus UX 250h Base,5.0,5.0,1
+Lexus RC 350 Base,5.0,5.0,1
+Lexus GS 350 Base,5.0,5.0,1
+Lexus NX 350h,5.0,5.0,1
+Lexus RX 350L Premium,5.0,5.0,1
+Lexus IS 350 F Sport,5.0,5.0,1
+Lexus GX 460 Base,5.0,5.0,1
+Lexus RX 350L Premium,5.0,5.0,1
+Lexus LX 570 Three-Row,5.0,5.0,1
+Lexus IS 250 Base,5.0,5.0,1
+Lexus ES 350,5.0,5.0,1
+Lexus ES 350 Base,5.0,5.0,1
+Lexus RX 350 Base,5.0,5.0,1
+Lexus UX 250h 250H,5.0,5.0,1
+Lexus GS 200t 200T,5.0,5.0,1
+Lexus RC 350 F Sport,5.0,5.0,1
+Lexus ES 300h Base,5.0,5.0,1
+Lexus NX 300,5.0,5.0,1
+Lexus IS 250 Base,5.0,5.0,1
+Lexus IS 250 Crafted Line,5.0,5.0,1
+Lexus NX 200t Base,5.0,5.0,1
+Lexus CT 200h Premium,5.0,5.0,1
+Lexus GX 460 Luxury,5.0,5.0,1
+Lexus NX 200t F Sport,5.0,5.0,1
+Lexus ES 350,5.0,5.0,1
+Lexus ES 350 F Sport,5.0,5.0,1
+Lexus UX 250h UX 250h Premium,5.0,5.0,1
+Lexus GX 470 Base,5.0,5.0,1
+Lexus NX 300 NX 300,5.0,5.0,1
+Lexus ES 300h Luxury,5.0,5.0,1
+Lexus IS 200t Base,5.0,5.0,1
+Lexus GX 460 Luxury,5.0,5.0,1
+Lexus ES 300h Base,5.0,5.0,1
+Lexus RX 350 Base,5.0,5.0,1
+Lexus GS 200t F Sport,5.0,5.0,1
+Lexus GX 460 Luxury,5.0,5.0,1
+Lexus GS 300,5.0,5.0,1
+Lexus ES 350 Base,5.0,5.0,1
+Lexus RX 350,5.0,5.0,1
+Lexus RX 350 350,5.0,5.0,1
+Lexus RX 450h F SPORT Handling,5.0,5.0,1
+Lexus LS 500,5.0,5.0,1
+Lexus IS 250,5.0,5.0,1
+Lexus NX 300 F Sport,5.0,5.0,1
+Lexus LS 460 L,5.0,5.0,1
+Lexus RX 350L Premium,5.0,5.0,1
+Lexus IS 350 F Sport,5.0,5.0,1
+Lexus RX 350 350,5.0,5.0,1
+Lexus RC 350 Base,5.0,5.0,1
+Mercedes-Benz Sprinter 2500 High Roof,5.0,5.0,1
+Mercedes-Benz E-Class E 350,5.0,5.0,1
+Mercedes-Benz S-Class S 580 4MATIC,5.0,5.0,1
+Mercedes-Benz S-Class S 500 4MATIC,5.0,5.0,1
+Mercedes-Benz E-Class E 450,5.0,5.0,1
+Mercedes-Benz EQS 450 Base 4MATIC,5.0,5.0,1
+Mercedes-Benz GLS 450 4MATIC,5.0,5.0,1
+Mercedes-Benz S-Class S 500 4MATIC,5.0,5.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,5.0,5.0,1
+Mercedes-Benz Sprinter 3500XD High Roof,5.0,5.0,1
+Mercedes-Benz GLE 350 Base,5.0,5.0,1
+Mercedes-Benz Sprinter 2500 High Roof,5.0,5.0,1
+Mercedes-Benz E-Class E 450,5.0,5.0,1
+Mercedes-Benz AMG GLC 43 GLC 43 AMG 4MATIC,5.0,5.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,5.0,5.0,1
+Mercedes-Benz S-Class S 580 4MATIC,5.0,5.0,1
+Mercedes-Benz AMG SL 63 Base,5.0,5.0,1
+Mercedes-Benz AMG GLA 45 Base,5.0,5.0,1
+Mercedes-Benz AMG GLC 43 GLC 43 AMG 4MATIC,5.0,5.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,5.0,5.0,1
+Mercedes-Benz AMG SL 63 Base,5.0,5.0,1
+Mercedes-Benz S-Class S 580 4MATIC,5.0,5.0,1
+Mercedes-Benz C-Class C 300 4MATIC,5.0,5.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,5.0,5.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,5.0,5.0,1
+Mercedes-Benz E-Class E 350,5.0,5.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,5.0,5.0,1
+Mercedes-Benz EQS 450+ Base,5.0,5.0,1
+Mercedes-Benz AMG GLA 45 Base,5.0,5.0,1
+Mercedes-Benz C-Class C 300 4MATIC,5.0,5.0,1
+Mercedes-Benz S-Class S 580 4MATIC,5.0,5.0,1
+Mercedes-Benz AMG SL 63 SL 63 AMG 4MATIC,5.0,5.0,1
+Mercedes-Benz S-Class S 500 4MATIC,5.0,5.0,1
+Mercedes-Benz E-Class E 350,5.0,5.0,1
+Mercedes-Benz S-Class S 580 4MATIC,5.0,5.0,1
+Mercedes-Benz GLC 300 Base,5.0,5.0,1
+Mercedes-Benz S-Class S 580 4MATIC,5.0,5.0,1
+Mercedes-Benz AMG GLE 53 Base,5.0,5.0,1
+Mercedes-Benz Sprinter 2500 144 WB,5.0,5.0,1
+Mercedes-Benz S-Class S 580 4MATIC,5.0,5.0,1
+Mercedes-Benz AMG GT 53 Base,5.0,5.0,1
+Mercedes-Benz AMG SL 63 Base,5.0,5.0,1
+Mercedes-Benz E-Class E 450,5.0,5.0,1
+Mercedes-Benz GLC 300 Base 4MATIC,5.0,5.0,1
+Mercedes-Benz GLC 300 Base,5.0,5.0,1
+Mercedes-Benz S-Class S 500 4MATIC,5.0,5.0,1
+Mercedes-Benz S-Class S 500 4MATIC,5.0,5.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,5.0,5.0,1
+Mercedes-Benz S-Class S 580 4MATIC,5.0,5.0,1
+Mercedes-Benz GLS 450 4MATIC,5.0,5.0,1
+Mercedes-Benz S-Class S 580 4MATIC,5.0,5.0,1
+Mercedes-Benz AMG GLA 45 Base,5.0,5.0,1
+Mercedes-Benz Sprinter 2500 High Roof,5.0,5.0,1
+Mercedes-Benz GLB 250 Base 4MATIC,5.0,5.0,1
+Mercedes-Benz GLC 300 Base,5.0,5.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,5.0,5.0,1
+Mercedes-Benz AMG E 53 Base 4MATIC,5.0,5.0,1
+Mercedes-Benz E-Class E 350,5.0,5.0,1
+Mercedes-Benz GLS 450 4MATIC,5.0,5.0,1
+Mercedes-Benz S-Class S 580 4MATIC,5.0,5.0,1
+Mercedes-Benz GLC 300 Base,5.0,5.0,1
+Mercedes-Benz EQE 350 Base 4MATIC,5.0,5.0,1
+Mercedes-Benz GLE 350 Base 4MATIC,5.0,5.0,1
+Mercedes-Benz Sprinter 3500 High Roof,5.0,5.0,1
+Mercedes-Benz S-Class S 500 4MATIC,5.0,5.0,1
+Mercedes-Benz E-Class E 350 4MATIC,5.0,5.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,5.0,5.0,1
+Mercedes-Benz C-Class C 300 4MATIC,5.0,5.0,1
+Mercedes-Benz AMG GT 53 Base,5.0,5.0,1
+Mercedes-Benz S-Class S 580 4MATIC,5.0,5.0,1
+Mercedes-Benz E-Class E 350,5.0,5.0,1
+Mercedes-Benz GLC 300 Base 4MATIC,5.0,5.0,1
+Mercedes-Benz S-Class S 580 4MATIC,5.0,5.0,1
+Mercedes-Benz E-Class E 350,5.0,5.0,1
+Mercedes-Benz GLS 450 4MATIC,5.0,5.0,1
+Mercedes-Benz S-Class S 500 4MATIC,5.0,5.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,5.0,5.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,5.0,5.0,1
+Mercedes-Benz EQS 580 Base 4MATIC,5.0,5.0,1
+Mercedes-Benz GLC 300 Base,5.0,5.0,1
+Mercedes-Benz E-Class E 350 4MATIC,5.0,5.0,1
+Mercedes-Benz E-Class E 450,5.0,5.0,2
+Mercedes-Benz E-Class E 450,5.0,5.0,2
+Mercedes-Benz GLE 350 Base 4MATIC,5.0,5.0,1
+Mercedes-Benz EQS 450+ EQS 450+,5.0,5.0,1
+Mercedes-Benz EQS 450 Base 4MATIC,5.0,5.0,1
+Mercedes-Benz E-Class E 350,5.0,5.0,1
+Mercedes-Benz S-Class S 500 4MATIC,5.0,5.0,1
+Mercedes-Benz Sprinter 2500 High Roof,5.0,5.0,1
+Mercedes-Benz S-Class S 580 4MATIC,5.0,5.0,1
+Mercedes-Benz EQS 450+ EQS 450+,5.0,5.0,1
+Porsche 718 Cayman Base,5.0,5.0,1
+Porsche 718 Cayman S,5.0,5.0,1
+Porsche Cayenne,5.0,5.0,1
+Porsche Taycan Cross Turismo 4,5.0,5.0,1
+Porsche Cayman GTS,5.0,5.0,1
+Porsche 928 S,5.0,5.0,1
+Porsche Panamera Sport Turismo 4S,5.0,5.0,1
+Porsche 911 Carrera S,5.0,5.0,1
+Porsche Panamera 4S,5.0,5.0,1
+Porsche 911 Turbo,5.0,5.0,1
+Porsche Cayenne Base,5.0,5.0,1
+Porsche Macan GTS,5.0,5.0,1
+Porsche Macan S,5.0,5.0,1
+Porsche Taycan 4S,5.0,5.0,1
+Porsche Cayenne Base,5.0,5.0,1
+Porsche Cayenne GTS,5.0,5.0,1
+Porsche Macan Base,5.0,5.0,1
+Porsche Panamera GTS,5.0,5.0,1
+Porsche Panamera Base,5.0,5.0,1
+Porsche 911 Turbo S,5.0,5.0,1
+Porsche 911 Carrera,5.0,5.0,1
+Porsche Cayenne E-Hybrid Coupe Turbo S,5.0,5.0,1
+Porsche Panamera GTS,5.0,5.0,1
+Porsche Cayenne Base,5.0,5.0,1
+Porsche 911 Carrera S,5.0,5.0,1
+Porsche Boxster S,5.0,5.0,1
+Porsche Cayenne S,5.0,5.0,1
+Porsche 911 Targa 4,5.0,5.0,1
+Porsche 718 Boxster S,5.0,5.0,1
+Porsche Macan GTS,5.0,5.0,1
+Porsche Macan Base,5.0,5.0,1
+Porsche Cayenne Turbo,5.0,5.0,1
+Porsche Cayenne Base,5.0,5.0,1
+Porsche Boxster S,5.0,5.0,1
+Porsche 911 Carrera,5.0,5.0,1
+Porsche Boxster Base,5.0,5.0,1
+Porsche Taycan 4S,5.0,5.0,1
+Porsche Macan Base,5.0,5.0,1
+Porsche Cayman S,5.0,5.0,1
+Porsche 911 Carrera 4S,5.0,5.0,1
+Porsche Taycan Turbo,5.0,5.0,1
+Porsche 911 Carrera,5.0,5.0,1
+Porsche Cayenne Base,5.0,5.0,1
+Porsche 911 Carrera,5.0,5.0,1
+Porsche Cayenne Base,5.0,5.0,1
+Porsche Macan Base,5.0,5.0,1
+Porsche Cayenne Turbo S,5.0,5.0,1
+Porsche 914,5.0,5.0,1
+Porsche Macan Base,5.0,5.0,1
+Porsche 911 GT3 RS,5.0,5.0,1
+Porsche Cayman Base,5.0,5.0,1
+Porsche Macan S,5.0,5.0,1
+Porsche 718 Boxster Base,5.0,5.0,1
+Porsche Macan GTS,5.0,5.0,1
+Porsche Cayenne E-Hybrid Turbo S,5.0,5.0,1
+Porsche Macan Base,5.0,5.0,1
+Porsche 911 Carrera Cabriolet,5.0,5.0,1
+Porsche Cayman GT4,5.0,5.0,1
+Porsche Macan Sport Edition,5.0,5.0,1
+Porsche Cayenne Platinum Edition,5.0,5.0,1
+Porsche 911 Carrera S,5.0,5.0,1
+Porsche Cayenne S,5.0,5.0,1
+Porsche 911 Turbo S,5.0,5.0,1
+Porsche Boxster Base (M5),5.0,5.0,1
+Porsche Cayenne S,5.0,5.0,1
+Porsche 911 Carrera,5.0,5.0,1
+Porsche Boxster Base,5.0,5.0,1
+Porsche Boxster,5.0,5.0,1
+Porsche Macan,5.0,5.0,1
+Porsche 911 GT3 RS,5.0,5.0,1
+Porsche Macan,5.0,5.0,1
+Porsche 911 GT3,5.0,5.0,1
+Porsche Macan Base,5.0,5.0,1
+Porsche Macan,5.0,5.0,1
+Porsche 911 Targa 4 GTS,5.0,5.0,1
+Porsche 718 Cayman GT4,5.0,5.0,1
+Porsche Macan Base,5.0,5.0,1
+Porsche Panamera E-Hybrid 4,5.0,5.0,1
+Porsche Macan,5.0,5.0,1
+Porsche Panamera E-Hybrid S,5.0,5.0,1
+Porsche 911 Carrera 4S,5.0,5.0,1
+Porsche Cayenne,5.0,5.0,1
+Porsche Macan Base,5.0,5.0,1
+Porsche Cayenne Base,5.0,5.0,1
+Tesla Model S Plaid,5.0,5.0,1
+Tesla Model S Long Range,5.0,5.0,1
+Tesla Model 3 Performance,5.0,5.0,1
+Tesla Model 3 Long Range,5.0,5.0,1
+Tesla Model 3 Performance,5.0,5.0,1
+Tesla Model X Long Range Plus,5.0,5.0,1
+Tesla Model S Base,5.0,5.0,1
+Tesla Model 3 Standard Range Plus,5.0,5.0,1
+Tesla Model X 100D,5.0,5.0,1
+Tesla Model Y Performance,5.0,5.0,1
+Tesla Model S 75D,5.0,5.0,1
+Tesla Model 3 Standard Range Plus,5.0,5.0,1
+Tesla Model Y Standard Range,5.0,5.0,1
+Tesla Model 3 Performance,5.0,5.0,1
+Tesla Model S Long Range,5.0,5.0,1
+Tesla Model S Plaid,5.0,5.0,1
+Tesla Model S Base,5.0,5.0,1
+Tesla Model S 100D,5.0,5.0,1
+Tesla Model X 100D,5.0,5.0,1
+Tesla Model X P100D,5.0,5.0,1
+Tesla Model X 90D,5.0,5.0,1
+Tesla Model S P85D,5.0,5.0,1
+Tesla Model S 70,5.0,5.0,1
+Tesla Model S Long Range,5.0,5.0,1
+Tesla Model 3 Long Range,5.0,5.0,1
+Tesla Model Y Long Range,5.0,5.0,1
+Tesla Model S Long Range,5.0,5.0,1
+Tesla Model 3 Performance,5.0,5.0,1
+Tesla Model S Long Range,5.0,5.0,1
+Tesla Model 3 Long Range,5.0,5.0,1
+Tesla Model X 90D,5.0,5.0,2
+Tesla Model X 90D,5.0,5.0,2
+Tesla Model S Plaid,5.0,5.0,1
+Tesla Model 3 Standard,5.0,5.0,1
+Tesla Model X Long Range,5.0,5.0,1
+Tesla Model 3 Long Range,5.0,5.0,1
+Tesla Model 3 Performance,5.0,5.0,1
+Tesla Model S Plaid,5.0,5.0,1
+Tesla Model X 75D,5.0,5.0,1
+Tesla Model S Long Range,5.0,5.0,1
+Tesla Model 3 Standard Range Plus,5.0,5.0,1
+Tesla Model S 75D,5.0,5.0,1
+Tesla Model 3 Long Range,5.0,5.0,1
+Tesla Model 3 Standard Range,5.0,5.0,1
+Tesla Model 3 Long Range,5.0,5.0,1
+Tesla Model 3 Mid Range,5.0,5.0,1
+Tesla Model S Long Range,5.0,5.0,1
+Tesla Model X P90D,5.0,5.0,1
+Tesla Model 3 Standard Range Plus,5.0,5.0,1
+Tesla Model 3 Long Range,5.0,5.0,1
+Tesla Model 3 Standard Range Plus,5.0,5.0,1
+Tesla Model 3 Long Range,5.0,5.0,1
+Tesla Model Y Long Range,5.0,5.0,1
+Tesla Model S P85D,5.0,5.0,1
+Tesla Model 3 Performance,5.0,5.0,1
+Tesla Model 3 Mid Range,5.0,5.0,1
+Tesla Model 3 Base,5.0,5.0,1
+Tesla Model 3 Long Range,5.0,5.0,1
+Tesla Model 3 Standard Range Plus,5.0,5.0,1
+Tesla Model S Base,5.0,5.0,1
+Tesla Model 3 Standard,5.0,5.0,1
+Tesla Model S 75D,5.0,5.0,1
+Tesla Model S P100D,5.0,5.0,1
+Tesla Model 3 Performance,5.0,5.0,1
+Tesla Model 3 Long Range,5.0,5.0,1
+Tesla Model X 100D,5.0,5.0,1
+Tesla Model 3 Long Range,5.0,5.0,1
+Tesla Model 3 Performance,5.0,5.0,1
+Tesla Model 3 Long Range,5.0,5.0,1
+Tesla Model X 75D,5.0,5.0,1
+Tesla Model 3 Long Range,5.0,5.0,1
+Tesla Model 3 Long Range,5.0,5.0,1
+Tesla Model Y Long Range,5.0,5.0,1
+Tesla Model S 70D,5.0,5.0,1
+Tesla Model S Standard Range,5.0,5.0,1
+Tesla Model X Performance,5.0,5.0,1
+Tesla Model 3 Performance,5.0,5.0,1
+Tesla Model 3 Long Range,5.0,5.0,1
+Toyota Venza Limited,5.0,5.0,1
+Toyota Sequoia TRD Pro,5.0,5.0,1
+Toyota RAV4 Hybrid XLE Premium,5.0,5.0,1
+Toyota Highlander Limited,5.0,5.0,1
+Toyota Tundra SR5,5.0,5.0,1
+Toyota GR86 Premium,5.0,5.0,1
+Toyota Highlander L,5.0,5.0,1
+Toyota Tacoma TRD Sport,5.0,5.0,1
+Toyota Highlander XLE,5.0,5.0,2
+Toyota Highlander XLE,5.0,5.0,2
+Toyota Land Cruiser,5.0,5.0,1
+Toyota Corolla LE,5.0,5.0,1
+Toyota Tundra SR5,5.0,5.0,1
+Toyota Highlander LE,5.0,5.0,1
+Toyota Highlander Hybrid XLE,5.0,5.0,1
+Toyota Highlander XLE,5.0,5.0,1
+Toyota Highlander Limited,5.0,5.0,1
+Toyota Tacoma SR5,5.0,5.0,1
+Toyota Tacoma,5.0,5.0,1
+Toyota Tundra SR5,5.0,5.0,1
+Toyota Camry Solara SLE V6,5.0,5.0,1
+Toyota Tacoma SR,5.0,5.0,1
+Toyota 4Runner Limited,5.0,5.0,1
+Toyota RAV4 Hybrid XLE,5.0,5.0,1
+Toyota 4Runner TRD Pro,5.0,5.0,1
+Toyota Tacoma TRD Sport,5.0,5.0,1
+Toyota Camry Hybrid XLE,5.0,5.0,1
+Toyota Corolla LE,5.0,5.0,1
+Toyota 4Runner TRD Off Road,5.0,5.0,1
+Toyota Tundra Platinum,5.0,5.0,1
+Toyota Tundra SR5,5.0,5.0,1
+Toyota Corolla Cross LE,5.0,5.0,1
+Toyota Sienna LE,5.0,5.0,1
+Toyota Corolla Cross LE,5.0,5.0,1
+Toyota Camry LE,5.0,5.0,1
+Toyota Highlander XSE,5.0,5.0,1
+Toyota Highlander XLE,5.0,5.0,1
+Toyota Highlander LE I4,5.0,5.0,1
+Toyota Sequoia SR5,5.0,5.0,1
+Toyota Tacoma TRD Off Road,5.0,5.0,1
+Toyota Highlander L,5.0,5.0,1
+Toyota Tundra SR5,5.0,5.0,1
+Toyota Prius c Three,5.0,5.0,1
+Toyota Highlander Hybrid Limited,5.0,5.0,1
+Toyota 4Runner SR5 Premium,5.0,5.0,1
+Toyota Sequoia Limited,5.0,5.0,1
+Toyota Highlander LE,5.0,5.0,1
+Toyota Corolla SE,5.0,5.0,1
+Toyota Tacoma SR,5.0,5.0,1
+Toyota RAV4 Hybrid XLE,5.0,5.0,1
+Toyota Tundra Limited,5.0,5.0,1
+Toyota Tacoma SR5,5.0,5.0,1
+Toyota Corolla LE,5.0,5.0,1
+Volkswagen ID.4 Pro S,5.0,5.0,1
+Volkswagen Atlas 3.6L SE w/Technology,5.0,5.0,1
+Volkswagen Atlas 2.0T SE w/Technology,5.0,5.0,1
+Volkswagen ID.4 Pro S,5.0,5.0,1
+Volkswagen Atlas 3.6 V6 SE w/ Technology R-Line,5.0,5.0,1
+Volkswagen Golf R 2.0T w/DCC & Navigation,5.0,5.0,1
+Volkswagen Atlas 2.0T SE,5.0,5.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SE w/Technology,5.0,5.0,1
+Volkswagen Taos 1.5T SEL,5.0,5.0,1
+Volkswagen Touareg V6 Lux,5.0,5.0,1
+Volkswagen Golf GTI 2.0T SE,5.0,5.0,1
+Volkswagen Atlas 3.6L SEL,5.0,5.0,1
+Volkswagen Passat 2.0T R-Line,5.0,5.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SE w/Technology R-Line,5.0,5.0,1
+Volkswagen Beetle 2.5L,5.0,5.0,1
+Volkswagen Tiguan 2.0T SEL,5.0,5.0,1
+Volkswagen Atlas 3.6L SEL Premium,5.0,5.0,1
+Volkswagen Arteon 2.0T SE,5.0,5.0,1
+Volkswagen Passat 2.0T Limited Edition,5.0,5.0,2
+Volkswagen Passat 2.0T Limited Edition,5.0,5.0,2
+Volkswagen Tiguan 2.0T S,5.0,5.0,1
+Volkswagen Atlas 3.6L SEL,5.0,5.0,1
+Volkswagen Atlas 3.6L SE w/Technology,5.0,5.0,1
+Volkswagen Atlas 2.0T SE,5.0,5.0,1
+Volkswagen Tiguan 2.0T SEL Premium,5.0,5.0,1
+Volkswagen GTI Drivers Edition,5.0,5.0,1
+Volkswagen Taos 1.5T SEL,5.0,5.0,1
+Volkswagen ID.4 Pro S,5.0,5.0,1
+Volkswagen Atlas 3.6L SE w/Technology,5.0,5.0,1
+Volkswagen Atlas Cross Sport 2.0T SE w/Technology,5.0,5.0,1
+Volkswagen Arteon 2.0T SE R-Line,5.0,5.0,1
+Volkswagen Arteon 2.0T SEL R-Line,5.0,5.0,1
+Volkswagen ID.4 Pro S,5.0,5.0,1
+Volkswagen Eurovan WESTFALIA WEEKENDER,5.0,5.0,1
+Volkswagen Golf TSI S 2-Door,5.0,5.0,1
+Volkswagen Passat 2.0 TDI SEL Premium,5.0,5.0,1
+Volkswagen Tiguan 2.0T SEL,5.0,5.0,1
+Volkswagen Tiguan 2.0T SE R-Line Black,5.0,5.0,1
+Volkswagen Tiguan Limited 2.0T,5.0,5.0,1
+Volkswagen Atlas 3.6 V6 SE R-Line,5.0,5.0,1
+Volkswagen Golf GTI 2.0T S 4-Door,5.0,5.0,1
+Volkswagen Tiguan S,5.0,5.0,1
+Volkswagen Golf GTI 2.0T Autobahn,5.0,5.0,1
+Volkswagen Atlas 3.6L SEL,5.0,5.0,1
+Volkswagen Atlas 3.6 V6 SEL R-Line Black,5.0,5.0,1
+Volkswagen Beetle 1.8T Dune,5.0,5.0,1
+Volkswagen Jetta 1.4T S,5.0,5.0,1
+Volkswagen Jetta 1.5T S,5.0,5.0,1
+Volkswagen Jetta 1.4T S,5.0,5.0,1
+Volkswagen Tiguan Limited 2.0T,5.0,5.0,1
+Volkswagen Atlas Cross Sport 2.0T SEL R-Line Black,5.0,5.0,1
+Volkswagen Golf Alltrack TSI S,5.0,5.0,1
+Volkswagen Atlas Cross Sport 2.0T SEL R-Line Black,5.0,5.0,1
+Volkswagen Golf GTI 2.0T SE,5.0,5.0,1
+Volkswagen Atlas Cross Sport 3.6 V6 SEL R-Line Black,5.0,5.0,1
+Volkswagen Atlas Cross Sport 2.0T SEL R-Line Black,5.0,5.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SE w/Technology,5.0,5.0,1
+Volkswagen ID.4 Pro,5.0,5.0,1
+Volkswagen Tiguan 2.0T SE,5.0,5.0,1
+Volkswagen Atlas 3.6L SE w/Technology,5.0,5.0,1
+Volkswagen Jetta 1.4T S,5.0,5.0,1
+Volkswagen Tiguan 2.0T S,5.0,5.0,1
+Volkswagen Arteon 2.0T SE,5.0,5.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SEL Premium R-Line,5.0,5.0,1
+Volkswagen Jetta 1.4T S,5.0,5.0,1
+Volkswagen Passat 1.8T Auto SE PZEV,5.0,5.0,1
+Volkswagen Atlas 2.0T SE w/Technology,5.0,5.0,1
+Volkswagen Jetta 1.4T SE,5.0,5.0,1
+Volkswagen Taos 1.5T SE,5.0,5.0,1
+Volkswagen Jetta 1.5T S,5.0,5.0,1
+Volkswagen Jetta 1.4T SE,5.0,5.0,1
+Volkswagen Jetta 1.4T SE,5.0,5.0,1
+Volkswagen Jetta 1.4T R-Line,5.0,5.0,1
+Acura RDX w/A-Spec Advance Package,4.5,4.5,2
+Acura RDX w/A-Spec Advance Package,4.5,4.5,2
+Chevrolet Trailblazer ACTIV,4.5,4.5,2
+Chevrolet Trailblazer ACTIV,4.5,4.5,2
+Chevrolet Trailblazer RS,4.5,4.5,2
+Chevrolet Trailblazer RS,4.5,4.5,2
+Dodge Durango GT,4.5,4.5,2
+Dodge Durango GT,4.5,4.5,2
+Mercedes-Benz S-Class S 500 4MATIC,4.5,4.5,2
+Mercedes-Benz S-Class S 500 4MATIC,4.5,4.5,2
+Mercedes-Benz Sprinter 2500 High Roof,4.5,4.5,2
+Mercedes-Benz Sprinter 2500 High Roof,4.5,4.5,2
+Mercedes-Benz GLE 350 Base,4.5,4.5,2
+Mercedes-Benz GLE 350 Base,4.5,4.5,2
+Acura MDX Technology,4.0,4.0,1
+Acura MDX 3.5L Advance Pkg w/Entertainment Pkg,4.0,4.0,1
+Acura ILX Premium & A-SPEC Packages,4.0,4.0,1
+Acura Integra w/A-Spec Package,4.0,4.0,1
+Acura RLX Technology Package,4.0,4.0,1
+Acura MDX A-Spec,4.0,4.0,1
+Acura MDX Advance,4.0,4.0,1
+Acura MDX 3.5L,4.0,4.0,1
+Acura TLX V6,4.0,4.0,1
+Acura MDX 3.5L Technology Package,4.0,4.0,1
+Acura TLX V6 A-Spec,4.0,4.0,1
+Acura TLX V6 Technology & A-Spec,4.0,4.0,1
+Acura TLX Technology,4.0,4.0,1
+Acura MDX 3.5L Technology Package,4.0,4.0,1
+Acura RDX A-Spec,4.0,4.0,1
+Acura MDX A-Spec,4.0,4.0,1
+Acura RLX Technology Package,4.0,4.0,1
+Acura MDX w/Tech/AcuraWatch Plus,4.0,4.0,1
+Acura TLX Base,4.0,4.0,1
+Acura MDX 3.5L,4.0,4.0,1
+Acura TSX 2.4,4.0,4.0,1
+Acura RDX Technology Package,4.0,4.0,1
+Acura MDX 3.5L w/Technology Package,4.0,4.0,1
+Acura RDX Base,4.0,4.0,1
+Acura MDX 3.7L Technology,4.0,4.0,1
+Acura RDX A-Spec,4.0,4.0,1
+Acura TLX Tech,4.0,4.0,1
+Acura Integra A-Spec Technology,4.0,4.0,1
+Acura ILX,4.0,4.0,1
+Acura MDX A-Spec,4.0,4.0,1
+Acura TLX A-Spec,4.0,4.0,1
+Acura MDX 3.5L w/Advance Package,4.0,4.0,1
+Acura MDX Sport,4.0,4.0,1
+Acura MDX 3.5L,4.0,4.0,1
+Acura MDX Touring,4.0,4.0,1
+Acura MDX 3.5L w/Technology Package,4.0,4.0,1
+Acura RDX Advance Package,4.0,4.0,1
+Acura RDX Advance Package,4.0,4.0,1
+Acura RDX Advance Package,4.0,4.0,1
+Acura MDX Technology,4.0,4.0,1
+Acura RDX A-Spec,4.0,4.0,1
+Acura MDX 3.5L w/Technology Package,4.0,4.0,1
+Acura TL 3.5,4.0,4.0,1
+Acura ILX 4DR SDN,4.0,4.0,1
+Acura RDX Technology Package,4.0,4.0,1
+Acura TLX V6,4.0,4.0,1
+Acura MDX Advance,4.0,4.0,1
+Acura MDX 3.7L Advance,4.0,4.0,1
+Acura TSX Tech Pkg,4.0,4.0,1
+Acura MDX Advance,4.0,4.0,1
+Acura MDX Technology,4.0,4.0,1
+Acura MDX 3.5L Technology Package,4.0,4.0,1
+Acura MDX,4.0,4.0,1
+Acura MDX 3.5L w/Advance Package,4.0,4.0,1
+Acura MDX 3.5L Technology Package,4.0,4.0,1
+BMW X5 PHEV xDrive45e,4.0,4.0,1
+BMW M4 CSL,4.0,4.0,1
+BMW X7,4.0,4.0,1
+BMW M8 Competition Gran Coupe,4.0,4.0,1
+BMW i4 Gran Coupe eDrive40,4.0,4.0,1
+BMW M5 Base,4.0,4.0,1
+BMW 430 Gran Coupe i,4.0,4.0,1
+BMW X7 xDrive40i,4.0,4.0,1
+BMW X5 M50i,4.0,4.0,1
+BMW iX xDrive50,4.0,4.0,1
+BMW 228 Gran Coupe i xDrive,4.0,4.0,1
+BMW X5 M50i,4.0,4.0,1
+BMW X5 sDrive40i,4.0,4.0,1
+BMW X4 M40i,4.0,4.0,1
+BMW M8 Gran Coupe Gran Coupe,4.0,4.0,1
+BMW X5 PHEV xDrive45e,4.0,4.0,1
+BMW 328 Gran Turismo i xDrive,4.0,4.0,1
+BMW X4 xDrive 28i,4.0,4.0,1
+BMW X5 xDrive35i,4.0,4.0,1
+BMW M4 Competition xDrive,4.0,4.0,1
+BMW M440 i,4.0,4.0,2
+BMW M440 i,4.0,4.0,2
+BMW 228 Gran Coupe 228I XDRIVE,4.0,4.0,1
+BMW X3 xDrive30i,4.0,4.0,1
+BMW 540 i xDrive,4.0,4.0,1
+BMW X1 xDrive28i,4.0,4.0,1
+BMW 750 i xDrive,4.0,4.0,1
+BMW 228 Gran Coupe i xDrive,4.0,4.0,1
+BMW X3 M,4.0,4.0,1
+BMW M550 i xDrive,4.0,4.0,1
+BMW 530e 530e,4.0,4.0,1
+BMW M4 Competition xDrive,4.0,4.0,1
+BMW 535 i,4.0,4.0,1
+BMW X1 sDrive28i,4.0,4.0,1
+BMW ALPINA B7 xDrive,4.0,4.0,1
+BMW X5 sDrive40i,4.0,4.0,1
+BMW M5 Base,4.0,4.0,1
+BMW iX M60,4.0,4.0,1
+BMW Z4 sDrive35i,4.0,4.0,1
+BMW X5 PHEV xDrive45e,4.0,4.0,1
+BMW 740 i,4.0,4.0,1
+BMW 550 i,4.0,4.0,1
+BMW 535 i xDrive,4.0,4.0,1
+BMW X5 sDrive35i,4.0,4.0,1
+BMW 430 i,4.0,4.0,1
+BMW X3 M AWD,4.0,4.0,1
+BMW X5 xDrive40i,4.0,4.0,1
+BMW X6 M50i,4.0,4.0,1
+BMW 335 i xDrive,4.0,4.0,1
+BMW 740 i,4.0,4.0,1
+BMW X6 sDrive40i,4.0,4.0,1
+BMW 330 Gran Turismo i xDrive,4.0,4.0,1
+BMW X4 xDrive28i,4.0,4.0,1
+BMW X7 xDrive40i,4.0,4.0,1
+BMW 430 Gran Coupe i,4.0,4.0,1
+BMW 330 i xDrive,4.0,4.0,1
+BMW X2 xDrive28i,4.0,4.0,1
+BMW 528 i,4.0,4.0,1
+BMW 540 i xDrive,4.0,4.0,1
+BMW X2 sDrive28i,4.0,4.0,1
+BMW M8 Competition,4.0,4.0,1
+BMW 328 i xDrive,4.0,4.0,1
+BMW M8 Competition,4.0,4.0,1
+BMW X6 sDrive40i,4.0,4.0,1
+BMW M8 Base,4.0,4.0,1
+BMW X6 M50i,4.0,4.0,1
+BMW 640 i,4.0,4.0,1
+BMW iX xDrive50,4.0,4.0,1
+BMW X1 sDrive28i,4.0,4.0,1
+BMW 320 i,4.0,4.0,1
+BMW M3 Base,4.0,4.0,1
+BMW 530e xDrive iPerformance,4.0,4.0,1
+BMW M4 Base,4.0,4.0,1
+BMW 428 i xDrive,4.0,4.0,1
+BMW 330 i xDrive,4.0,4.0,1
+BMW 430 i xDrive,4.0,4.0,1
+BMW X3 xDrive30i,4.0,4.0,1
+BMW X6 xDrive35i,4.0,4.0,1
+BMW X3 M AWD,4.0,4.0,1
+BMW X4 xDrive30i,4.0,4.0,1
+BMW M2 Competition,4.0,4.0,1
+BMW X5 xDrive40i,4.0,4.0,1
+Chevrolet Trailblazer ACTIV,4.0,4.0,1
+Chevrolet Camaro LT1,4.0,4.0,1
+Chevrolet Trailblazer LT,4.0,4.0,1
+Chevrolet Silverado 1500 Custom,4.0,4.0,1
+Chevrolet Silverado 1500 ZR2,4.0,4.0,1
+Chevrolet Tahoe LS,4.0,4.0,1
+Chevrolet Silverado 3500 LTZ,4.0,4.0,1
+Chevrolet Silverado 1500 LTZ,4.0,4.0,1
+Chevrolet Tahoe Z71,4.0,4.0,1
+Chevrolet Bolt EUV LT,4.0,4.0,1
+Chevrolet Tahoe Z71,4.0,4.0,1
+Chevrolet Camaro LT1,4.0,4.0,1
+Chevrolet Colorado WT,4.0,4.0,1
+Chevrolet Tahoe Z71,4.0,4.0,1
+Chevrolet Cruze LS,4.0,4.0,1
+Chevrolet Suburban LS,4.0,4.0,1
+Chevrolet Silverado 3500 High Country,4.0,4.0,1
+Chevrolet Tahoe LS,4.0,4.0,1
+Chevrolet Tahoe LS,4.0,4.0,1
+Chevrolet Silverado 2500 LTZ,4.0,4.0,1
+Chevrolet Trax LT,4.0,4.0,1
+Chevrolet Corvette,4.0,4.0,1
+Chevrolet Colorado LT,4.0,4.0,2
+Chevrolet Colorado LT,4.0,4.0,2
+Chevrolet Tahoe LS,4.0,4.0,1
+Chevrolet Tahoe LT,4.0,4.0,1
+Chevrolet Suburban LS,4.0,4.0,1
+Chevrolet Silverado 3500 High Country,4.0,4.0,1
+Chevrolet Silverado 2500 LTZ,4.0,4.0,1
+Chevrolet Bolt EUV LT,4.0,4.0,1
+Chevrolet Traverse LS,4.0,4.0,1
+Chevrolet Blazer RS,4.0,4.0,1
+Chevrolet Tahoe LS,4.0,4.0,1
+Chevrolet Equinox Premier,4.0,4.0,1
+Chevrolet Silverado 1500 Custom,4.0,4.0,2
+Chevrolet Silverado 1500 Custom,4.0,4.0,2
+Chevrolet Silverado 2500 LT,4.0,4.0,1
+Chevrolet Suburban RST,4.0,4.0,1
+Chevrolet Silverado 1500 LTZ,4.0,4.0,1
+Chevrolet Suburban LT,4.0,4.0,1
+Chevrolet Camaro 2SS,4.0,4.0,1
+Chevrolet Tahoe LT,4.0,4.0,1
+Chevrolet Bolt EV 1LT,4.0,4.0,1
+Chevrolet Camaro 1SS,4.0,4.0,1
+Chevrolet Traverse Premier,4.0,4.0,1
+Chevrolet Corvette Stingray w/1LT,4.0,4.0,1
+Chevrolet Camaro ZL1,4.0,4.0,1
+Chevrolet Silverado 2500 WT,4.0,4.0,1
+Chevrolet Malibu LT,4.0,4.0,1
+Chevrolet Impala Limited LT,4.0,4.0,1
+Chevrolet Silverado 1500 Custom Trail Boss,4.0,4.0,1
+Chevrolet Tahoe High Country,4.0,4.0,1
+Chevrolet Blazer 2LT,4.0,4.0,1
+Chevrolet Colorado LT,4.0,4.0,1
+Chevrolet Equinox Premier,4.0,4.0,1
+Chevrolet Corvette Grand Sport,4.0,4.0,1
+Chevrolet Traverse LS,4.0,4.0,1
+Chevrolet Tahoe LT,4.0,4.0,1
+Chevrolet Suburban High Country,4.0,4.0,1
+Chevrolet Traverse Premier,4.0,4.0,1
+Chevrolet Equinox LS,4.0,4.0,1
+Chevrolet Blazer 3LT,4.0,4.0,1
+Chevrolet Blazer 2LT,4.0,4.0,1
+Chevrolet Camaro 2SS,4.0,4.0,1
+Chevrolet Trailblazer LT,4.0,4.0,1
+Chevrolet Suburban Z71,4.0,4.0,1
+Chevrolet Trailblazer ACTIV,4.0,4.0,1
+Chevrolet Blazer 2LT,4.0,4.0,1
+Chevrolet Silverado 1500 RST,4.0,4.0,1
+Chevrolet Tahoe Premier,4.0,4.0,1
+Chevrolet Silverado 2500 LTZ,4.0,4.0,1
+Chevrolet Silverado 1500 Custom,4.0,4.0,1
+Chevrolet Suburban LT,4.0,4.0,1
+Chevrolet Trax LT,4.0,4.0,1
+Chevrolet Suburban 2500 LT,4.0,4.0,1
+Chevrolet Camaro Z28,4.0,4.0,1
+Chevrolet Silverado 1500 LTZ,4.0,4.0,1
+Chevrolet Silverado 2500 Custom,4.0,4.0,1
+Dodge Charger SRT Hellcat Widebody,4.0,4.0,1
+Dodge Challenger R/T Scat Pack,4.0,4.0,1
+Dodge Challenger R/T,4.0,4.0,1
+Dodge Charger GT,4.0,4.0,1
+Dodge Magnum R/T,4.0,4.0,1
+Dodge Challenger R/T Scat Pack,4.0,4.0,1
+Dodge Ram 1500 BIG HORN,4.0,4.0,1
+Dodge Charger SXT,4.0,4.0,1
+Dodge Durango R/T,4.0,4.0,1
+Dodge Durango R/T,4.0,4.0,1
+Dodge Challenger R/T Scat Pack,4.0,4.0,1
+Dodge Charger GT,4.0,4.0,1
+Dodge Challenger GT,4.0,4.0,1
+Dodge Challenger R/T Scat Pack,4.0,4.0,1
+Dodge Charger GT,4.0,4.0,1
+Dodge Durango R/T,4.0,4.0,1
+Dodge Challenger R/T Scat Pack,4.0,4.0,1
+Dodge Durango Citadel,4.0,4.0,1
+Dodge Challenger SRT Hellcat,4.0,4.0,1
+Dodge Challenger SRT8 392,4.0,4.0,1
+Dodge Durango GT,4.0,4.0,1
+Dodge Challenger R/T Scat Pack,4.0,4.0,1
+Dodge Durango Limited,4.0,4.0,1
+Dodge Durango SXT,4.0,4.0,1
+Dodge Durango R/T,4.0,4.0,1
+Dodge Nitro SE,4.0,4.0,1
+Dodge Charger R/T,4.0,4.0,1
+Dodge Charger R/T,4.0,4.0,1
+Dodge Charger SXT,4.0,4.0,1
+Dodge Durango R/T Plus,4.0,4.0,1
+Dodge Challenger SRT Hellcat,4.0,4.0,1
+Dodge Durango R/T,4.0,4.0,1
+Dodge Durango SXT,4.0,4.0,1
+Dodge Durango Citadel,4.0,4.0,1
+Dodge Challenger GT,4.0,4.0,1
+Dodge Durango R/T,4.0,4.0,1
+Dodge Durango SXT,4.0,4.0,1
+Dodge Nitro Heat,4.0,4.0,1
+Dodge Durango GT,4.0,4.0,1
+Dodge Charger SXT,4.0,4.0,1
+Dodge Viper RT-10,4.0,4.0,1
+Dodge Avenger SXT,4.0,4.0,1
+Dodge Ram 2500 SLT Quad Cab,4.0,4.0,1
+Dodge Journey SXT,4.0,4.0,1
+Dodge Durango SXT,4.0,4.0,1
+Dodge Charger GT,4.0,4.0,1
+Dodge Challenger GT,4.0,4.0,1
+Dodge Durango GT,4.0,4.0,1
+Dodge Challenger GT,4.0,4.0,1
+Dodge Durango R/T,4.0,4.0,1
+Dodge Challenger SXT,4.0,4.0,1
+Dodge Grand Caravan SE,4.0,4.0,1
+Dodge Challenger GT,4.0,4.0,1
+Dodge Challenger SRT Hellcat,4.0,4.0,1
+Dodge Charger GT,4.0,4.0,1
+Dodge Durango R/T,4.0,4.0,1
+Dodge Durango GT,4.0,4.0,1
+Dodge Charger GT,4.0,4.0,1
+Dodge Charger R/T,4.0,4.0,1
+Dodge Challenger GT,4.0,4.0,1
+Dodge Charger GT,4.0,4.0,1
+Dodge Durango GT,4.0,4.0,1
+Dodge Challenger SXT,4.0,4.0,1
+Dodge Durango Crew,4.0,4.0,1
+Dodge Challenger R/T,4.0,4.0,1
+Dodge Challenger SXT Plus,4.0,4.0,1
+Dodge Challenger SXT,4.0,4.0,1
+Dodge Durango R/T,4.0,4.0,1
+Dodge Challenger R/T,4.0,4.0,1
+Dodge Dakota ST,4.0,4.0,1
+Dodge Durango R/T,4.0,4.0,1
+Dodge Challenger GT,4.0,4.0,1
+Ford Explorer XLT,4.0,4.0,1
+Ford Explorer Timberline,4.0,4.0,1
+Ford F-250 Lariat,4.0,4.0,1
+Ford Explorer XLT,4.0,4.0,1
+Ford F-350 King Ranch,4.0,4.0,1
+Ford EcoSport Titanium,4.0,4.0,1
+Ford F-250 XLT,4.0,4.0,1
+Ford Transit-250 Base,4.0,4.0,1
+Ford Bronco Big Bend,4.0,4.0,1
+Ford Mustang Mach 1,4.0,4.0,1
+Ford Mustang EcoBoost,4.0,4.0,1
+Ford F-450 XLT,4.0,4.0,1
+Ford Explorer ST,4.0,4.0,1
+Ford Bronco Badlands,4.0,4.0,1
+Ford Expedition Timberline,4.0,4.0,1
+Ford EcoSport SE,4.0,4.0,1
+Ford Maverick XLT,4.0,4.0,1
+Ford Escape PHEV SEL,4.0,4.0,1
+Ford Expedition XLT,4.0,4.0,1
+Ford Maverick XLT,4.0,4.0,1
+Ford F-150 XL,4.0,4.0,1
+Ford F-250 XLT,4.0,4.0,1
+Ford F-150 Lightning,4.0,4.0,1
+Ford F-150 Raptor,4.0,4.0,1
+Ford Mustang Mach 1,4.0,4.0,1
+Ford F-150 XLT,4.0,4.0,1
+Ford F-150 King Ranch,4.0,4.0,1
+Ford Bronco Big Bend,4.0,4.0,1
+Ford Bronco Badlands,4.0,4.0,1
+Ford F-250 XLT,4.0,4.0,1
+Hyundai Palisade SEL,4.0,4.0,1
+Hyundai IONIQ 5 SEL,4.0,4.0,1
+Hyundai Santa Fe HEV Limited,4.0,4.0,1
+Hyundai IONIQ 5 SE,4.0,4.0,1
+Hyundai Sonata SEL,4.0,4.0,1
+Hyundai Sonata SEL Plus,4.0,4.0,1
+Hyundai Tucson SE,4.0,4.0,1
+Hyundai Santa Cruz 2.5L SEL,4.0,4.0,1
+Hyundai Santa Fe SEL,4.0,4.0,1
+Hyundai IONIQ 5 Limited,4.0,4.0,1
+Hyundai Palisade SEL,4.0,4.0,1
+Hyundai Palisade Limited,4.0,4.0,1
+Hyundai IONIQ 5 SEL,4.0,4.0,1
+Hyundai Elantra HEV Blue,4.0,4.0,1
+Hyundai Sonata Hybrid Base,4.0,4.0,1
+Hyundai Elantra N Base,4.0,4.0,1
+Hyundai Santa Fe Sport 2.4L,4.0,4.0,1
+Hyundai Santa Fe SEL,4.0,4.0,1
+Hyundai Palisade SEL,4.0,4.0,1
+Hyundai Palisade SEL,4.0,4.0,1
+Hyundai Sonata SEL,4.0,4.0,1
+Hyundai Genesis 3.8,4.0,4.0,1
+Hyundai Tucson Limited,4.0,4.0,1
+Hyundai Tucson Hybrid Blue,4.0,4.0,1
+Hyundai Palisade SEL,4.0,4.0,1
+Hyundai Kona N Base,4.0,4.0,1
+Hyundai Kona SEL,4.0,4.0,1
+Hyundai Sonata SE,4.0,4.0,1
+Hyundai Elantra N Line,4.0,4.0,1
+Hyundai Palisade SEL,4.0,4.0,1
+Hyundai IONIQ EV Limited,4.0,4.0,1
+Hyundai Elantra Limited,4.0,4.0,1
+Hyundai Sonata Hybrid SEL,4.0,4.0,1
+Hyundai Santa Fe Limited,4.0,4.0,1
+Hyundai Kona N Base,4.0,4.0,1
+Hyundai Santa Fe SEL 2.4,4.0,4.0,1
+Hyundai Palisade Limited,4.0,4.0,1
+Hyundai Venue SEL,4.0,4.0,1
+Hyundai Tucson Ultimate,4.0,4.0,1
+Hyundai Elantra SEL,4.0,4.0,1
+Hyundai Sonata Sport,4.0,4.0,1
+Hyundai Genesis 3.8,4.0,4.0,1
+Hyundai Kona Limited,4.0,4.0,1
+Hyundai Sonata SEL,4.0,4.0,1
+Hyundai Sonata SEL Plus,4.0,4.0,1
+Hyundai Palisade SEL,4.0,4.0,1
+Hyundai Sonata Limited,4.0,4.0,1
+Hyundai Santa Cruz Limited AWD,4.0,4.0,1
+Hyundai Palisade Limited,4.0,4.0,1
+Hyundai Sonata Limited,4.0,4.0,1
+Hyundai Tucson SEL,4.0,4.0,1
+Hyundai Sonata SE,4.0,4.0,1
+Hyundai Elantra HEV Limited,4.0,4.0,1
+Hyundai Palisade Calligraphy,4.0,4.0,1
+Hyundai Sonata SEL Plus,4.0,4.0,1
+Hyundai Kona Limited,4.0,4.0,1
+Hyundai Santa Fe Limited,4.0,4.0,1
+Hyundai Venue SE,4.0,4.0,1
+Hyundai Accent SE,4.0,4.0,1
+Hyundai Kona Limited,4.0,4.0,1
+Hyundai Santa Cruz Limited,4.0,4.0,1
+Hyundai Santa Fe SE,4.0,4.0,1
+Hyundai Elantra Touring GLS,4.0,4.0,1
+Hyundai Tucson Limited,4.0,4.0,1
+Hyundai Sonata Limited,4.0,4.0,1
+Hyundai Kona Limited,4.0,4.0,1
+Hyundai Santa Fe Sport 2.4L,4.0,4.0,1
+Hyundai Sonata Limited,4.0,4.0,1
+Hyundai Santa Cruz 2.5L SEL,4.0,4.0,1
+Hyundai Sonata 2.4L Limited PZEV,4.0,4.0,1
+Hyundai Kona N Line,4.0,4.0,1
+Hyundai IONIQ Hybrid SE,4.0,4.0,1
+Hyundai Tucson SE,4.0,4.0,1
+Hyundai Sonata Hybrid SEL,4.0,4.0,1
+Hyundai Sonata Limited,4.0,4.0,1
+Hyundai Tucson Sport,4.0,4.0,1
+Hyundai Sonata Hybrid SEL,4.0,4.0,1
+Hyundai Sonata 2.4,4.0,4.0,1
+Hyundai Santa Fe SE,4.0,4.0,1
+Hyundai Kona N Base,4.0,4.0,1
+INFINITI QX80 Luxe,4.0,4.0,1
+INFINITI QX60 SENSORY,4.0,4.0,1
+INFINITI QX80 Luxe,4.0,4.0,1
+INFINITI Q60 3.0t Red Sport 400,4.0,4.0,1
+INFINITI QX60 Luxe,4.0,4.0,1
+INFINITI Q50 3.0t LUXE,4.0,4.0,1
+INFINITI QX55 SENSORY,4.0,4.0,1
+INFINITI QX60 SENSORY,4.0,4.0,1
+INFINITI Q60 3.0t Red Sport 400,4.0,4.0,1
+INFINITI QX80 Luxe,4.0,4.0,1
+INFINITI QX80 Base,4.0,4.0,1
+INFINITI Q60 3.0t Red Sport 400,4.0,4.0,1
+INFINITI Q60 3.0t LUXE,4.0,4.0,1
+INFINITI QX80 Luxe,4.0,4.0,1
+INFINITI QX60 Luxe,4.0,4.0,1
+INFINITI QX80 PREMIUM SELECT,4.0,4.0,1
+INFINITI QX80 SENSORY,4.0,4.0,1
+INFINITI QX80 Luxe,4.0,4.0,1
+INFINITI QX60 Luxe,4.0,4.0,1
+INFINITI QX80 Limited,4.0,4.0,1
+INFINITI QX80 PREMIUM SELECT,4.0,4.0,1
+INFINITI JX35 Base,4.0,4.0,1
+INFINITI Q70L 3.7,4.0,4.0,1
+INFINITI QX80 Luxe,4.0,4.0,1
+INFINITI QX60 SIGNATURE EDITION,4.0,4.0,1
+INFINITI QX60 Luxe,4.0,4.0,1
+INFINITI QX60 Pure,4.0,4.0,1
+INFINITI QX60 Luxe,4.0,4.0,1
+INFINITI QX80 Luxe,4.0,4.0,1
+INFINITI QX30 Sport,4.0,4.0,1
+INFINITI QX80 Luxe,4.0,4.0,1
+INFINITI QX80 Luxe,4.0,4.0,1
+INFINITI Q50 3.0t LUXE,4.0,4.0,1
+INFINITI Q60 Base,4.0,4.0,1
+INFINITI QX80 Luxe,4.0,4.0,1
+INFINITI Q50 LUXE,4.0,4.0,1
+INFINITI QX80 Luxe,4.0,4.0,1
+INFINITI QX50 Base,4.0,4.0,1
+INFINITI QX80 Luxe,4.0,4.0,1
+INFINITI QX30 Luxury,4.0,4.0,1
+INFINITI QX60 Luxe,4.0,4.0,1
+INFINITI Q50 3.0t LUXE,4.0,4.0,1
+INFINITI QX80 Luxe,4.0,4.0,1
+INFINITI QX70 Base,4.0,4.0,1
+INFINITI Q50 2.0T Premium,4.0,4.0,1
+INFINITI Q50 3.0t Red Sport 400,4.0,4.0,1
+INFINITI QX80 Base,4.0,4.0,1
+INFINITI QX80 SENSORY,4.0,4.0,1
+INFINITI QX80 PREMIUM SELECT,4.0,4.0,1
+INFINITI G35x Base,4.0,4.0,1
+INFINITI QX50 AUTOGRAPH,4.0,4.0,1
+INFINITI QX50 Luxe,4.0,4.0,1
+INFINITI QX80 Luxe,4.0,4.0,1
+INFINITI QX60 Luxe,4.0,4.0,1
+INFINITI QX50 ESSENTIAL,4.0,4.0,1
+INFINITI QX80 Luxe,4.0,4.0,1
+INFINITI QX50 Luxe,4.0,4.0,1
+INFINITI QX80 Base,4.0,4.0,1
+INFINITI G37 Journey,4.0,4.0,1
+INFINITI QX80 Luxe,4.0,4.0,1
+INFINITI QX60 Base,4.0,4.0,1
+INFINITI QX80 Base,4.0,4.0,1
+INFINITI QX60 Pure,4.0,4.0,1
+INFINITI QX55 LUXE,4.0,4.0,1
+INFINITI QX50 ESSENTIAL,4.0,4.0,1
+INFINITI QX50 Luxe,4.0,4.0,1
+INFINITI QX50 ESSENTIAL,4.0,4.0,1
+INFINITI QX30 Base,4.0,4.0,1
+INFINITI QX50 Luxe,4.0,4.0,1
+INFINITI QX50 Luxe,4.0,4.0,1
+INFINITI QX80 Luxe,4.0,4.0,1
+INFINITI QX80 SENSORY,4.0,4.0,1
+INFINITI QX60 Luxe,4.0,4.0,1
+INFINITI QX80 Luxe,4.0,4.0,1
+INFINITI QX50 LUXE,4.0,4.0,1
+INFINITI QX60 AUTOGRAPH,4.0,4.0,1
+INFINITI QX50 Luxe,4.0,4.0,1
+INFINITI QX60 SIGNATURE EDITION,4.0,4.0,1
+INFINITI QX70 Base,4.0,4.0,1
+INFINITI QX60 Luxe,4.0,4.0,1
+INFINITI Q50 LUXE,4.0,4.0,1
+INFINITI QX80 Luxe,4.0,4.0,1
+INFINITI QX55 LUXE,4.0,4.0,1
+INFINITI QX60 Luxe,4.0,4.0,1
+INFINITI G37 Base,4.0,4.0,1
+INFINITI QX60 Luxe,4.0,4.0,1
+INFINITI QX60 PURE,4.0,4.0,1
+INFINITI QX80 Luxe,4.0,4.0,1
+INFINITI G37x Base,4.0,4.0,1
+INFINITI QX55 ESSENTIAL,4.0,4.0,1
+INFINITI QX50 Luxe,4.0,4.0,1
+Lexus ES 350 F Sport,4.0,4.0,1
+Lexus GX 460 Base,4.0,4.0,1
+Lexus RX 350 350,4.0,4.0,1
+Lexus IS 500 F SPORT Performance Premium,4.0,4.0,1
+Lexus RX 350L Base,4.0,4.0,1
+Lexus LS 500 500,4.0,4.0,1
+Lexus IS 350 F Sport,4.0,4.0,1
+Lexus GX 460 Base,4.0,4.0,1
+Lexus ES 350 Base,4.0,4.0,1
+Lexus IS 350 Base,4.0,4.0,1
+Lexus LX 600 Ultra Luxury,4.0,4.0,1
+Lexus GX 460 Base,4.0,4.0,1
+Lexus ES 350 Base,4.0,4.0,1
+Lexus RX 350L Premium,4.0,4.0,1
+Lexus GX 460 Base,4.0,4.0,1
+Lexus ES 350 Base,4.0,4.0,1
+Lexus LC 500 Base,4.0,4.0,1
+Lexus UX 200 Base,4.0,4.0,1
+Lexus GX 460 Base,4.0,4.0,1
+Lexus UX 250h Base,4.0,4.0,1
+Lexus NX 300 Base,4.0,4.0,1
+Lexus RX 350 Base,4.0,4.0,1
+Lexus ES 350 Base,4.0,4.0,1
+Lexus RX 350 Premium,4.0,4.0,1
+Lexus RC 350 Base,4.0,4.0,1
+Lexus IS 250 Base,4.0,4.0,1
+Lexus UX 250h Base,4.0,4.0,1
+Lexus LS 460 Crafted Line,4.0,4.0,1
+Lexus RX 350 350,4.0,4.0,1
+Lexus IS 300 Base,4.0,4.0,1
+Lexus RX 350 Luxury,4.0,4.0,1
+Lexus RC 300 300,4.0,4.0,1
+Lexus IS 250 Base (A6),4.0,4.0,1
+Lexus GX 460,4.0,4.0,1
+Lexus RX 450h Base,4.0,4.0,1
+Lexus NX 300 Base,4.0,4.0,1
+Lexus IS 300 Base,4.0,4.0,1
+Lexus NX 350h Luxury,4.0,4.0,1
+Lexus NX 300 300,4.0,4.0,1
+Lexus SC 430 Base,4.0,4.0,1
+Lexus RX 350 Base,4.0,4.0,1
+Lexus IS 300 Base,4.0,4.0,1
+Lexus ES 350 350,4.0,4.0,1
+Lexus IS 300 Base,4.0,4.0,1
+Lexus IS 350 F Sport,4.0,4.0,1
+Lexus ES 350 Base,4.0,4.0,1
+Lexus LC 500 Base,4.0,4.0,1
+Lexus GX 460 Base,4.0,4.0,1
+Lexus GX 460 Base,4.0,4.0,1
+Lexus NX 300 F Sport,4.0,4.0,1
+Lexus IS 250 250,4.0,4.0,1
+Lexus RX 350 350,4.0,4.0,1
+Lexus RX 350 Base,4.0,4.0,1
+Lexus GX 460 Luxury,4.0,4.0,1
+Lexus ES 350 350,4.0,4.0,1
+Lexus IS 250 Base,4.0,4.0,1
+Lexus RC 200t Base,4.0,4.0,1
+Lexus ES 350 Base,4.0,4.0,1
+Lexus IS 350 Base,4.0,4.0,1
+Lexus GX 460 Base,4.0,4.0,1
+Lexus IS 350 Base,4.0,4.0,1
+Lexus LS 500,4.0,4.0,1
+Lexus GS 350 Base,4.0,4.0,1
+Lexus LS 500 Base,4.0,4.0,1
+Lexus GX 460 Base,4.0,4.0,1
+Lexus GX 460 Base,4.0,4.0,1
+Lexus RC 350 Base,4.0,4.0,1
+Lexus GX 460 Base,4.0,4.0,1
+Lexus RX 350 Base,4.0,4.0,1
+Lexus IS 250C Base,4.0,4.0,1
+Lexus RX 350 Base,4.0,4.0,1
+Lexus IS 250,4.0,4.0,1
+Lexus LS 500 500 BASE,4.0,4.0,1
+Lexus RX 350 Base,4.0,4.0,1
+Lexus RX 350 350,4.0,4.0,1
+Lexus IS 300 Base,4.0,4.0,1
+Lexus LC 500 Base,4.0,4.0,1
+Lexus IS 250 Base,4.0,4.0,1
+Lexus RX 350,4.0,4.0,1
+Lexus IS 300,4.0,4.0,1
+Lexus NX 300 Base,4.0,4.0,1
+Lexus RC 350 Base,4.0,4.0,1
+Lexus ES 300h Ultra Luxury,4.0,4.0,1
+Lexus NX 200t Base,4.0,4.0,1
+Mercedes-Benz Sprinter 2500 High Roof,4.0,4.0,1
+Mercedes-Benz GLB 250 Base 4MATIC,4.0,4.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,4.0,4.0,1
+Mercedes-Benz Sprinter 2500 144 WB,4.0,4.0,1
+Mercedes-Benz GLS 450 4MATIC,4.0,4.0,1
+Mercedes-Benz EQE 350 Base 4MATIC,4.0,4.0,1
+Mercedes-Benz GLC 300 Base,4.0,4.0,1
+Mercedes-Benz EQS 450 Base 4MATIC,4.0,4.0,1
+Mercedes-Benz GLS 450 4MATIC,4.0,4.0,1
+Mercedes-Benz C-Class C 300 4MATIC,4.0,4.0,1
+Mercedes-Benz GLE 350 Base 4MATIC,4.0,4.0,1
+Mercedes-Benz GLS 450 4MATIC,4.0,4.0,1
+Mercedes-Benz E-Class E 450,4.0,4.0,1
+Mercedes-Benz C-Class C 300 4MATIC,4.0,4.0,1
+Mercedes-Benz S-Class S 500 4MATIC,4.0,4.0,1
+Mercedes-Benz AMG E 53 Base 4MATIC,4.0,4.0,1
+Mercedes-Benz AMG SL 63 SL 63 AMG 4MATIC,4.0,4.0,1
+Mercedes-Benz S-Class S 500 4MATIC,4.0,4.0,1
+Mercedes-Benz S-Class S 580 4MATIC,4.0,4.0,1
+Mercedes-Benz Sprinter 2500 High Roof,4.0,4.0,1
+Mercedes-Benz S-Class S 580 4MATIC,4.0,4.0,1
+Mercedes-Benz GLC 300 Base 4MATIC,4.0,4.0,1
+Mercedes-Benz EQE 350 Base 4MATIC,4.0,4.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,4.0,4.0,1
+Mercedes-Benz EQS 450+ EQS 450+,4.0,4.0,1
+Mercedes-Benz E-Class E 350 4MATIC,4.0,4.0,1
+Mercedes-Benz AMG GLC 43 Base 4MATIC,4.0,4.0,1
+Mercedes-Benz S-Class S 580 4MATIC,4.0,4.0,1
+Mercedes-Benz EQS 450 Base 4MATIC,4.0,4.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,4.0,4.0,1
+Mercedes-Benz AMG GLE 53 Base,4.0,4.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,4.0,4.0,1
+Mercedes-Benz S-Class S 500 4MATIC,4.0,4.0,1
+Mercedes-Benz G-Class G 550 4MATIC,4.0,4.0,1
+Mercedes-Benz S-Class S 580 4MATIC,4.0,4.0,1
+Mercedes-Benz GLS 450 4MATIC,4.0,4.0,1
+Mercedes-Benz EQE 350 Base 4MATIC,4.0,4.0,1
+Mercedes-Benz GLB 250 Base 4MATIC,4.0,4.0,1
+Mercedes-Benz E-Class E 350 4MATIC,4.0,4.0,1
+Mercedes-Benz EQS 450 Base 4MATIC,4.0,4.0,1
+Mercedes-Benz S-Class S 500 4MATIC,4.0,4.0,1
+Mercedes-Benz GLA 250 Base 4MATIC,4.0,4.0,1
+Mercedes-Benz EQS 450 Base 4MATIC,4.0,4.0,1
+Mercedes-Benz E-Class E 350,4.0,4.0,1
+Mercedes-Benz S-Class S 580 4MATIC,4.0,4.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,4.0,4.0,1
+Mercedes-Benz S-Class S 500 4MATIC,4.0,4.0,1
+Mercedes-Benz GLC 300 Base,4.0,4.0,1
+Mercedes-Benz AMG GLC 43 GLC 43 AMG 4MATIC,4.0,4.0,1
+Mercedes-Benz G-Class G 550 4MATIC,4.0,4.0,1
+Mercedes-Benz GLC 300 Base,4.0,4.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,4.0,4.0,1
+Mercedes-Benz S-Class S 580 4MATIC,4.0,4.0,1
+Mercedes-Benz E-Class E 350 4MATIC,4.0,4.0,1
+Mercedes-Benz GLB 250 Base 4MATIC,4.0,4.0,1
+Mercedes-Benz GLB 250 Base 4MATIC,4.0,4.0,1
+Mercedes-Benz S-Class S 500 4MATIC,4.0,4.0,1
+Mercedes-Benz GLB 250 Base 4MATIC,4.0,4.0,1
+Mercedes-Benz GLC 300 Base 4MATIC,4.0,4.0,1
+Mercedes-Benz EQE 350 Base 4MATIC,4.0,4.0,1
+Mercedes-Benz Sprinter 2500 Standard Roof,4.0,4.0,1
+Mercedes-Benz S-Class S 500 4MATIC,4.0,4.0,1
+Mercedes-Benz E-Class E 350,4.0,4.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,4.0,4.0,1
+Mercedes-Benz S-Class S 580 4MATIC,4.0,4.0,1
+Mercedes-Benz Sprinter 3500XD High Roof,4.0,4.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,4.0,4.0,1
+Mercedes-Benz AMG GLE 53 Base,4.0,4.0,1
+Mercedes-Benz EQS 450+ Base,4.0,4.0,1
+Mercedes-Benz Sprinter 3500 High Roof,4.0,4.0,1
+Mercedes-Benz EQS 450 Base 4MATIC,4.0,4.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,4.0,4.0,1
+Mercedes-Benz GLA 250 Base 4MATIC,4.0,4.0,1
+Mercedes-Benz GLS 450 4MATIC,4.0,4.0,1
+Mercedes-Benz AMG GLE 63 S,4.0,4.0,1
+Mercedes-Benz Sprinter 2500 High Roof,4.0,4.0,1
+Mercedes-Benz GLE 350 Base 4MATIC,4.0,4.0,1
+Mercedes-Benz GLC 300 Base,4.0,4.0,1
+Mercedes-Benz S-Class S 580 4MATIC,4.0,4.0,1
+Mercedes-Benz EQS 580 Base 4MATIC,4.0,4.0,1
+Porsche Cayman Base,4.0,4.0,1
+Porsche 914,4.0,4.0,1
+Porsche 928 GTS,4.0,4.0,1
+Porsche 718 Cayman S,4.0,4.0,1
+Porsche Macan Base,4.0,4.0,1
+Porsche 911 Carrera 4,4.0,4.0,2
+Porsche 911 Carrera 4,4.0,4.0,2
+Porsche 911 Targa 4,4.0,4.0,1
+Porsche Cayenne S,4.0,4.0,1
+Porsche Cayman Base (M5),4.0,4.0,1
+Porsche Panamera E-Hybrid S,4.0,4.0,1
+Porsche Taycan 4S,4.0,4.0,1
+Porsche Cayenne Turbo,4.0,4.0,1
+Porsche Boxster Base (M5),4.0,4.0,1
+Porsche Cayenne Turbo,4.0,4.0,1
+Porsche Cayenne Base (Tiptronic),4.0,4.0,1
+Porsche Boxster S,4.0,4.0,1
+Porsche 911 GT3,4.0,4.0,1
+Porsche Panamera 4S,4.0,4.0,1
+Porsche Cayman Black Edition,4.0,4.0,1
+Porsche 911,4.0,4.0,1
+Porsche 911 Carrera,4.0,4.0,1
+Porsche Panamera Turbo,4.0,4.0,1
+Porsche 911 Carrera,4.0,4.0,1
+Porsche 911 Carrera 4S,4.0,4.0,1
+Porsche Macan Turbo,4.0,4.0,1
+Porsche Cayenne Platinum Edition,4.0,4.0,1
+Porsche 911 Carrera S,4.0,4.0,1
+Porsche Cayman Base,4.0,4.0,1
+Porsche Cayenne S,4.0,4.0,1
+Porsche 911 Turbo S,4.0,4.0,1
+Porsche Cayenne GTS,4.0,4.0,1
+Porsche Macan S,4.0,4.0,1
+Porsche 911 Targa 4S,4.0,4.0,1
+Porsche Panamera 4,4.0,4.0,1
+Porsche 911 Carrera S,4.0,4.0,1
+Porsche Taycan Base,4.0,4.0,1
+Porsche 911 Carrera,4.0,4.0,1
+Porsche 911 Turbo,4.0,4.0,1
+Porsche Macan Base,4.0,4.0,1
+Porsche 911 Turbo,4.0,4.0,1
+Porsche Panamera 4,4.0,4.0,1
+Porsche Panamera GTS,4.0,4.0,1
+Porsche 911 Carrera S,4.0,4.0,1
+Porsche 911 GT2 RS,4.0,4.0,1
+Porsche 911 Carrera 4S,4.0,4.0,1
+Porsche 911 Turbo,4.0,4.0,1
+Porsche Macan S,4.0,4.0,1
+Porsche Boxster,4.0,4.0,1
+Porsche Cayenne E-Hybrid S,4.0,4.0,1
+Porsche 718 Cayman S,4.0,4.0,1
+Porsche 911 Carrera S,4.0,4.0,1
+Porsche Cayenne S Coupe AWD,4.0,4.0,1
+Porsche 911 Carrera GTS,4.0,4.0,1
+Porsche Boxster RS 60 Spyder,4.0,4.0,1
+Porsche 928 S4,4.0,4.0,1
+Porsche Cayenne Turbo,4.0,4.0,1
+Porsche Cayenne Base,4.0,4.0,1
+Porsche Cayenne Turbo,4.0,4.0,1
+Porsche 911 Carrera S,4.0,4.0,1
+Porsche 911 Carrera S,4.0,4.0,1
+Porsche Cayenne Turbo,4.0,4.0,1
+Porsche Cayenne Base (Tiptronic),4.0,4.0,1
+Porsche Cayenne Diesel,4.0,4.0,1
+Porsche Macan,4.0,4.0,1
+Porsche Cayman GTS,4.0,4.0,1
+Porsche 911 Carrera 4S,4.0,4.0,1
+Porsche Panamera E-Hybrid Sport Turismo Turbo S,4.0,4.0,1
+Porsche 911 Turbo,4.0,4.0,1
+Porsche Macan Base,4.0,4.0,1
+Porsche 911 Carrera S,4.0,4.0,1
+Porsche 911 Speedster,4.0,4.0,1
+Porsche 718 Boxster Base,4.0,4.0,1
+Porsche 911 Carrera S,4.0,4.0,1
+Porsche Macan Base,4.0,4.0,1
+Porsche 718 Boxster GTS,4.0,4.0,1
+Porsche Cayenne Base,4.0,4.0,1
+Porsche 911 Turbo S,4.0,4.0,1
+Porsche Macan Base,4.0,4.0,1
+Porsche 911 Carrera S,4.0,4.0,1
+Porsche 911 Turbo S,4.0,4.0,1
+Porsche 911 Turbo,4.0,4.0,1
+Porsche Macan,4.0,4.0,1
+Porsche 912,4.0,4.0,1
+Porsche Cayenne Base,4.0,4.0,1
+Porsche Macan W/HEATED ROOF,4.0,4.0,1
+Porsche Macan Base (PDK),4.0,4.0,1
+Porsche 911 Carrera S,4.0,4.0,1
+Porsche Macan Base,4.0,4.0,1
+Porsche Macan S AWD,4.0,4.0,1
+Porsche Macan Base,4.0,4.0,1
+Porsche Cayenne S,4.0,4.0,1
+Porsche Panamera Base,4.0,4.0,1
+Porsche Macan Base,4.0,4.0,1
+Porsche Cayenne Base,4.0,4.0,1
+Porsche Macan Base,4.0,4.0,1
+Tesla Model 3 Standard Range,4.0,4.0,1
+Tesla Model 3 Base,4.0,4.0,1
+Tesla Model Y Performance,4.0,4.0,1
+Tesla Model 3 Performance,4.0,4.0,1
+Tesla Model 3 Long Range,4.0,4.0,1
+Tesla Model X Long Range Plus,4.0,4.0,1
+Tesla Model 3 Base,4.0,4.0,1
+Tesla Model 3 Performance,4.0,4.0,1
+Tesla Model S Plaid,4.0,4.0,1
+Tesla Model X Long Range,4.0,4.0,1
+Tesla Model X Long Range,4.0,4.0,1
+Tesla Model Y Long Range,4.0,4.0,1
+Tesla Model S 100D,4.0,4.0,1
+Tesla Model Y Performance,4.0,4.0,1
+Tesla Model S 90D,4.0,4.0,1
+Tesla Model S Plaid,4.0,4.0,1
+Tesla Model S 90D,4.0,4.0,1
+Tesla Model X 75D,4.0,4.0,1
+Tesla Model S Performance,4.0,4.0,1
+Tesla Model X Plaid,4.0,4.0,1
+Tesla Model Y Long Range,4.0,4.0,1
+Tesla Model S 75,4.0,4.0,1
+Tesla Model Y Long Range,4.0,4.0,1
+Tesla Model X 100D/FULL SELF DRIVING CAPABILITY PAID 15 000 COST,4.0,4.0,1
+Tesla Model S 75D,4.0,4.0,1
+Tesla Model Y Performance,4.0,4.0,1
+Tesla Model S 100D,4.0,4.0,1
+Tesla Model S 85,4.0,4.0,1
+Tesla Model S P90D,4.0,4.0,1
+Tesla Model 3 Long Range,4.0,4.0,1
+Tesla Model Y Long Range,4.0,4.0,1
+Tesla Model X 75D,4.0,4.0,1
+Tesla Model 3 Long Range,4.0,4.0,1
+Tesla Model S 75D,4.0,4.0,1
+Tesla Model 3 Long Range,4.0,4.0,1
+Tesla Model S Plaid,4.0,4.0,1
+Tesla Model 3 Standard,4.0,4.0,1
+Tesla Model 3 Standard Range Plus,4.0,4.0,1
+Tesla Model 3 Mid Range,4.0,4.0,1
+Tesla Model 3 Long Range,4.0,4.0,1
+Tesla Model Y Long Range,4.0,4.0,1
+Tesla Model 3 Standard Range Plus,4.0,4.0,1
+Tesla Model S 85D,4.0,4.0,1
+Tesla Model X Base,4.0,4.0,1
+Tesla Model 3 Standard Range Plus,4.0,4.0,1
+Tesla Model 3 Standard Range Plus,4.0,4.0,1
+Tesla Model S P100D,4.0,4.0,1
+Tesla Model 3 Long Range,4.0,4.0,1
+Tesla Model 3 Standard Range Plus,4.0,4.0,1
+Tesla Model 3 Standard Range Plus,4.0,4.0,1
+Tesla Model 3 Base,4.0,4.0,1
+Tesla Model 3 Performance,4.0,4.0,1
+Tesla Model S 75,4.0,4.0,1
+Tesla Model 3 Long Range,4.0,4.0,1
+Tesla Model X P90D,4.0,4.0,1
+Tesla Model 3 Standard Range,4.0,4.0,1
+Tesla Model 3 Long Range,4.0,4.0,1
+Tesla Model 3 Standard Range Plus,4.0,4.0,1
+Tesla Model 3 Standard Range Plus,4.0,4.0,1
+Tesla Model 3 Standard Range Plus,4.0,4.0,2
+Tesla Model 3 Standard Range Plus,4.0,4.0,2
+Tesla Model 3 Long Range,4.0,4.0,1
+Tesla Model 3 Standard Range Plus,4.0,4.0,1
+Tesla Model 3 Mid Range,4.0,4.0,1
+Tesla Model 3 Long Range,4.0,4.0,1
+Tesla Model Y Performance,4.0,4.0,1
+Tesla Model 3 Mid Range,4.0,4.0,1
+Tesla Model Y Long Range,4.0,4.0,1
+Tesla Model 3 Long Range,4.0,4.0,2
+Tesla Model 3 Long Range,4.0,4.0,2
+Tesla Model 3 Long Range,4.0,4.0,1
+Tesla Model 3 Long Range,4.0,4.0,1
+Tesla Model 3 Long Range,4.0,4.0,1
+Tesla Model 3 Mid Range,4.0,4.0,1
+Tesla Model S Long Range,4.0,4.0,1
+Tesla Model X,4.0,4.0,1
+Tesla Model 3 Long Range,4.0,4.0,1
+Tesla Model S P85D,4.0,4.0,1
+Tesla Model 3 Long Range,4.0,4.0,1
+Tesla Model X 90D,4.0,4.0,1
+Toyota Tacoma SR5,4.0,4.0,1
+Toyota RAV4 Prime XSE,4.0,4.0,1
+Toyota Tacoma SR,4.0,4.0,1
+Toyota RAV4 Hybrid XSE,4.0,4.0,1
+Toyota Highlander LE,4.0,4.0,1
+Toyota Camry XSE,4.0,4.0,1
+Toyota Tacoma SR5,4.0,4.0,1
+Toyota Tundra SR5,4.0,4.0,1
+Toyota Supra A91-MT Edition,4.0,4.0,1
+Toyota Sequoia TRD Pro,4.0,4.0,1
+Toyota Corolla Hatchback SE,4.0,4.0,1
+Toyota Prius c Two,4.0,4.0,1
+Toyota Highlander Hybrid XLE,4.0,4.0,1
+Toyota Corolla Cross L,4.0,4.0,1
+Toyota Tacoma TRD Off Road,4.0,4.0,1
+Toyota 4Runner TRD Pro,4.0,4.0,1
+Toyota Corolla CE,4.0,4.0,1
+Toyota Sienna LE,4.0,4.0,1
+Toyota RAV4 Hybrid XSE,4.0,4.0,1
+Toyota Sequoia SR5,4.0,4.0,1
+Toyota Supra A91-MT Edition,4.0,4.0,1
+Toyota Corolla Hatchback SE,4.0,4.0,1
+Toyota Sienna XLE,4.0,4.0,1
+Toyota Tundra Limited,4.0,4.0,1
+Toyota Venza XLE,4.0,4.0,1
+Toyota Camry XSE,4.0,4.0,1
+Toyota Highlander Limited,4.0,4.0,1
+Toyota Avalon XSE,4.0,4.0,1
+Toyota RAV4 XLE Premium,4.0,4.0,1
+Toyota RAV4 Hybrid XLE,4.0,4.0,1
+Toyota Sequoia SR5,4.0,4.0,1
+Toyota Camry SE Nightshade,4.0,4.0,1
+Toyota RAV4 LE,4.0,4.0,1
+Toyota Avalon,4.0,4.0,1
+Toyota Corolla Hybrid LE,4.0,4.0,1
+Toyota Corolla Hybrid,4.0,4.0,1
+Toyota Tundra Limited,4.0,4.0,1
+Toyota Highlander L,4.0,4.0,1
+Toyota Corolla LE,4.0,4.0,1
+Toyota Highlander XLE,4.0,4.0,1
+Toyota Tacoma TRD Sport,4.0,4.0,1
+Toyota Tundra Platinum,4.0,4.0,1
+Toyota Corolla LE,4.0,4.0,1
+Toyota FJ Cruiser Base,4.0,4.0,1
+Toyota Highlander XLE,4.0,4.0,1
+Toyota Tundra SR5,4.0,4.0,1
+Toyota 4Runner TRD Pro,4.0,4.0,1
+Toyota Tundra Hybrid Platinum,4.0,4.0,1
+Toyota Corolla SE,4.0,4.0,1
+Toyota Avalon Limited,4.0,4.0,1
+Toyota Sienna Platinum 7 Passenger,4.0,4.0,1
+Toyota Sequoia Capstone,4.0,4.0,1
+Toyota Corolla L,4.0,4.0,1
+Toyota Camry SE,4.0,4.0,1
+Toyota Tacoma Base,4.0,4.0,1
+Volkswagen Atlas Cross Sport 2.0T SE,4.0,4.0,1
+Volkswagen Tiguan 2.0T SEL,4.0,4.0,1
+Volkswagen ID.4 Pro,4.0,4.0,1
+Volkswagen Taos 1.5T SEL,4.0,4.0,1
+Volkswagen Golf R 2.0T w/DCC & Navigation,4.0,4.0,1
+Volkswagen Atlas Cross Sport 2.0T SE w/Technology,4.0,4.0,1
+Volkswagen Arteon 2.0T SEL R-Line,4.0,4.0,1
+Volkswagen Phaeton V8,4.0,4.0,1
+Volkswagen Tiguan 2.0T SE,4.0,4.0,1
+Volkswagen Atlas Cross Sport 2.0T SEL,4.0,4.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SEL,4.0,4.0,1
+Volkswagen Jetta GLI 2.0T S,4.0,4.0,1
+Volkswagen Golf GTI Autobahn w/ Performance 4-Door,4.0,4.0,1
+Volkswagen Arteon 2.0T SE,4.0,4.0,1
+Volkswagen Tiguan 2.0T SE,4.0,4.0,1
+Volkswagen Tiguan 2.0T SE,4.0,4.0,1
+Volkswagen Tiguan 2.0T SE,4.0,4.0,1
+Volkswagen Arteon 2.0T SEL R-Line,4.0,4.0,1
+Volkswagen Tiguan 2.0T SE,4.0,4.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SE w/Technology,4.0,4.0,1
+Volkswagen Jetta SportWagen TDI,4.0,4.0,1
+Volkswagen Atlas Cross Sport 3.6 V6 SEL R-Line Black,4.0,4.0,1
+Volkswagen Atlas 3.6L SE w/Technology,4.0,4.0,1
+Volkswagen Tiguan 2.0T S,4.0,4.0,1
+Volkswagen Beetle 1.8T Classic,4.0,4.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SE w/Technology,4.0,4.0,1
+Volkswagen Golf GTI S,4.0,4.0,1
+Volkswagen Beetle 2.5L,4.0,4.0,1
+Volkswagen Jetta 1.4T S,4.0,4.0,1
+Volkswagen Atlas Cross Sport 2.0T SE w/Technology,4.0,4.0,1
+Volkswagen Atlas 3.6 V6 SEL R-Line,4.0,4.0,1
+Volkswagen Passat 2.0T R-Line,4.0,4.0,1
+Volkswagen Golf GTI 2.0T SE,4.0,4.0,1
+Volkswagen Atlas 2.0T S,4.0,4.0,1
+Volkswagen Beetle DSG 2.0L TDI,4.0,4.0,1
+Volkswagen Taos 1.5T SE,4.0,4.0,1
+Volkswagen Atlas Cross Sport 2.0T SE w/Technology,4.0,4.0,1
+Volkswagen Atlas 3.6 V6 SE R-Line,4.0,4.0,1
+Volkswagen Atlas 3.6L SE w/Technology,4.0,4.0,1
+Volkswagen Tiguan 2.0T SEL,4.0,4.0,1
+Volkswagen Passat 1.8T Limited Edition,4.0,4.0,1
+Volkswagen Atlas 2.0T SE,4.0,4.0,1
+Volkswagen Tiguan 2.0T SE,4.0,4.0,1
+Volkswagen Touareg Sport,4.0,4.0,1
+Volkswagen Tiguan 2.0T SE,4.0,4.0,1
+Volkswagen Atlas 3.6L SE w/Technology,4.0,4.0,1
+Volkswagen Atlas 2.0T SE,4.0,4.0,1
+Volkswagen Tiguan 2.0T SE,4.0,4.0,1
+Volkswagen Jetta 1.4T R-Line,4.0,4.0,1
+Volkswagen Jetta 1.4T R-Line,4.0,4.0,1
+Volkswagen Tiguan 2.0T SE,4.0,4.0,1
+Volkswagen Passat 1.8T R-Line,4.0,4.0,1
+Volkswagen Taos SE,4.0,4.0,1
+Volkswagen Jetta GLI,4.0,4.0,1
+Volkswagen Passat 1.8T SE w/Technology,4.0,4.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SE w/Technology,4.0,4.0,1
+Volkswagen Passat SE,4.0,4.0,1
+Volkswagen Jetta SEL,4.0,4.0,1
+Volkswagen Atlas 3.6L SE w/Technology,4.0,4.0,1
+Volkswagen Jetta 1.4T S,4.0,4.0,1
+Volkswagen Tiguan 2.0T SEL,4.0,4.0,1
+Volkswagen Golf Alltrack TSI SEL,4.0,4.0,1
+Volkswagen Tiguan 2.0T SEL Premium,4.0,4.0,1
+Volkswagen Tiguan 2.0T SE,4.0,4.0,1
+Volkswagen Jetta 1.5T S,4.0,4.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SE w/Technology,4.0,4.0,1
+Volkswagen Jetta GLI 2.0T Autobahn,4.0,4.0,1
+Volkswagen Jetta 1.4T S,4.0,4.0,1
+Volkswagen Tiguan 2.0T Premium,4.0,4.0,1
+Volkswagen Atlas 2.0T SE w/Technology,4.0,4.0,1
+Volkswagen Beetle 2.0L TDI,4.0,4.0,1
+Volkswagen Jetta Base,4.0,4.0,1
+Volkswagen Atlas 3.6L SEL Premium,4.0,4.0,1
+Volkswagen Jetta Auto SE,4.0,4.0,1
+Volkswagen Routan SE,4.0,4.0,1
+Volkswagen ID.4 Pro S,4.0,4.0,1
+Volkswagen Eos Executive,4.0,4.0,1
+Volkswagen Passat 2.0T SE,4.0,4.0,1
+Volkswagen Golf TDI S 4-Door,4.0,4.0,1
+Volkswagen Golf Alltrack TSI SE,4.0,4.0,1
+Volkswagen Atlas 2.0T SE,4.0,4.0,1
+Volkswagen Taos 1.5T SE,4.0,4.0,1
+Volkswagen Tiguan 2.0T SE R-Line Black,4.0,4.0,1
+Volkswagen Taos 1.5T SEL,4.0,4.0,1
+Volkswagen Tiguan 2.0T S,4.0,4.0,1
+Volkswagen Arteon 2.0T SE R-Line,4.0,4.0,1
+Acura TLX A-Spec,3.5,3.5,2
+Acura TLX A-Spec,3.5,3.5,2
+Acura TSX Base w/Navigation (A5),3.5,3.5,2
+Acura TSX Base w/Navigation (A5),3.5,3.5,2
+BMW 430 Gran Coupe i xDrive,3.5,3.5,2
+BMW 430 Gran Coupe i xDrive,3.5,3.5,2
+Ford F-250 XL,3.5,3.5,2
+Ford F-250 XL,3.5,3.5,2
+Ford Edge SEL,3.5,3.5,2
+Ford Edge SEL,3.5,3.5,2
+Hyundai Tucson SE,3.5,3.5,2
+Hyundai Tucson SE,3.5,3.5,2
+INFINITI Q40 Base,3.5,3.5,2
+INFINITI Q40 Base,3.5,3.5,2
+INFINITI QX55 LUXE,3.5,3.5,2
+INFINITI QX55 LUXE,3.5,3.5,2
+Lexus ES 350 Ultra Luxury,3.5,3.5,2
+Lexus ES 350 Ultra Luxury,3.5,3.5,2
+Porsche Cayenne GTS,3.5,3.5,2
+Porsche Cayenne GTS,3.5,3.5,2
+Tesla Model Y Performance,3.5,3.5,2
+Tesla Model Y Performance,3.5,3.5,2
+Tesla Model 3 Standard Range Plus,3.5,3.5,2
+Tesla Model 3 Standard Range Plus,3.5,3.5,2
+Tesla Model Y Long Range,3.5,3.5,2
+Tesla Model Y Long Range,3.5,3.5,2
+Tesla Model S Model S Dual Motor,3.5,3.5,2
+Tesla Model S Model S Dual Motor,3.5,3.5,2
+Acura TLX A-Spec,3.0,3.0,1
+Acura MDX A-Spec,3.0,3.0,1
+Acura Integra A-Spec Technology,3.0,3.0,1
+Acura Integra A-Spec Technology,3.0,3.0,1
+Acura RDX A-Spec Advance,3.0,3.0,1
+Acura MDX Type S,3.0,3.0,1
+Acura TLX A-Spec,3.0,3.0,2
+Acura TLX A-Spec,3.0,3.0,2
+Acura RDX Base,3.0,3.0,1
+Acura MDX Advance,3.0,3.0,1
+Acura RDX A-Spec,3.0,3.0,1
+Acura TL 3.5,3.0,3.0,1
+Acura TLX V6 Technology & A-Spec,3.0,3.0,1
+Acura TLX V6 Technology & A-Spec,3.0,3.0,1
+Acura TLX Technology,3.0,3.0,1
+Acura TLX Type S,3.0,3.0,1
+Acura RDX Technology Package,3.0,3.0,1
+Acura TLX V6 w/Technology Package,3.0,3.0,1
+Acura ILX,3.0,3.0,1
+Acura RDX Base,3.0,3.0,1
+Acura MDX 3.5L,3.0,3.0,1
+Acura MDX 3.5L,3.0,3.0,1
+Acura RDX Base,3.0,3.0,1
+Acura RDX A-Spec,3.0,3.0,1
+Acura TSX 2.4,3.0,3.0,1
+Acura MDX 3.5L,3.0,3.0,1
+Acura TLX Technology,3.0,3.0,1
+Acura NSX T,3.0,3.0,1
+Acura MDX 3.5L w/Technology Package,3.0,3.0,1
+Acura TLX A-Spec,3.0,3.0,1
+Acura MDX Technology,3.0,3.0,1
+Acura TL Technology,3.0,3.0,1
+Acura ILX Special Edition,3.0,3.0,1
+Acura TSX Base (A5),3.0,3.0,1
+Acura ILX Technology Plus Package,3.0,3.0,1
+Acura RLX Technology Package,3.0,3.0,1
+Acura Integra A-Spec,3.0,3.0,1
+Acura MDX 3.7L Technology,3.0,3.0,1
+Acura MDX 3.5L,3.0,3.0,1
+Acura TLX 4DR FWD,3.0,3.0,1
+Acura RDX Base,3.0,3.0,2
+Acura RDX Base,3.0,3.0,2
+Acura RDX Advance Package,3.0,3.0,1
+Acura ILX Premium Package,3.0,3.0,1
+Acura Integra A-Spec,3.0,3.0,1
+Acura MDX A-Spec,3.0,3.0,1
+Acura MDX Technology,3.0,3.0,1
+Acura TLX V6 Advance,3.0,3.0,1
+Acura TLX Type S,3.0,3.0,1
+Acura RDX Technology Package,3.0,3.0,1
+Acura ZDX Advance Pkg,3.0,3.0,1
+Acura MDX,3.0,3.0,1
+Acura RDX Technology,3.0,3.0,1
+Acura ILX Base,3.0,3.0,1
+Acura RDX Base,3.0,3.0,1
+Acura RL CMBS,3.0,3.0,1
+Acura MDX Technology,3.0,3.0,1
+Acura TLX FWD,3.0,3.0,1
+Acura RDX Base,3.0,3.0,1
+Acura RDX Technology Package,3.0,3.0,1
+Acura MDX 3.5L w/Technology Package,3.0,3.0,1
+Acura RDX Advance Package,3.0,3.0,1
+Acura RDX A-Spec,3.0,3.0,1
+Acura MDX 3.5L,3.0,3.0,1
+Acura Integra w/A-Spec Tech Package,3.0,3.0,1
+Acura RDX Base,3.0,3.0,1
+Acura MDX Base,3.0,3.0,1
+Acura TL 3.2,3.0,3.0,1
+Acura ILX Premium Package,3.0,3.0,1
+Acura RDX Technology Package,3.0,3.0,1
+Acura MDX Type S w/Advance Package,3.0,3.0,1
+Acura RDX A-Spec,3.0,3.0,1
+Acura MDX Advance,3.0,3.0,1
+Acura MDX Advance,3.0,3.0,1
+Acura MDX A-Spec,3.0,3.0,1
+Acura TLX V6 w/Technology Package,3.0,3.0,1
+Acura RDX A-Spec,3.0,3.0,1
+Acura TSX Technology,3.0,3.0,1
+Acura TL Technology,3.0,3.0,1
+Acura RDX Technology Package,3.0,3.0,1
+Acura TSX 2.4,3.0,3.0,1
+Acura Integra A-Spec,3.0,3.0,1
+Acura RDX Technology,3.0,3.0,1
+Acura MDX Technology,3.0,3.0,1
+Acura ILX 2.0L,3.0,3.0,1
+Acura MDX Advance,3.0,3.0,1
+Acura MDX 3.5L Technology & A-Spec Pkgs,3.0,3.0,1
+Acura TLX w/A-Spec Package,3.0,3.0,1
+BMW X5 M50i,3.0,3.0,1
+BMW 530 530i xDrive,3.0,3.0,1
+BMW M4 Competition xDrive,3.0,3.0,1
+BMW i7 xDrive60,3.0,3.0,1
+BMW 430 Gran Coupe i,3.0,3.0,1
+BMW M5 Base,3.0,3.0,1
+BMW X6 M Base,3.0,3.0,1
+BMW i7 xDrive60,3.0,3.0,1
+BMW M340 i,3.0,3.0,1
+BMW M850 i xDrive,3.0,3.0,1
+BMW X3 M40i,3.0,3.0,1
+BMW X5 xDrive40i,3.0,3.0,1
+BMW X3 M40i,3.0,3.0,1
+BMW X1 xDrive28i,3.0,3.0,1
+BMW 430 i xDrive,3.0,3.0,1
+BMW M4 Competition xDrive,3.0,3.0,1
+BMW X2 sDrive28i,3.0,3.0,1
+BMW X3 M Competition,3.0,3.0,1
+BMW X5 M50i,3.0,3.0,1
+BMW X7 M60i,3.0,3.0,1
+BMW 760 760i xDrive,3.0,3.0,1
+BMW 430 Gran Coupe i,3.0,3.0,1
+BMW M8 Competition,3.0,3.0,1
+BMW X6 xDrive40i,3.0,3.0,1
+BMW 430 Gran Coupe i,3.0,3.0,1
+BMW M440 i xDrive,3.0,3.0,1
+BMW X7 xDrive40i,3.0,3.0,1
+BMW 528 i,3.0,3.0,1
+BMW 535 Gran Turismo i,3.0,3.0,1
+BMW X1 sDrive28i,3.0,3.0,1
+BMW X3 M AWD,3.0,3.0,1
+BMW 330 i,3.0,3.0,1
+BMW 740 i,3.0,3.0,1
+BMW iX M60,3.0,3.0,1
+BMW X3 xDrive30i,3.0,3.0,1
+BMW 430 i xDrive,3.0,3.0,1
+BMW 330 i xDrive,3.0,3.0,1
+BMW 430 Gran Coupe i xDrive,3.0,3.0,1
+BMW 430 i,3.0,3.0,1
+BMW X5 xDrive35d,3.0,3.0,1
+BMW X7 xDrive40i,3.0,3.0,1
+BMW M850 i xDrive,3.0,3.0,1
+BMW M5 Base,3.0,3.0,1
+BMW Z4 sDrive30i,3.0,3.0,1
+BMW M5 Base,3.0,3.0,1
+BMW Z4 M40i,3.0,3.0,1
+BMW X4 xDrive30i,3.0,3.0,1
+BMW M4 Competition xDrive,3.0,3.0,1
+BMW X4 xDrive30i,3.0,3.0,1
+BMW 230 i xDrive,3.0,3.0,1
+BMW 840 Gran Coupe i,3.0,3.0,1
+BMW 330 i xDrive,3.0,3.0,1
+BMW 340 i xDrive,3.0,3.0,1
+BMW X4 xDrive30i,3.0,3.0,1
+BMW 750 i xDrive,3.0,3.0,1
+BMW X5 xDrive40i,3.0,3.0,1
+BMW 540 i xDrive,3.0,3.0,1
+BMW X1 xDrive 28i,3.0,3.0,1
+BMW X5 M50i,3.0,3.0,1
+BMW 540 i xDrive,3.0,3.0,1
+BMW 228 Gran Coupe i xDrive,3.0,3.0,1
+BMW i4 Gran Coupe eDrive40,3.0,3.0,1
+BMW 540 i,3.0,3.0,1
+BMW X5 M Base,3.0,3.0,1
+BMW X5 xDrive35i,3.0,3.0,1
+BMW 740 i xDrive,3.0,3.0,1
+BMW X5 M50i,3.0,3.0,1
+BMW Z4 sDrive35is,3.0,3.0,1
+BMW 330 330i xDrive,3.0,3.0,1
+BMW Z4 sDrive30i,3.0,3.0,1
+BMW 330 i xDrive,3.0,3.0,1
+BMW X5 xDrive40i,3.0,3.0,1
+BMW 320 i xDrive,3.0,3.0,1
+BMW 750 i,3.0,3.0,1
+BMW 330 i xDrive,3.0,3.0,1
+BMW M4 Base,3.0,3.0,1
+BMW M3,3.0,3.0,1
+BMW 540 i,3.0,3.0,1
+BMW 440 Gran Coupe i xDrive,3.0,3.0,1
+BMW M240 i xDrive,3.0,3.0,1
+BMW 530 i xDrive,3.0,3.0,1
+BMW 330e iPerformance,3.0,3.0,1
+BMW X6 xDrive40i,3.0,3.0,1
+BMW M8 Gran Coupe Competition Gran Coupe,3.0,3.0,1
+BMW 330e iPerformance,3.0,3.0,1
+BMW 760 760i xDrive,3.0,3.0,1
+BMW 330 i xDrive,3.0,3.0,1
+BMW 760 760i xDrive,3.0,3.0,1
+Chevrolet Bolt EUV Premier,3.0,3.0,1
+Chevrolet Silverado 1500 High Country,3.0,3.0,1
+Chevrolet Traverse High Country,3.0,3.0,1
+Chevrolet Silverado 1500 RST,3.0,3.0,1
+Chevrolet Silverado 2500 LTZ,3.0,3.0,1
+Chevrolet Silverado 1500 LTZ,3.0,3.0,1
+Chevrolet Tahoe RST,3.0,3.0,1
+Chevrolet Silverado 1500 LTZ,3.0,3.0,1
+Chevrolet Colorado WT,3.0,3.0,1
+Chevrolet Colorado WT,3.0,3.0,1
+Chevrolet Silverado 1500 LT,3.0,3.0,1
+Chevrolet Silverado 1500 Custom,3.0,3.0,1
+Chevrolet Colorado WT,3.0,3.0,1
+Chevrolet Silverado 1500 Custom,3.0,3.0,1
+Chevrolet Tahoe Premier,3.0,3.0,1
+Chevrolet Tahoe LS,3.0,3.0,1
+Chevrolet Camaro 1SS,3.0,3.0,1
+Chevrolet Tahoe LS,3.0,3.0,1
+Chevrolet Camaro ZL1,3.0,3.0,1
+Chevrolet Camaro 2LT,3.0,3.0,1
+Chevrolet Silverado 1500 Custom,3.0,3.0,1
+Chevrolet Blazer 2LT,3.0,3.0,1
+Chevrolet Tahoe LS,3.0,3.0,1
+Chevrolet Silverado 2500 WT,3.0,3.0,1
+Chevrolet Malibu LT,3.0,3.0,1
+Chevrolet Colorado LT,3.0,3.0,1
+Chevrolet Camaro 3LT,3.0,3.0,1
+Chevrolet Colorado Z71,3.0,3.0,1
+Chevrolet Silverado 1500 Limited RST,3.0,3.0,1
+Chevrolet Colorado LT,3.0,3.0,1
+Chevrolet Silverado 1500 WT,3.0,3.0,1
+Chevrolet Silverado 2500 WT,3.0,3.0,1
+Chevrolet Camaro LT1,3.0,3.0,1
+Chevrolet Silverado 1500 High Country,3.0,3.0,1
+Chevrolet Camaro ZL1,3.0,3.0,1
+Chevrolet Silverado 2500 LT,3.0,3.0,1
+Chevrolet Equinox 2LT,3.0,3.0,1
+Chevrolet Silverado 1500 RST,3.0,3.0,1
+Chevrolet Tahoe Premier,3.0,3.0,1
+Chevrolet Silverado 2500 Custom,3.0,3.0,1
+Chevrolet Silverado 1500 LT Trail Boss,3.0,3.0,1
+Chevrolet Camaro 1SS,3.0,3.0,1
+Chevrolet Traverse LT Leather,3.0,3.0,1
+Chevrolet Trailblazer LS,3.0,3.0,1
+Chevrolet Equinox 1LT,3.0,3.0,1
+Chevrolet Corvette Stingray w/3LT,3.0,3.0,1
+Chevrolet Suburban LS,3.0,3.0,1
+Chevrolet Suburban LS,3.0,3.0,1
+Chevrolet Colorado WT,3.0,3.0,1
+Chevrolet Colorado ZR2,3.0,3.0,1
+Chevrolet Silverado 1500 Base,3.0,3.0,1
+Chevrolet Silverado 3500 High Country,3.0,3.0,1
+Chevrolet Trailblazer LT,3.0,3.0,1
+Chevrolet Impala LTZ,3.0,3.0,1
+Chevrolet Silverado 1500 LT,3.0,3.0,1
+Chevrolet Corvette Stingray w/1LT,3.0,3.0,1
+Chevrolet Tahoe LS,3.0,3.0,1
+Chevrolet Equinox 1LT,3.0,3.0,1
+Chevrolet Suburban High Country,3.0,3.0,1
+Chevrolet Equinox Premier,3.0,3.0,1
+Chevrolet Colorado LT,3.0,3.0,1
+Chevrolet Colorado Z71,3.0,3.0,1
+Chevrolet Silverado 1500 RST,3.0,3.0,1
+Chevrolet Silverado 3500 WT,3.0,3.0,1
+Chevrolet Silverado 1500 High Country,3.0,3.0,1
+Chevrolet Tahoe LT,3.0,3.0,1
+Chevrolet Silverado 2500 LT,3.0,3.0,1
+Chevrolet Malibu 1LS,3.0,3.0,1
+Chevrolet Suburban RST,3.0,3.0,1
+Chevrolet Camaro 2LT,3.0,3.0,1
+Chevrolet Tahoe LS,3.0,3.0,1
+Chevrolet Silverado 1500 Custom,3.0,3.0,1
+Chevrolet Blazer RS,3.0,3.0,1
+Chevrolet Bolt EV 2LT,3.0,3.0,1
+Chevrolet Trailblazer RS,3.0,3.0,1
+Chevrolet Camaro 2SS,3.0,3.0,1
+Chevrolet Silverado 1500 Custom,3.0,3.0,1
+Chevrolet Silverado 2500 LT,3.0,3.0,1
+Chevrolet Cruze 2LT,3.0,3.0,1
+Dodge Challenger R/T,3.0,3.0,1
+Dodge Charger R/T,3.0,3.0,1
+Dodge Durango SRT 392,3.0,3.0,1
+Dodge Challenger R/T Scat Pack,3.0,3.0,1
+Dodge Durango GT,3.0,3.0,1
+Dodge Charger SXT,3.0,3.0,1
+Dodge Challenger R/T,3.0,3.0,1
+Dodge Charger GT,3.0,3.0,1
+Dodge Durango R/T,3.0,3.0,1
+Dodge Durango SXT,3.0,3.0,1
+Dodge Durango SXT,3.0,3.0,1
+Dodge Avenger SE,3.0,3.0,1
+Dodge Charger Scat Pack,3.0,3.0,1
+Dodge Challenger R/T 392,3.0,3.0,1
+Dodge Durango GT,3.0,3.0,1
+Dodge Grand Caravan SXT,3.0,3.0,1
+Dodge Durango GT,3.0,3.0,1
+Dodge Challenger R/T Scat Pack,3.0,3.0,1
+Dodge Ram 2500 SXT,3.0,3.0,1
+Dodge Challenger R/T Scat Pack,3.0,3.0,1
+Dodge Challenger R/T,3.0,3.0,1
+Dodge Charger SXT,3.0,3.0,1
+Dodge Durango GT,3.0,3.0,1
+Dodge Durango GT,3.0,3.0,1
+Dodge Challenger SRT Hellcat,3.0,3.0,1
+Dodge Charger SRT 392,3.0,3.0,1
+Dodge Challenger GT,3.0,3.0,1
+Dodge Challenger SRT Hellcat,3.0,3.0,1
+Dodge Durango SXT,3.0,3.0,1
+Dodge Durango Citadel,3.0,3.0,1
+Dodge Challenger R/T 392,3.0,3.0,1
+Dodge Durango Citadel,3.0,3.0,1
+Dodge Charger SXT,3.0,3.0,1
+Dodge Charger SE,3.0,3.0,1
+Dodge Challenger SXT,3.0,3.0,1
+Dodge Dakota SLT,3.0,3.0,1
+Dodge Charger SRT Hellcat Widebody,3.0,3.0,1
+Dodge Challenger R/T Scat Pack,3.0,3.0,1
+Dodge Charger R/T,3.0,3.0,1
+Dodge Durango R/T,3.0,3.0,1
+Dodge Challenger SRT 392,3.0,3.0,1
+Dodge Challenger GT,3.0,3.0,1
+Dodge Charger GT,3.0,3.0,1
+Dodge Charger SXT,3.0,3.0,1
+Dodge Challenger R/T,3.0,3.0,1
+Dodge Durango R/T,3.0,3.0,1
+Dodge Durango SXT,3.0,3.0,1
+Dodge Charger Scat Pack,3.0,3.0,1
+Dodge Dakota Base,3.0,3.0,1
+Dodge Charger R/T,3.0,3.0,1
+Dodge Challenger GT,3.0,3.0,1
+Dodge Durango R/T,3.0,3.0,1
+Dodge Challenger R/T Scat Pack,3.0,3.0,1
+Dodge Challenger SXT,3.0,3.0,1
+Dodge Journey SE,3.0,3.0,1
+Dodge Ram 1500 BIG HORN,3.0,3.0,1
+Dodge Charger SXT,3.0,3.0,1
+Dodge Charger Police,3.0,3.0,1
+Dodge Charger SE,3.0,3.0,1
+Dodge Charger SXT,3.0,3.0,1
+Dodge Charger SXT,3.0,3.0,1
+Dodge Durango GT,3.0,3.0,1
+Dodge Charger SXT,3.0,3.0,1
+Dodge Charger R/T,3.0,3.0,2
+Dodge Charger R/T,3.0,3.0,2
+Dodge Durango R/T,3.0,3.0,1
+Dodge Charger R/T,3.0,3.0,1
+Dodge Challenger R/T,3.0,3.0,1
+Dodge Challenger R/T,3.0,3.0,1
+Dodge Challenger R/T,3.0,3.0,1
+Dodge Challenger R/T,3.0,3.0,1
+Dodge Durango GT,3.0,3.0,1
+Dodge Ram 3500 Laramie,3.0,3.0,1
+Dodge Charger SRT Hellcat Widebody,3.0,3.0,1
+Dodge Charger SXT,3.0,3.0,1
+Dodge Durango GT Plus,3.0,3.0,1
+Dodge Durango Crew,3.0,3.0,1
+Dodge Challenger GT,3.0,3.0,1
+Dodge Durango GT,3.0,3.0,1
+Dodge Challenger R/T,3.0,3.0,1
+Dodge Durango R/T,3.0,3.0,1
+Dodge Durango GT,3.0,3.0,1
+Dodge Challenger R/T Scat Pack,3.0,3.0,1
+Dodge Challenger R/T Scat Pack,3.0,3.0,1
+Dodge Dart SXT,3.0,3.0,1
+Ford Mustang GT Premium,3.0,3.0,1
+Ford F-350 XL,3.0,3.0,1
+Ford F-150 XLT,3.0,3.0,1
+Ford F-150 XL,3.0,3.0,1
+Ford Bronco Big Bend,3.0,3.0,1
+Ford Explorer Timberline,3.0,3.0,1
+Ford F-150 Lightning LARIAT,3.0,3.0,1
+Ford Bronco Outer Banks Advanced,3.0,3.0,1
+Ford F-350 XL,3.0,3.0,1
+Ford Maverick XLT,3.0,3.0,1
+Ford Ranger XLT,3.0,3.0,1
+Ford Mustang GT Premium,3.0,3.0,1
+Ford Bronco Outer Banks,3.0,3.0,1
+Ford Mustang Mach-E GT,3.0,3.0,1
+Ford Ranger XLT,3.0,3.0,1
+Ford Edge Titanium,3.0,3.0,1
+Ford F-150 Raptor,3.0,3.0,1
+Ford F-150 Lariat,3.0,3.0,1
+Ford F-250 Lariat,3.0,3.0,1
+Ford Bronco Base,3.0,3.0,1
+Ford Expedition Limited,3.0,3.0,1
+Ford Explorer XLT,3.0,3.0,1
+Ford Escape Titanium,3.0,3.0,1
+Ford Ranger Lariat,3.0,3.0,1
+Ford Mustang GT Premium,3.0,3.0,1
+Ford Explorer XLT,3.0,3.0,1
+Ford Mustang Mach-E Select,3.0,3.0,1
+Ford Bronco Big Bend,3.0,3.0,1
+Ford Shelby GT500 Base,3.0,3.0,1
+Ford Bronco Base,3.0,3.0,1
+Ford Expedition XLT,3.0,3.0,1
+Ford Focus RS Base,3.0,3.0,1
+Ford Bronco Big Bend,3.0,3.0,1
+Ford F-150 XL,3.0,3.0,1
+Ford F-150 Lightning,3.0,3.0,1
+Ford Mustang GT Premium,3.0,3.0,1
+Hyundai IONIQ 5 SEL,3.0,3.0,1
+Hyundai Palisade Limited,3.0,3.0,1
+Hyundai Palisade SEL,3.0,3.0,1
+Hyundai Palisade Calligraphy,3.0,3.0,1
+Hyundai Palisade Limited,3.0,3.0,1
+Hyundai Veracruz GLS,3.0,3.0,1
+Hyundai Genesis 3.8,3.0,3.0,1
+Hyundai Palisade Calligraphy,3.0,3.0,1
+Hyundai Elantra SE,3.0,3.0,1
+Hyundai Palisade XRT,3.0,3.0,1
+Hyundai Elantra N Base,3.0,3.0,1
+Hyundai Palisade SE,3.0,3.0,1
+Hyundai Palisade SEL,3.0,3.0,1
+Hyundai Sonata Hybrid SEL,3.0,3.0,1
+Hyundai Kona EV Ultimate,3.0,3.0,1
+Hyundai Kona EV SEL,3.0,3.0,1
+Hyundai Accent SEL,3.0,3.0,1
+Hyundai Accent SE,3.0,3.0,1
+Hyundai Elantra GT Base,3.0,3.0,1
+Hyundai Palisade SE,3.0,3.0,1
+Hyundai Santa Fe Calligraphy,3.0,3.0,1
+Hyundai Elantra Limited,3.0,3.0,1
+Hyundai Kona N Base,3.0,3.0,1
+Hyundai Palisade Calligraphy,3.0,3.0,1
+Hyundai Palisade SEL,3.0,3.0,1
+Hyundai Palisade Limited,3.0,3.0,1
+Hyundai Tucson Hybrid Limited,3.0,3.0,2
+Hyundai Tucson Hybrid Limited,3.0,3.0,2
+Hyundai Sonata Limited,3.0,3.0,1
+Hyundai Palisade SEL,3.0,3.0,1
+Hyundai Tucson Limited,3.0,3.0,1
+Hyundai Palisade SE,3.0,3.0,1
+Hyundai Sonata Hybrid Blue,3.0,3.0,1
+Hyundai Santa Fe Limited Ultimate,3.0,3.0,1
+Hyundai Elantra GT Base,3.0,3.0,1
+Hyundai Sonata SEL,3.0,3.0,1
+Hyundai Tucson Hybrid SEL Convenience,3.0,3.0,1
+Hyundai Tucson Limited,3.0,3.0,1
+Hyundai Sonata Limited,3.0,3.0,1
+Hyundai Santa Fe Sport 2.0T,3.0,3.0,1
+Hyundai Genesis Coupe 3.8 Base,3.0,3.0,1
+Hyundai Kona SE,3.0,3.0,1
+Hyundai Elantra Limited,3.0,3.0,1
+Hyundai Santa Fe SE 2.4,3.0,3.0,1
+Hyundai Santa Cruz 2.5T Limited,3.0,3.0,1
+Hyundai Tucson SE,3.0,3.0,1
+Hyundai Santa Fe Limited 2.0T,3.0,3.0,1
+Hyundai IONIQ 5 Limited,3.0,3.0,1
+Hyundai Palisade Limited,3.0,3.0,1
+Hyundai Tucson Value,3.0,3.0,1
+Hyundai Elantra Sport,3.0,3.0,1
+Hyundai Sonata Limited,3.0,3.0,1
+Hyundai Tucson Value,3.0,3.0,1
+Hyundai Santa Fe Limited,3.0,3.0,1
+Hyundai IONIQ EV SE,3.0,3.0,1
+Hyundai Tucson Limited,3.0,3.0,1
+Hyundai Kona SE,3.0,3.0,1
+Hyundai Tucson XRT,3.0,3.0,1
+Hyundai Palisade Limited,3.0,3.0,1
+Hyundai Sonata SEL,3.0,3.0,1
+Hyundai Sonata Limited,3.0,3.0,1
+Hyundai Santa Fe Limited 2.0T,3.0,3.0,1
+Hyundai Sonata SE,3.0,3.0,1
+Hyundai Palisade Limited,3.0,3.0,1
+Hyundai Sonata Limited,3.0,3.0,1
+Hyundai Santa Fe SEL,3.0,3.0,1
+Hyundai Sonata SE,3.0,3.0,1
+Hyundai Santa Fe Calligraphy,3.0,3.0,1
+Hyundai Santa Fe SEL,3.0,3.0,1
+Hyundai Santa Fe SEL,3.0,3.0,1
+Hyundai Sonata SE,3.0,3.0,1
+INFINITI QX50 Luxe,3.0,3.0,1
+INFINITI QX56 Base,3.0,3.0,1
+INFINITI QX50 ESSENTIAL,3.0,3.0,1
+INFINITI QX60 Base,3.0,3.0,1
+INFINITI QX60 Luxe,3.0,3.0,2
+INFINITI QX60 Luxe,3.0,3.0,2
+INFINITI Q50 3.0T Signature Edition,3.0,3.0,1
+INFINITI EX35 Journey,3.0,3.0,1
+INFINITI QX55 ESSENTIAL,3.0,3.0,1
+INFINITI QX50 Luxe,3.0,3.0,1
+INFINITI QX55 LUXE,3.0,3.0,1
+INFINITI Q60 S,3.0,3.0,1
+INFINITI QX55 LUXE,3.0,3.0,1
+INFINITI G37x Sport Appearance Edition,3.0,3.0,1
+INFINITI Q50 Premium,3.0,3.0,1
+INFINITI QX60 Base,3.0,3.0,1
+INFINITI G37,3.0,3.0,1
+INFINITI QX80 Luxe,3.0,3.0,1
+INFINITI Q60 3.0t Red Sport 400,3.0,3.0,1
+INFINITI QX55 ESSENTIAL,3.0,3.0,1
+INFINITI QX60 Luxe,3.0,3.0,1
+INFINITI QX60 Luxe,3.0,3.0,2
+INFINITI QX60 Luxe,3.0,3.0,2
+INFINITI Q60 3.0t Red Sport 400,3.0,3.0,1
+INFINITI QX80 SENSORY,3.0,3.0,1
+INFINITI QX50 AUTOGRAPH,3.0,3.0,1
+INFINITI QX56 Base,3.0,3.0,1
+INFINITI QX50 SENSORY,3.0,3.0,1
+INFINITI QX50 Pure,3.0,3.0,1
+INFINITI Q50 3.0t Sport,3.0,3.0,1
+INFINITI G37 Base,3.0,3.0,1
+INFINITI G37 Journey,3.0,3.0,1
+INFINITI QX60 Luxe,3.0,3.0,1
+INFINITI QX60 Base,3.0,3.0,1
+INFINITI QX80 Luxe,3.0,3.0,1
+INFINITI QX50 Journey,3.0,3.0,1
+INFINITI QX60 Luxe,3.0,3.0,1
+INFINITI Q50 3.0t LUXE,3.0,3.0,1
+INFINITI QX50 SENSORY,3.0,3.0,1
+INFINITI QX80 Luxe,3.0,3.0,1
+INFINITI QX80 Base,3.0,3.0,1
+INFINITI Q70L 3.7 AWD Premium Package,3.0,3.0,1
+INFINITI Q60 3.0t LUXE,3.0,3.0,1
+INFINITI Q60 LUXE,3.0,3.0,1
+INFINITI Q50 LUXE,3.0,3.0,1
+INFINITI QX80 Luxe,3.0,3.0,1
+INFINITI QX70 Base,3.0,3.0,1
+INFINITI QX50 SENSORY,3.0,3.0,1
+INFINITI QX50 Luxe,3.0,3.0,1
+INFINITI Q60 3.0t Red Sport 400,3.0,3.0,1
+INFINITI G37x Base,3.0,3.0,1
+INFINITI QX50 Base,3.0,3.0,1
+INFINITI Q50 Hybrid Premium,3.0,3.0,1
+INFINITI QX80 SENSORY,3.0,3.0,1
+INFINITI QX80 SENSORY,3.0,3.0,1
+INFINITI G37x Base,3.0,3.0,1
+INFINITI JX35 Base,3.0,3.0,1
+INFINITI QX55 LUXE,3.0,3.0,1
+INFINITI QX50 ESSENTIAL,3.0,3.0,1
+INFINITI QX50 Luxe,3.0,3.0,1
+INFINITI G37 Base,3.0,3.0,1
+INFINITI QX60 Luxe,3.0,3.0,1
+INFINITI Q50 3.0t LUXE,3.0,3.0,1
+INFINITI QX55 ESSENTIAL,3.0,3.0,1
+INFINITI QX50 AUTOGRAPH,3.0,3.0,1
+INFINITI Q50 3.0t LUXE,3.0,3.0,1
+INFINITI Q60 3.0t Red Sport 400,3.0,3.0,1
+INFINITI QX80 Base,3.0,3.0,1
+INFINITI QX80 PREMIUM SELECT,3.0,3.0,1
+INFINITI G37 Journey,3.0,3.0,1
+INFINITI QX70 Base,3.0,3.0,1
+INFINITI QX60 Luxe,3.0,3.0,2
+INFINITI QX60 Luxe,3.0,3.0,2
+INFINITI QX50,3.0,3.0,1
+INFINITI QX60 Luxe,3.0,3.0,1
+INFINITI G37 Journey,3.0,3.0,1
+INFINITI QX80 SENSORY,3.0,3.0,1
+INFINITI QX60 Base,3.0,3.0,1
+INFINITI Q60 Base,3.0,3.0,1
+INFINITI Q70 5.6X,3.0,3.0,1
+INFINITI QX50 Luxe,3.0,3.0,1
+INFINITI QX80 Base,3.0,3.0,1
+INFINITI QX80 PREMIUM SELECT,3.0,3.0,1
+INFINITI QX55 SENSORY,3.0,3.0,1
+INFINITI QX80 SENSORY,3.0,3.0,1
+INFINITI QX50 Luxe,3.0,3.0,2
+INFINITI QX50 Luxe,3.0,3.0,2
+INFINITI QX80 Luxe,3.0,3.0,1
+INFINITI QX55 LUXE,3.0,3.0,1
+Lexus ES 300h Base,3.0,3.0,1
+Lexus RX 350 Base,3.0,3.0,1
+Lexus IS 300 Base,3.0,3.0,1
+Lexus RC 350 F Sport,3.0,3.0,1
+Lexus UX 250h F SPORT Design,3.0,3.0,1
+Lexus RC 350 350,3.0,3.0,1
+Lexus LS 500 Base,3.0,3.0,1
+Lexus LX 600 F SPORT,3.0,3.0,1
+Lexus GX 460 Base,3.0,3.0,1
+Lexus ES 350 F SPORT Handling,3.0,3.0,1
+Lexus LX 600 F SPORT,3.0,3.0,1
+Lexus ES 300h 300H,3.0,3.0,2
+Lexus ES 300h 300H,3.0,3.0,2
+Lexus GX 460 Base,3.0,3.0,1
+Lexus GX 460 Base,3.0,3.0,1
+Lexus IS 350 F Sport,3.0,3.0,1
+Lexus LS 500 500 F SPORT-AWD NAVIGATION SYSTEM MARK LEVINSON SO,3.0,3.0,1
+Lexus ES 350,3.0,3.0,1
+Lexus IS 350 F Sport,3.0,3.0,1
+Lexus RX 350 F SPORT Handling,3.0,3.0,1
+Lexus LX 470,3.0,3.0,1
+Lexus RX 350L Premium,3.0,3.0,1
+Lexus GX 460 Base,3.0,3.0,1
+Lexus RC 200t 200t,3.0,3.0,1
+Lexus RC 350 F Sport,3.0,3.0,1
+Lexus IS 250 Base (A6),3.0,3.0,1
+Lexus HS 250h 250H,3.0,3.0,1
+Lexus GX 460 Base,3.0,3.0,1
+Lexus LC 500 Base,3.0,3.0,1
+Lexus LX 570 Base,3.0,3.0,1
+Lexus IS 250 Base,3.0,3.0,1
+Lexus RC F Base,3.0,3.0,1
+Lexus GS 350 Base,3.0,3.0,1
+Lexus RX 350 F Sport Performance,3.0,3.0,1
+Lexus RX 450h 450H,3.0,3.0,1
+Lexus ES 350 Luxury,3.0,3.0,1
+Lexus LS 500 F Sport,3.0,3.0,1
+Lexus IS 350 Base,3.0,3.0,1
+Lexus GX 460 Base,3.0,3.0,1
+Lexus RX 350L Base,3.0,3.0,1
+Lexus LS 460 Base,3.0,3.0,1
+Lexus RX 350 F Sport,3.0,3.0,1
+Lexus CT 200h Base,3.0,3.0,1
+Lexus RX 350 Base,3.0,3.0,1
+Lexus NX 200t AWD,3.0,3.0,1
+Lexus NX 250 Base,3.0,3.0,1
+Lexus RX 350 350,3.0,3.0,1
+Lexus NX 200t Base,3.0,3.0,1
+Lexus GX 460 Luxury,3.0,3.0,1
+Lexus ES 350 Base,3.0,3.0,1
+Lexus GX 460 Base,3.0,3.0,1
+Lexus NX 200t Base,3.0,3.0,1
+Lexus ES 350 350,3.0,3.0,1
+Lexus GX 460 Base,3.0,3.0,1
+Lexus IS 300 300,3.0,3.0,1
+Lexus IS 250 Base,3.0,3.0,1
+Lexus LX 600 Premium,3.0,3.0,1
+Lexus RX 350 350,3.0,3.0,1
+Lexus NX 300h,3.0,3.0,1
+Lexus LS 460 Base,3.0,3.0,1
+Lexus NX 300 Base,3.0,3.0,1
+Lexus RC 350 F Sport,3.0,3.0,1
+Lexus RX 350,3.0,3.0,1
+Lexus SC 430 Base,3.0,3.0,1
+Lexus NX 350 Base,3.0,3.0,1
+Lexus ES 350 350,3.0,3.0,1
+Lexus RX 350 Base,3.0,3.0,1
+Lexus IS 250 Base,3.0,3.0,1
+Lexus IS 300 Base,3.0,3.0,1
+Lexus GX 460 Premium,3.0,3.0,1
+Lexus GX 460 Base,3.0,3.0,1
+Lexus RX 350 Base,3.0,3.0,1
+Lexus RX 350 350,3.0,3.0,1
+Lexus IS 300 Base,3.0,3.0,1
+Lexus NX 300 NX 300,3.0,3.0,1
+Lexus NX 350h Premium,3.0,3.0,1
+Lexus RC 350 Base,3.0,3.0,1
+Lexus NX 200t Base,3.0,3.0,1
+Mercedes-Benz GLC 300 Base 4MATIC,3.0,3.0,1
+Mercedes-Benz Maybach S 580 4MATIC,3.0,3.0,1
+Mercedes-Benz GLC 300 Base 4MATIC,3.0,3.0,1
+Mercedes-Benz C-Class C 300 4MATIC,3.0,3.0,1
+Mercedes-Benz Sprinter 3500 High Roof,3.0,3.0,1
+Mercedes-Benz S-Class S 500 4MATIC,3.0,3.0,1
+Mercedes-Benz G-Class G 550 4MATIC,3.0,3.0,1
+Mercedes-Benz S-Class S 500 4MATIC,3.0,3.0,1
+Mercedes-Benz C-Class C 300 4MATIC,3.0,3.0,1
+Mercedes-Benz GLS 450 4MATIC,3.0,3.0,1
+Mercedes-Benz GLE 350 Base,3.0,3.0,2
+Mercedes-Benz GLE 350 Base,3.0,3.0,2
+Mercedes-Benz AMG SL 63 SL 63 AMG 4MATIC,3.0,3.0,1
+Mercedes-Benz GLC 300 Base,3.0,3.0,1
+Mercedes-Benz EQS 450 Base 4MATIC,3.0,3.0,1
+Mercedes-Benz GLS 450 4MATIC,3.0,3.0,1
+Mercedes-Benz S-Class S 580 4MATIC,3.0,3.0,1
+Mercedes-Benz AMG GLC 43 GLC 43 AMG 4MATIC,3.0,3.0,1
+Mercedes-Benz S-Class S 500 4MATIC,3.0,3.0,1
+Mercedes-Benz EQS 450 Base 4MATIC,3.0,3.0,1
+Mercedes-Benz GLC 300 Base 4MATIC,3.0,3.0,1
+Mercedes-Benz GLC 300 Base,3.0,3.0,1
+Mercedes-Benz G-Class G 550 4MATIC,3.0,3.0,1
+Mercedes-Benz Sprinter 3500XD High Roof,3.0,3.0,1
+Mercedes-Benz S-Class S 580 4MATIC,3.0,3.0,1
+Mercedes-Benz S-Class S 500 4MATIC,3.0,3.0,1
+Mercedes-Benz S-Class S 580 4MATIC,3.0,3.0,1
+Mercedes-Benz GLS 450 4MATIC,3.0,3.0,2
+Mercedes-Benz GLS 450 4MATIC,3.0,3.0,2
+Mercedes-Benz GLE 450 AWD 4MATIC,3.0,3.0,1
+Mercedes-Benz GLS 450 4MATIC,3.0,3.0,1
+Mercedes-Benz EQS 450 Base 4MATIC,3.0,3.0,1
+Mercedes-Benz GLS 450 4MATIC,3.0,3.0,1
+Mercedes-Benz G-Class G 550 4MATIC,3.0,3.0,1
+Mercedes-Benz GLC 300 Base 4MATIC,3.0,3.0,1
+Mercedes-Benz E-Class E 450,3.0,3.0,1
+Mercedes-Benz GLC 300 4MATIC Coupe,3.0,3.0,1
+Mercedes-Benz GLC 300 Base,3.0,3.0,1
+Mercedes-Benz Sprinter 2500 High Roof,3.0,3.0,1
+Mercedes-Benz Sprinter 2500 144 WB Standard Roof Crew,3.0,3.0,1
+Mercedes-Benz S-Class S 580 4MATIC,3.0,3.0,1
+Mercedes-Benz S-Class S 580 4MATIC,3.0,3.0,1
+Mercedes-Benz S-Class S 580 4MATIC,3.0,3.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,3.0,3.0,1
+Mercedes-Benz Sprinter 2500 144 WB,3.0,3.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,3.0,3.0,1
+Mercedes-Benz S-Class S 580 4MATIC,3.0,3.0,1
+Mercedes-Benz Sprinter 2500 Standard Roof,3.0,3.0,1
+Mercedes-Benz E-Class E 450,3.0,3.0,1
+Mercedes-Benz AMG GLA 45 Base,3.0,3.0,1
+Mercedes-Benz S-Class S 500 4MATIC,3.0,3.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,3.0,3.0,1
+Mercedes-Benz EQS 580 Base 4MATIC,3.0,3.0,1
+Mercedes-Benz S-Class S 580 4MATIC,3.0,3.0,1
+Mercedes-Benz Sprinter 2500 High Roof,3.0,3.0,1
+Mercedes-Benz G-Class G 550 4MATIC,3.0,3.0,1
+Mercedes-Benz S-Class S 580 4MATIC,3.0,3.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,3.0,3.0,1
+Mercedes-Benz C-Class C 300 4MATIC,3.0,3.0,1
+Mercedes-Benz Sprinter 2500 High Roof,3.0,3.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,3.0,3.0,1
+Mercedes-Benz GLC 300 Base,3.0,3.0,1
+Mercedes-Benz E-Class E 350 4MATIC,3.0,3.0,2
+Mercedes-Benz E-Class E 350 4MATIC,3.0,3.0,2
+Mercedes-Benz GLA 250 Base 4MATIC,3.0,3.0,1
+Mercedes-Benz GLC 300 Base,3.0,3.0,1
+Mercedes-Benz GLC 300 Base,3.0,3.0,1
+Mercedes-Benz S-Class S 500 4MATIC,3.0,3.0,1
+Mercedes-Benz Sprinter 3500 High Roof,3.0,3.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,3.0,3.0,1
+Mercedes-Benz G-Class G 550 4MATIC,3.0,3.0,1
+Mercedes-Benz E-Class E 450,3.0,3.0,1
+Mercedes-Benz Sprinter 2500 High Roof,3.0,3.0,1
+Mercedes-Benz GLC 300 Base 4MATIC,3.0,3.0,1
+Mercedes-Benz S-Class S 580 4MATIC,3.0,3.0,1
+Mercedes-Benz Sprinter 2500 High Roof,3.0,3.0,1
+Mercedes-Benz S-Class S 580 4MATIC,3.0,3.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,3.0,3.0,1
+Mercedes-Benz C-Class C 300 4MATIC,3.0,3.0,1
+Mercedes-Benz GLE 350 Base 4MATIC,3.0,3.0,1
+Mercedes-Benz GLS 450 4MATIC,3.0,3.0,1
+Mercedes-Benz GLB 250 Base 4MATIC,3.0,3.0,1
+Mercedes-Benz GLC 300 Base,3.0,3.0,1
+Mercedes-Benz Sprinter 2500 Standard Roof,3.0,3.0,1
+Mercedes-Benz GLC 300 Base,3.0,3.0,1
+Mercedes-Benz S-Class S 580 4MATIC,3.0,3.0,1
+Mercedes-Benz GLB 250 Base 4MATIC,3.0,3.0,1
+Mercedes-Benz E-Class E 350 4MATIC,3.0,3.0,1
+Mercedes-Benz EQE 350 Base 4MATIC,3.0,3.0,1
+Mercedes-Benz GLC 300 Base,3.0,3.0,1
+Mercedes-Benz Sprinter 3500XD High Roof,3.0,3.0,1
+Mercedes-Benz S-Class S 580 4MATIC,3.0,3.0,1
+Mercedes-Benz S-Class S 580 4MATIC,3.0,3.0,1
+Mercedes-Benz E-Class E 350 4MATIC,3.0,3.0,1
+Mercedes-Benz AMG GLE 63 S,3.0,3.0,1
+Mercedes-Benz GLC 300 Base 4MATIC,3.0,3.0,1
+Porsche Macan Base,3.0,3.0,1
+Porsche Macan S,3.0,3.0,1
+Porsche Macan Base,3.0,3.0,1
+Porsche Macan Base,3.0,3.0,1
+Porsche 718 Cayman S,3.0,3.0,1
+Porsche Cayman Base,3.0,3.0,1
+Porsche Panamera 4S,3.0,3.0,1
+Porsche Cayenne,3.0,3.0,1
+Porsche Cayenne AWD,3.0,3.0,1
+Porsche Taycan 4S,3.0,3.0,1
+Porsche Cayenne S,3.0,3.0,1
+Porsche Cayman S,3.0,3.0,1
+Porsche Panamera Turbo,3.0,3.0,1
+Porsche Panamera 4,3.0,3.0,1
+Porsche 911 GT3,3.0,3.0,1
+Porsche Cayenne PANOROOF NAV MSRP 70 460,3.0,3.0,1
+Porsche Cayenne E-Hybrid S,3.0,3.0,1
+Porsche Cayenne Diesel,3.0,3.0,1
+Porsche Boxster Spyder,3.0,3.0,1
+Porsche 911 Turbo,3.0,3.0,1
+Porsche Macan Base,3.0,3.0,1
+Porsche Panamera Edition,3.0,3.0,1
+Porsche Cayman S,3.0,3.0,1
+Porsche 911 GT3,3.0,3.0,1
+Porsche Macan S,3.0,3.0,1
+Porsche 911 GT3,3.0,3.0,1
+Porsche Cayenne Platinum Edition,3.0,3.0,1
+Porsche 911 Turbo S,3.0,3.0,1
+Porsche Macan Base,3.0,3.0,1
+Porsche Cayenne Diesel,3.0,3.0,1
+Porsche Macan Base,3.0,3.0,1
+Porsche 911 Carrera S,3.0,3.0,1
+Porsche 911 Carrera S,3.0,3.0,1
+Porsche Cayenne S,3.0,3.0,1
+Porsche Panamera RWD,3.0,3.0,1
+Porsche Macan Sport Edition,3.0,3.0,1
+Porsche Taycan GTS,3.0,3.0,1
+Porsche Macan Base,3.0,3.0,1
+Porsche Cayenne Turbo,3.0,3.0,1
+Porsche Cayenne S Coupe AWD,3.0,3.0,1
+Porsche 718 Boxster S,3.0,3.0,1
+Porsche 911 Targa 4,3.0,3.0,1
+Porsche Cayenne Diesel,3.0,3.0,1
+Porsche Cayenne Turbo,3.0,3.0,1
+Porsche 911 Carrera Cabriolet,3.0,3.0,1
+Porsche Macan S,3.0,3.0,1
+Porsche 911 Carrera S,3.0,3.0,1
+Porsche Cayenne GTS,3.0,3.0,1
+Porsche 718 Cayman GTS,3.0,3.0,1
+Porsche Cayenne GTS,3.0,3.0,1
+Porsche Macan Turbo,3.0,3.0,1
+Porsche Macan Base,3.0,3.0,1
+Porsche Panamera GTS,3.0,3.0,1
+Porsche 911 Carrera S,3.0,3.0,1
+Porsche 911,3.0,3.0,1
+Porsche 911 Turbo S,3.0,3.0,1
+Porsche Macan S,3.0,3.0,1
+Porsche Macan Base,3.0,3.0,1
+Porsche Cayenne E-Hybrid Turbo S,3.0,3.0,1
+Porsche 718 Boxster S,3.0,3.0,1
+Porsche 718 Boxster Base,3.0,3.0,1
+Porsche 718 Cayman S,3.0,3.0,1
+Porsche Cayenne Base (Tiptronic),3.0,3.0,1
+Porsche Cayenne Turbo,3.0,3.0,1
+Porsche 911 Carrera GTS,3.0,3.0,1
+Porsche 718 Cayman S,3.0,3.0,1
+Porsche 911 Carrera S,3.0,3.0,1
+Porsche Cayenne S,3.0,3.0,1
+Porsche Macan Base,3.0,3.0,1
+Porsche Panamera 4,3.0,3.0,1
+Porsche 928 2dr Coupe 5-Spd,3.0,3.0,1
+Porsche 911 Carrera S,3.0,3.0,1
+Porsche Cayenne Platinum Edition,3.0,3.0,1
+Porsche Macan S,3.0,3.0,1
+Tesla Model S 85D,3.0,3.0,1
+Tesla Model S 75D,3.0,3.0,1
+Tesla Model 3 Performance,3.0,3.0,1
+Tesla Model Y Performance,3.0,3.0,1
+Tesla Model X 100D,3.0,3.0,1
+Tesla Model 3 Performance,3.0,3.0,1
+Tesla Model 3 Long Range,3.0,3.0,1
+Tesla Model 3 Performance,3.0,3.0,1
+Tesla Model S 75D/100D/P100D,3.0,3.0,1
+Tesla Model S 60,3.0,3.0,1
+Tesla Model Y Standard Range,3.0,3.0,1
+Tesla Model S Long Range,3.0,3.0,1
+Tesla Model 3 Performance,3.0,3.0,1
+Tesla Model S 100D,3.0,3.0,1
+Tesla Model Y Long Range,3.0,3.0,1
+Tesla Model S Plaid,3.0,3.0,1
+Tesla Model X 90D,3.0,3.0,1
+Tesla Model S 75D,3.0,3.0,1
+Tesla Model S 90D,3.0,3.0,1
+Tesla Model X 100D,3.0,3.0,1
+Tesla Model 3 Long Range,3.0,3.0,1
+Tesla Model S 75,3.0,3.0,1
+Tesla Model Y Performance,3.0,3.0,1
+Tesla Model Y Performance,3.0,3.0,1
+Tesla Model X,3.0,3.0,1
+Tesla Model Y Long Range,3.0,3.0,1
+Tesla Model Y Long Range,3.0,3.0,1
+Tesla Model X 90D,3.0,3.0,1
+Tesla Model Y Long Range,3.0,3.0,1
+Tesla Model 3 Long Range,3.0,3.0,2
+Tesla Model 3 Long Range,3.0,3.0,2
+Tesla Model 3 Long Range,3.0,3.0,1
+Tesla Model 3 Standard Range Plus,3.0,3.0,1
+Tesla Model S P100D 100 KWH BATTERY SEDAN 4D,3.0,3.0,1
+Tesla Model X Long Range Plus,3.0,3.0,1
+Tesla Model Y Standard Range,3.0,3.0,1
+Tesla Model S 100D,3.0,3.0,1
+Tesla Model Y Long Range,3.0,3.0,1
+Tesla Model 3 Mid Range,3.0,3.0,1
+Tesla Model 3 Standard Range,3.0,3.0,1
+Tesla Model 3 Long Range,3.0,3.0,1
+Tesla Model 3 Mid Range,3.0,3.0,1
+Tesla Model 3 Long Range,3.0,3.0,1
+Tesla Model S 75D,3.0,3.0,1
+Tesla Model 3 Standard Range,3.0,3.0,1
+Tesla Model 3,3.0,3.0,1
+Tesla Model 3 Base,3.0,3.0,1
+Tesla Model 3 Long Range,3.0,3.0,1
+Tesla Model X 75D/HIGHWAY AUTOPILOT/6 SEATER INTERIOR/PREMIUM UP,3.0,3.0,1
+Tesla Model 3 Long Range,3.0,3.0,1
+Tesla Model X 75D,3.0,3.0,1
+Tesla Model S 100D,3.0,3.0,1
+Tesla Model X 75D,3.0,3.0,1
+Tesla Model X Plaid,3.0,3.0,1
+Tesla Model 3 Long Range,3.0,3.0,1
+Tesla Model 3 Mid Range,3.0,3.0,1
+Tesla Model 3 Standard Range Plus,3.0,3.0,1
+Tesla Model Y Long Range,3.0,3.0,1
+Tesla Model Y Performance,3.0,3.0,1
+Tesla Model 3 Long Range,3.0,3.0,1
+Tesla Model 3 Long Range,3.0,3.0,1
+Tesla Model Y Long Range,3.0,3.0,1
+Tesla Model X Performance,3.0,3.0,1
+Tesla Model 3 Standard Range Plus,3.0,3.0,1
+Tesla Model 3 Performance,3.0,3.0,1
+Tesla Model S Long Range,3.0,3.0,1
+Tesla Model 3 Long Range,3.0,3.0,1
+Tesla Model S 90D,3.0,3.0,1
+Toyota Camry SE,3.0,3.0,1
+Toyota Tacoma TRD Sport,3.0,3.0,1
+Toyota Camry LE,3.0,3.0,1
+Toyota Tundra SR5,3.0,3.0,1
+Toyota Tundra Hybrid Platinum,3.0,3.0,1
+Toyota Tundra 1794,3.0,3.0,1
+Toyota Tundra Platinum,3.0,3.0,2
+Toyota Tundra Platinum,3.0,3.0,2
+Toyota Corolla iM Base,3.0,3.0,1
+Toyota C-HR XLE,3.0,3.0,1
+Toyota Tundra Limited,3.0,3.0,2
+Toyota Tundra Limited,3.0,3.0,2
+Toyota Tundra Platinum,3.0,3.0,1
+Toyota RAV4 Hybrid XLE Premium,3.0,3.0,1
+Toyota 4Runner SR5 Premium,3.0,3.0,1
+Toyota RAV4 Prime XSE,3.0,3.0,1
+Toyota Corolla iM Base,3.0,3.0,1
+Toyota Sequoia SR5,3.0,3.0,1
+Toyota Land Cruiser V8,3.0,3.0,1
+Toyota Highlander XLE,3.0,3.0,1
+Toyota Tundra Hybrid Platinum,3.0,3.0,1
+Toyota Tacoma TRD Off Road,3.0,3.0,1
+Toyota Sienna Platinum 7 Passenger,3.0,3.0,1
+Toyota Sienna Limited,3.0,3.0,1
+Toyota Camry SE,3.0,3.0,1
+Toyota Corolla SE,3.0,3.0,1
+Toyota Tundra SR5,3.0,3.0,1
+Toyota 4Runner 40th Anniversary Special Edition,3.0,3.0,1
+Toyota GR86 Premium,3.0,3.0,1
+Toyota Land Cruiser,3.0,3.0,1
+Toyota Tundra Limited,3.0,3.0,1
+Toyota Tundra Hybrid Platinum,3.0,3.0,1
+Toyota Yaris Base,3.0,3.0,1
+Toyota Highlander Hybrid Limited,3.0,3.0,1
+Toyota Tundra SR5,3.0,3.0,1
+Toyota Camry SE,3.0,3.0,1
+Toyota Sienna Limited,3.0,3.0,1
+Toyota Highlander Limited,3.0,3.0,1
+Toyota 4Runner TRD Pro,3.0,3.0,1
+Toyota Sienna XLE 8 Passenger,3.0,3.0,1
+Toyota Camry XSE,3.0,3.0,1
+Toyota Supra 3.0,3.0,3.0,1
+Toyota Tundra Hybrid 1794 Edition,3.0,3.0,1
+Toyota Camry SE,3.0,3.0,1
+Toyota Avalon TRD,3.0,3.0,1
+Toyota Supra 2.0,3.0,3.0,1
+Toyota Highlander L,3.0,3.0,1
+Toyota Camry SE Nightshade,3.0,3.0,1
+Toyota bZ4X Limited,3.0,3.0,1
+Toyota RAV4 Hybrid XLE,3.0,3.0,1
+Toyota Tacoma SR5,3.0,3.0,1
+Toyota Tacoma Limited,3.0,3.0,1
+Toyota Highlander Hybrid XLE,3.0,3.0,1
+Toyota Prius c Three,3.0,3.0,1
+Toyota 4Runner Limited,3.0,3.0,1
+Volkswagen Tiguan 2.0T SE,3.0,3.0,2
+Volkswagen Tiguan 2.0T SE,3.0,3.0,2
+Volkswagen Arteon 2.0T SEL Premium R-Line,3.0,3.0,1
+Volkswagen Taos 1.5T SE,3.0,3.0,1
+Volkswagen Atlas 3.6L SEL Premium R-Line,3.0,3.0,1
+Volkswagen Arteon 2.0T SE R-Line,3.0,3.0,1
+Volkswagen Arteon 2.0T SEL R-Line,3.0,3.0,1
+Volkswagen Jetta GLI,3.0,3.0,1
+Volkswagen Passat 2.0T R-Line,3.0,3.0,1
+Volkswagen Arteon 2.0T SEL Premium R-Line,3.0,3.0,1
+Volkswagen Arteon 2.0T SEL R-Line,3.0,3.0,1
+Volkswagen Tiguan 2.0T S,3.0,3.0,1
+Volkswagen Tiguan S,3.0,3.0,1
+Volkswagen Taos 1.5T SE,3.0,3.0,1
+Volkswagen Golf R 4-Door,3.0,3.0,1
+Volkswagen Atlas 3.6 V6 SEL Premium,3.0,3.0,1
+Volkswagen Atlas 2.0T SE,3.0,3.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SEL,3.0,3.0,1
+Volkswagen Tiguan 2.0T SE,3.0,3.0,1
+Volkswagen Atlas 3.6 V6 SEL R-Line Black,3.0,3.0,1
+Volkswagen Passat 2.0L TDI DSG SEL Premium,3.0,3.0,1
+Volkswagen ID.4 Pro S,3.0,3.0,1
+Volkswagen Arteon 2.0T SEL R-Line,3.0,3.0,1
+Volkswagen ID.4 Pro S,3.0,3.0,1
+Volkswagen Touareg VR6 Sport,3.0,3.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SEL Premium,3.0,3.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SE w/Technology,3.0,3.0,1
+Volkswagen Atlas 3.6L SE w/Technology,3.0,3.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SEL Premium R-Line,3.0,3.0,1
+Volkswagen Beetle 2.0T S,3.0,3.0,1
+Volkswagen Tiguan 2.0T S,3.0,3.0,1
+Volkswagen Jetta 1.4T SE,3.0,3.0,1
+Volkswagen Passat 2.0T S,3.0,3.0,1
+Volkswagen Atlas 3.6L SEL Premium,3.0,3.0,1
+Volkswagen Tiguan 2.0T SE,3.0,3.0,1
+Volkswagen Atlas 3.6L V6 SEL R-Line Black,3.0,3.0,1
+Volkswagen Tiguan 2.0T SE R-Line Black,3.0,3.0,1
+Volkswagen Tiguan 2.0T S,3.0,3.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SEL Premium,3.0,3.0,1
+Volkswagen Beetle 1.8T S,3.0,3.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SE w/Technology,3.0,3.0,1
+Volkswagen Arteon 2.0T SEL R-Line,3.0,3.0,1
+Volkswagen Tiguan 2.0T SE,3.0,3.0,1
+Volkswagen Passat 2.0T R-Line,3.0,3.0,1
+Volkswagen ID.4 Pro S,3.0,3.0,1
+Volkswagen Atlas 3.6L SE w/Technology,3.0,3.0,1
+Volkswagen Atlas 2.0T SEL,3.0,3.0,1
+Volkswagen Atlas Cross Sport 2.0T SEL,3.0,3.0,1
+Volkswagen ID.4 Pro S,3.0,3.0,1
+Volkswagen Golf GTI Autobahn,3.0,3.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SE w/Technology,3.0,3.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SE w/Technology,3.0,3.0,1
+Volkswagen Jetta 1.4T S,3.0,3.0,1
+Volkswagen Atlas 3.6L SE w/Technology,3.0,3.0,1
+Volkswagen Tiguan 2.0T SE,3.0,3.0,1
+Volkswagen Atlas 3.6L SEL,3.0,3.0,1
+Volkswagen Golf SportWagen TSI S,3.0,3.0,2
+Volkswagen Golf SportWagen TSI S,3.0,3.0,2
+Volkswagen Atlas 3.6L SE w/Technology,3.0,3.0,1
+Volkswagen Passat 2.0T R-Line,3.0,3.0,1
+Volkswagen Tiguan 2.0T SE R-Line Black,3.0,3.0,1
+Volkswagen Tiguan SE,3.0,3.0,1
+Volkswagen Golf GTI SE,3.0,3.0,1
+Volkswagen CC 2.0T Sport,3.0,3.0,1
+Volkswagen Eos Komfort,3.0,3.0,1
+Volkswagen Golf 1.4T TSI,3.0,3.0,1
+Volkswagen Atlas 3.6L SE w/Technology,3.0,3.0,1
+Volkswagen Passat 2.5L Auto SE PZEV,3.0,3.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SEL Premium R-Line,3.0,3.0,1
+Volkswagen Tiguan 2.0T SE,3.0,3.0,1
+Volkswagen Tiguan 2.0T SE,3.0,3.0,1
+Volkswagen Golf Alltrack TSI S,3.0,3.0,1
+Volkswagen Atlas Cross Sport 2.0T S,3.0,3.0,1
+Volkswagen Atlas 3.6L SE w/Technology,3.0,3.0,1
+Volkswagen Jetta GLI 2.0T 35th Anniversary Edition,3.0,3.0,1
+Volkswagen Tiguan S,3.0,3.0,1
+Volkswagen GTI 4-Door,3.0,3.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SE w/Technology,3.0,3.0,1
+Volkswagen Tiguan 2.0T SEL,3.0,3.0,1
+Volkswagen Golf GTI 2.0T Autobahn,3.0,3.0,1
+Volkswagen Passat 2.0T S,3.0,3.0,1
+Volkswagen Golf 1.4T SE,3.0,3.0,1
+Volkswagen Eos Lux,3.0,3.0,1
+Volkswagen Passat 2.0T SE,3.0,3.0,1
+Volkswagen Golf SportWagen 1.4T SE,3.0,3.0,1
+Volkswagen Jetta SportWagen TDI,3.0,3.0,1
+Volkswagen Tiguan 2.0T SE,3.0,3.0,1
+Volkswagen Tiguan 2.0T SE,3.0,3.0,1
+Volkswagen Tiguan S,3.0,3.0,1
+Volkswagen Atlas 3.6L SEL Premium R-Line,3.0,3.0,1
+Volkswagen Atlas Cross Sport 2.0T SE,3.0,3.0,1
+Volkswagen Jetta SE,3.0,3.0,1
+Volkswagen ID.4 Pro S,3.0,3.0,1
+Volkswagen ID.4 Pro S,3.0,3.0,1
+Acura TLX Technology,2.6666666666666665,2.6666666666666665,3
+Acura TLX Technology,2.6666666666666665,2.6666666666666665,3
+Acura TLX Technology,2.6666666666666665,2.6666666666666665,3
+BMW X3 xDrive30i,2.5,2.5,2
+BMW X3 xDrive30i,2.5,2.5,2
+BMW X5 M50i,2.5,2.5,2
+BMW X5 M50i,2.5,2.5,2
+Chevrolet Silverado 2500 LT,2.5,2.5,2
+Chevrolet Silverado 2500 LT,2.5,2.5,2
+Chevrolet Camaro LT1,2.5,2.5,2
+Chevrolet Camaro LT1,2.5,2.5,2
+Chevrolet Tahoe Premier,2.5,2.5,2
+Chevrolet Tahoe Premier,2.5,2.5,2
+Dodge Journey R/T,2.5,2.5,2
+Dodge Journey R/T,2.5,2.5,2
+Ford Mustang GT,2.5,2.5,2
+Ford Mustang GT,2.5,2.5,2
+Hyundai Venue Limited,2.5,2.5,2
+Hyundai Venue Limited,2.5,2.5,2
+INFINITI QX50 SPORT,2.5,2.5,2
+INFINITI QX50 SPORT,2.5,2.5,2
+INFINITI QX60 Luxe,2.5,2.5,2
+INFINITI QX60 Luxe,2.5,2.5,2
+INFINITI QX80 Luxe,2.5,2.5,2
+INFINITI QX80 Luxe,2.5,2.5,2
+Lexus ES 300h Ultra Luxury,2.5,2.5,2
+Lexus ES 300h Ultra Luxury,2.5,2.5,2
+Lexus RX 350h Luxury,2.5,2.5,2
+Lexus RX 350h Luxury,2.5,2.5,2
+Mercedes-Benz Sprinter 2500 High Roof,2.5,2.5,2
+Mercedes-Benz Sprinter 2500 High Roof,2.5,2.5,2
+Mercedes-Benz E-Class E 450,2.5,2.5,2
+Mercedes-Benz E-Class E 450,2.5,2.5,2
+Mercedes-Benz EQS 450+ EQS 450 4MATIC,2.5,2.5,2
+Mercedes-Benz EQS 450+ EQS 450 4MATIC,2.5,2.5,2
+Mercedes-Benz S-Class S 580 4MATIC,2.5,2.5,2
+Mercedes-Benz S-Class S 580 4MATIC,2.5,2.5,2
+Porsche 911,2.5,2.5,2
+Porsche 911,2.5,2.5,2
+Porsche Macan S,2.5,2.5,2
+Porsche Macan S,2.5,2.5,2
+Tesla Model X,2.5,2.5,2
+Tesla Model X,2.5,2.5,2
+Tesla Model 3 Standard Range Plus,2.5,2.5,2
+Tesla Model 3 Standard Range Plus,2.5,2.5,2
+Toyota Sequoia Limited,2.5,2.5,2
+Toyota Sequoia Limited,2.5,2.5,2
+Volkswagen Tiguan 2.0T SEL Premium,2.5,2.5,2
+Volkswagen Tiguan 2.0T SEL Premium,2.5,2.5,2
+Volkswagen Tiguan 2.0T SE,2.5,2.5,2
+Volkswagen Tiguan 2.0T SE,2.5,2.5,2
+Volkswagen Tiguan 2.0T SE,2.5,2.5,2
+Volkswagen Tiguan 2.0T SE,2.5,2.5,2
+Volkswagen Passat 2.0T SE,2.5,2.5,2
+Volkswagen Passat 2.0T SE,2.5,2.5,2
+Toyota Sequoia Limited,2.3333333333333335,2.3333333333333335,3
+Toyota Sequoia Limited,2.3333333333333335,2.3333333333333335,3
+Toyota Sequoia Limited,2.3333333333333335,2.3333333333333335,3
+Acura RLX Technology Package,2.0,2.0,1
+Acura TLX w/A-Spec Package,2.0,2.0,1
+Acura MDX 3.5L w/Advance Package,2.0,2.0,1
+Acura RDX Advance Package,2.0,2.0,1
+Acura TLX Technology,2.0,2.0,1
+Acura MDX Type S,2.0,2.0,1
+Acura TLX A-Spec,2.0,2.0,1
+Acura RDX A-Spec,2.0,2.0,1
+Acura NSX Base,2.0,2.0,1
+Acura MDX Sport Hybrid 3.0L w/Advance Package,2.0,2.0,1
+Acura TLX Technology,2.0,2.0,1
+Acura ILX 2.0L Technology,2.0,2.0,1
+Acura MDX 3.5L w/Technology Package,2.0,2.0,1
+Acura RDX Technology Package,2.0,2.0,2
+Acura RDX Technology Package,2.0,2.0,2
+Acura MDX 3.7L (A6),2.0,2.0,1
+Acura ILX Premium & A-SPEC Packages,2.0,2.0,1
+Acura TLX ELITE A-SPEC,2.0,2.0,1
+Acura RDX A-Spec,2.0,2.0,1
+Acura RDX A-Spec,2.0,2.0,1
+Acura RDX Technology Package,2.0,2.0,1
+Acura TLX FWD,2.0,2.0,2
+Acura TLX FWD,2.0,2.0,2
+Acura ILX Premium & A-SPEC Packages,2.0,2.0,1
+Acura ILX Technology Plus & A-SPEC Packages,2.0,2.0,1
+Acura MDX 3.5L,2.0,2.0,1
+Acura RDX Technology Package,2.0,2.0,1
+Acura RDX Advance Package,2.0,2.0,1
+Acura TL 3.5,2.0,2.0,1
+Acura MDX 3.5L,2.0,2.0,1
+Acura TSX 2.4,2.0,2.0,1
+Acura TSX 2.4,2.0,2.0,1
+Acura TLX Type S,2.0,2.0,1
+Acura TLX V6 Advance,2.0,2.0,2
+Acura TLX V6 Advance,2.0,2.0,2
+Acura RLX Technology Package,2.0,2.0,1
+Acura TLX V6 Advance,2.0,2.0,1
+Acura TLX A-Spec,2.0,2.0,1
+Acura RDX A-Spec,2.0,2.0,1
+Acura TLX V6 w/Technology Package,2.0,2.0,1
+Acura RDX A-Spec,2.0,2.0,1
+Acura RDX Technology Package,2.0,2.0,1
+Acura MDX Advance,2.0,2.0,1
+Acura TL 3.2 w/Navigation,2.0,2.0,1
+Acura RDX Technology Package,2.0,2.0,1
+Acura TLX Technology,2.0,2.0,1
+Acura TLX A-Spec,2.0,2.0,1
+Acura RDX Technology Package,2.0,2.0,1
+Acura RDX A-Spec,2.0,2.0,1
+Acura RDX A-Spec Advance Package,2.0,2.0,1
+Acura RDX Technology Package,2.0,2.0,1
+Acura TL 3.5,2.0,2.0,1
+Acura RDX Technology Package,2.0,2.0,1
+Acura MDX w/Advance Package,2.0,2.0,1
+Acura Integra A-Spec Technology,2.0,2.0,1
+Acura MDX Base,2.0,2.0,1
+Acura RDX Base (A6),2.0,2.0,1
+Acura ILX Base,2.0,2.0,1
+Acura TLX Tech,2.0,2.0,1
+Acura MDX 3.7L Advance,2.0,2.0,1
+Acura RDX A-Spec Advance Package,2.0,2.0,1
+Acura ILX w/Premium Package,2.0,2.0,1
+Acura RDX Technology,2.0,2.0,1
+Acura MDX Technology,2.0,2.0,1
+Acura ILX 2.0L w/Premium Package,2.0,2.0,1
+Acura RDX Advance Package,2.0,2.0,1
+Acura MDX A-Spec,2.0,2.0,1
+Acura MDX Technology,2.0,2.0,1
+Acura RDX A-Spec,2.0,2.0,1
+Acura RDX Technology Package,2.0,2.0,1
+Acura ILX Premium Package,2.0,2.0,1
+Acura RDX A-Spec,2.0,2.0,1
+Acura Integra w/A-Spec Package,2.0,2.0,1
+Acura MDX 3.5L w/Technology Package,2.0,2.0,1
+Acura Integra w/A-Spec Tech Package,2.0,2.0,1
+Acura ILX Premium & A-SPEC Packages,2.0,2.0,1
+Acura RDX Technology Package,2.0,2.0,1
+Acura MDX 3.5L Technology Package,2.0,2.0,1
+Acura RDX Base,2.0,2.0,1
+Acura RDX Technology Package,2.0,2.0,1
+Acura RDX Technology,2.0,2.0,1
+Acura MDX 3.5L w/Technology Package,2.0,2.0,1
+Acura MDX 3.7L Advance,2.0,2.0,1
+Acura MDX 3.5L w/Technology Package,2.0,2.0,1
+Acura RDX Base,2.0,2.0,1
+Acura Integra A-Spec,2.0,2.0,1
+Acura TLX A-Spec,2.0,2.0,1
+Acura MDX 3.5L w/Technology Package,2.0,2.0,1
+Acura RDX A-Spec,2.0,2.0,1
+BMW X5 M Base,2.0,2.0,1
+BMW 430 i,2.0,2.0,1
+BMW M8 Competition,2.0,2.0,1
+BMW X5 PHEV xDrive45e,2.0,2.0,1
+BMW X3 xDrive30i,2.0,2.0,1
+BMW M4 Competition xDrive,2.0,2.0,1
+BMW X5 M50i,2.0,2.0,1
+BMW M340 i,2.0,2.0,1
+BMW 435 i xDrive,2.0,2.0,1
+BMW 740 i,2.0,2.0,1
+BMW 435 i,2.0,2.0,1
+BMW 435 Gran Coupe i xDrive,2.0,2.0,1
+BMW M2 Base,2.0,2.0,1
+BMW X5 M50i,2.0,2.0,1
+BMW X5 xDrive40i,2.0,2.0,1
+BMW Z4 M40i,2.0,2.0,1
+BMW 228 Gran Coupe i xDrive,2.0,2.0,1
+BMW M235 i,2.0,2.0,1
+BMW X7 xDrive40i,2.0,2.0,1
+BMW 330e xDrive,2.0,2.0,1
+BMW Z4 M40i,2.0,2.0,1
+BMW 340 i xDrive,2.0,2.0,1
+BMW M5 Base,2.0,2.0,1
+BMW ALPINA B7 xDrive,2.0,2.0,1
+BMW 330 i xDrive,2.0,2.0,2
+BMW 330 i xDrive,2.0,2.0,2
+BMW 440 Gran Coupe i,2.0,2.0,1
+BMW 760 760i xDrive,2.0,2.0,1
+BMW X5 M50i,2.0,2.0,1
+BMW 430 i,2.0,2.0,1
+BMW 230 i xDrive,2.0,2.0,1
+BMW 840 Gran Coupe i xDrive,2.0,2.0,1
+BMW X7 xDrive40i,2.0,2.0,1
+BMW X5 xDrive40i,2.0,2.0,1
+BMW 430 Gran Coupe i xDrive,2.0,2.0,1
+BMW 330e xDrive,2.0,2.0,1
+BMW M440 Gran Coupe i xDrive,2.0,2.0,1
+BMW iX xDrive50,2.0,2.0,1
+BMW M8 Competition,2.0,2.0,1
+BMW X5 xDrive40i,2.0,2.0,1
+BMW M3 Base,2.0,2.0,1
+BMW 530 i,2.0,2.0,1
+BMW 328 i,2.0,2.0,1
+BMW 750 i,2.0,2.0,1
+BMW iX xDrive50,2.0,2.0,1
+BMW 530 i,2.0,2.0,1
+BMW 440 Gran Coupe i,2.0,2.0,1
+BMW X5 PHEV xDrive45e,2.0,2.0,1
+BMW 230 i xDrive,2.0,2.0,1
+BMW i4 Gran Coupe eDrive40,2.0,2.0,1
+BMW M2 Competition,2.0,2.0,1
+BMW 335 i,2.0,2.0,1
+BMW X5 sDrive40i,2.0,2.0,1
+BMW 430 i,2.0,2.0,1
+BMW 228 Gran Coupe i xDrive,2.0,2.0,1
+BMW X3 xDrive30i,2.0,2.0,1
+BMW 740 740i,2.0,2.0,1
+BMW 740 i,2.0,2.0,1
+BMW M850 Gran Coupe i xDrive,2.0,2.0,1
+BMW M550 i xDrive,2.0,2.0,1
+BMW M850 i xDrive,2.0,2.0,1
+BMW 840 Gran Coupe i xDrive,2.0,2.0,1
+BMW 428 i xDrive,2.0,2.0,1
+BMW 430 i xDrive,2.0,2.0,1
+BMW 650 Gran Coupe i,2.0,2.0,1
+BMW X3 xDrive30i,2.0,2.0,1
+BMW 530 i xDrive,2.0,2.0,1
+BMW X5 sDrive35i,2.0,2.0,1
+BMW X2 xDrive28i,2.0,2.0,1
+BMW M235 i,2.0,2.0,1
+BMW 540 i,2.0,2.0,1
+BMW 335 i xDrive,2.0,2.0,1
+BMW 740 i xDrive,2.0,2.0,1
+BMW X3 sDrive30i,2.0,2.0,1
+BMW 535 i xDrive,2.0,2.0,1
+BMW X5 eDrive xDrive40e,2.0,2.0,1
+BMW 750 i xDrive,2.0,2.0,1
+BMW X3 xDrive30i,2.0,2.0,1
+BMW X6 xDrive35i,2.0,2.0,1
+BMW 330 i xDrive,2.0,2.0,1
+BMW 428 i,2.0,2.0,1
+BMW X5 xDrive40i,2.0,2.0,1
+BMW 335 Gran Turismo i xDrive,2.0,2.0,1
+BMW 330e 330e,2.0,2.0,1
+BMW 640 i,2.0,2.0,1
+BMW 330e 330e,2.0,2.0,1
+Chevrolet Silverado 1500 Custom Trail Boss,2.0,2.0,1
+Chevrolet Blazer 2LT,2.0,2.0,2
+Chevrolet Blazer 2LT,2.0,2.0,2
+Chevrolet Silverado 1500 RST,2.0,2.0,1
+Chevrolet Suburban LS,2.0,2.0,1
+Chevrolet Camaro 1SS,2.0,2.0,1
+Chevrolet Silverado 1500 RST,2.0,2.0,1
+Chevrolet Equinox LS,2.0,2.0,1
+Chevrolet Colorado WT,2.0,2.0,1
+Chevrolet Silverado 2500 LT,2.0,2.0,1
+Chevrolet Trax LT,2.0,2.0,1
+Chevrolet Silverado 1500 LTZ,2.0,2.0,1
+Chevrolet Equinox LS,2.0,2.0,1
+Chevrolet Silverado 2500 LTZ,2.0,2.0,1
+Chevrolet Silverado 2500 High Country,2.0,2.0,1
+Chevrolet Suburban Premier,2.0,2.0,1
+Chevrolet Camaro 1LT,2.0,2.0,1
+Chevrolet Tahoe Z71,2.0,2.0,1
+Chevrolet Silverado 1500 RST,2.0,2.0,1
+Chevrolet Silverado 2500 Custom,2.0,2.0,1
+Chevrolet Silverado 1500 WT,2.0,2.0,1
+Chevrolet Blazer Premier,2.0,2.0,1
+Chevrolet Camaro 1LT,2.0,2.0,1
+Chevrolet Suburban RST,2.0,2.0,1
+Chevrolet Tahoe LT,2.0,2.0,1
+Chevrolet Silverado 3500 LTZ,2.0,2.0,1
+Chevrolet Silverado 2500 LT,2.0,2.0,1
+Chevrolet Camaro 2LT,2.0,2.0,1
+Chevrolet Colorado Z71,2.0,2.0,1
+Chevrolet Camaro SS,2.0,2.0,1
+Chevrolet Traverse 1LT,2.0,2.0,1
+Chevrolet Suburban Premier,2.0,2.0,1
+Chevrolet Suburban LT,2.0,2.0,1
+Chevrolet Camaro 1LT,2.0,2.0,1
+Chevrolet Silverado 1500 LTZ,2.0,2.0,1
+Chevrolet Tahoe Premier,2.0,2.0,1
+Chevrolet Tahoe Z71,2.0,2.0,1
+Chevrolet Express 3500 LT,2.0,2.0,1
+Chevrolet Silverado 1500 RST,2.0,2.0,1
+Chevrolet SSR Base,2.0,2.0,1
+Chevrolet Trailblazer LT,2.0,2.0,1
+Chevrolet Silverado 2500 LTZ,2.0,2.0,1
+Chevrolet Camaro LT1,2.0,2.0,1
+Chevrolet Malibu RS,2.0,2.0,1
+Chevrolet Silverado 2500 LT,2.0,2.0,1
+Chevrolet Camaro 1LT,2.0,2.0,1
+Chevrolet Corvette Stingray Base,2.0,2.0,1
+Chevrolet Silverado 1500 ZR2,2.0,2.0,1
+Chevrolet Suburban LTZ,2.0,2.0,1
+Chevrolet Cruze L Manual,2.0,2.0,1
+Chevrolet Trailblazer RS,2.0,2.0,1
+Chevrolet Traverse LS,2.0,2.0,1
+Chevrolet Silverado 3500 LTZ,2.0,2.0,1
+Chevrolet Camaro 2LT,2.0,2.0,1
+Chevrolet Blazer Premier,2.0,2.0,1
+Chevrolet Equinox LS,2.0,2.0,1
+Chevrolet Monte Carlo LS,2.0,2.0,1
+Chevrolet Camaro 1LT,2.0,2.0,1
+Chevrolet Silverado 1500 Limited RST,2.0,2.0,1
+Chevrolet Trax LT,2.0,2.0,1
+Chevrolet Blazer 1LT,2.0,2.0,1
+Chevrolet Traverse LS,2.0,2.0,1
+Chevrolet Traverse LT Cloth,2.0,2.0,1
+Chevrolet Colorado LT,2.0,2.0,1
+Chevrolet Blazer 3LT,2.0,2.0,1
+Chevrolet Silverado 2500 WT,2.0,2.0,1
+Chevrolet Malibu Premier,2.0,2.0,1
+Chevrolet Blazer RS,2.0,2.0,1
+Chevrolet Silverado 2500 High Country,2.0,2.0,1
+Chevrolet Colorado WT,2.0,2.0,1
+Chevrolet Tahoe LT,2.0,2.0,1
+Chevrolet Trailblazer LT,2.0,2.0,1
+Chevrolet Silverado 1500 LT Trail Boss,2.0,2.0,1
+Chevrolet Blazer 2LT,2.0,2.0,1
+Chevrolet Silverado 3500 LTZ,2.0,2.0,1
+Chevrolet Traverse Premier,2.0,2.0,1
+Chevrolet Silverado 2500 High Country,2.0,2.0,1
+Dodge Durango R/T,2.0,2.0,1
+Dodge Challenger R/T Scat Pack,2.0,2.0,1
+Dodge Challenger R/T,2.0,2.0,1
+Dodge Durango R/T,2.0,2.0,1
+Dodge Charger GT,2.0,2.0,1
+Dodge Durango SRT 392,2.0,2.0,1
+Dodge Charger Scat Pack,2.0,2.0,1
+Dodge Durango GT,2.0,2.0,1
+Dodge Challenger R/T Scat Pack,2.0,2.0,1
+Dodge Ram Van 1500 109 WB,2.0,2.0,1
+Dodge Charger SXT,2.0,2.0,1
+Dodge Durango GT,2.0,2.0,1
+Dodge Charger Scat Pack,2.0,2.0,1
+Dodge Charger SXT,2.0,2.0,1
+Dodge Sprinter Base,2.0,2.0,1
+Dodge Durango GT,2.0,2.0,1
+Dodge Charger SXT,2.0,2.0,1
+Dodge Challenger SRT Hellcat,2.0,2.0,1
+Dodge Durango GT,2.0,2.0,1
+Dodge Grand Caravan SE,2.0,2.0,1
+Dodge Durango GT,2.0,2.0,1
+Dodge Challenger SRT8,2.0,2.0,1
+Dodge Challenger R/T,2.0,2.0,1
+Dodge Challenger SXT,2.0,2.0,1
+Dodge Challenger R/T Scat Pack,2.0,2.0,1
+Dodge Charger Scat Pack,2.0,2.0,1
+Dodge Nitro SXT,2.0,2.0,2
+Dodge Nitro SXT,2.0,2.0,2
+Dodge Challenger R/T,2.0,2.0,1
+Dodge Charger GT,2.0,2.0,1
+Dodge Charger R/T,2.0,2.0,1
+Dodge Ram 2500 Laramie Quad Cab,2.0,2.0,1
+Dodge Charger GT,2.0,2.0,1
+Dodge Challenger R/T Scat Pack,2.0,2.0,1
+Dodge Challenger GT,2.0,2.0,1
+Dodge Challenger GT,2.0,2.0,1
+Dodge Polara Convertible,2.0,2.0,1
+Dodge Challenger R/T,2.0,2.0,1
+Dodge Durango Citadel,2.0,2.0,1
+Dodge Durango SXT,2.0,2.0,1
+Dodge Challenger SXT,2.0,2.0,1
+Dodge Ram 3500 Laramie,2.0,2.0,1
+Dodge Durango Citadel,2.0,2.0,1
+Dodge Challenger R/T Scat Pack,2.0,2.0,1
+Dodge Durango Citadel,2.0,2.0,1
+Dodge Durango Citadel,2.0,2.0,1
+Dodge Charger SRT 392,2.0,2.0,1
+Dodge Challenger SXT,2.0,2.0,1
+Dodge Charger Scat Pack,2.0,2.0,1
+Dodge Challenger SXT,2.0,2.0,1
+Dodge Ram Van 3500,2.0,2.0,1
+Dodge Challenger R/T 392,2.0,2.0,1
+Dodge Challenger R/T,2.0,2.0,1
+Dodge Challenger GT,2.0,2.0,1
+Dodge Dakota TRX Extended Cab,2.0,2.0,1
+Dodge Challenger R/T Scat Pack,2.0,2.0,1
+Dodge Challenger R/T Scat Pack,2.0,2.0,2
+Dodge Challenger R/T Scat Pack,2.0,2.0,2
+Dodge Challenger R/T,2.0,2.0,1
+Dodge Charger SXT,2.0,2.0,1
+Dodge Durango R/T,2.0,2.0,1
+Dodge Charger SXT,2.0,2.0,1
+Dodge Charger SE,2.0,2.0,1
+Dodge Durango R/T,2.0,2.0,1
+Dodge Charger GT,2.0,2.0,1
+Dodge Durango Limited,2.0,2.0,1
+Dodge Durango R/T,2.0,2.0,1
+Dodge Charger Scat Pack,2.0,2.0,1
+Dodge Durango Citadel,2.0,2.0,1
+Dodge Challenger R/T,2.0,2.0,1
+Dodge Durango GT,2.0,2.0,1
+Dodge Challenger R/T,2.0,2.0,1
+Ford F-250 Lariat,2.0,2.0,1
+Ford Explorer XLT,2.0,2.0,1
+Ford F-150 Lariat,2.0,2.0,1
+Ford F-250 XL,2.0,2.0,1
+Ford F-250 Lariat,2.0,2.0,1
+Ford Expedition Max XLT,2.0,2.0,1
+Ford F-350 XL,2.0,2.0,1
+Ford F-250 Lariat,2.0,2.0,1
+Ford Bronco,2.0,2.0,1
+Ford Ranger XLT,2.0,2.0,1
+Ford Bronco Badlands,2.0,2.0,1
+Ford F-150 Raptor,2.0,2.0,1
+Ford F-150 Lariat,2.0,2.0,1
+Ford Mustang EcoBoost,2.0,2.0,1
+Ford Transit-350,2.0,2.0,1
+Ford Explorer ST,2.0,2.0,1
+Ford Bronco Big Bend,2.0,2.0,1
+Ford F-150 Platinum,2.0,2.0,1
+Ford Mustang Mach-E Premium,2.0,2.0,1
+Ford Expedition Max Limited,2.0,2.0,1
+Ford Explorer Limited,2.0,2.0,1
+Ford F-150 Lariat,2.0,2.0,1
+Ford Explorer Timberline,2.0,2.0,1
+Ford F-250 Super Duty,2.0,2.0,1
+Ford Expedition EL King Ranch,2.0,2.0,1
+Ford Bronco,2.0,2.0,1
+Ford Mustang GT Premium,2.0,2.0,1
+Ford Escape SE,2.0,2.0,1
+Ford Bronco,2.0,2.0,1
+Ford Bronco Badlands,2.0,2.0,1
+Ford Mustang EcoBoost Premium,2.0,2.0,1
+Ford EcoSport SE,2.0,2.0,1
+Ford F-250 XLT,2.0,2.0,1
+Ford Explorer XLT,2.0,2.0,1
+Ford F-150 Lariat,2.0,2.0,1
+Ford Edge ST-Line,2.0,2.0,2
+Ford Edge ST-Line,2.0,2.0,2
+Hyundai IONIQ 5 SE,2.0,2.0,1
+Hyundai Santa Fe SEL 2.4,2.0,2.0,1
+Hyundai Kona SEL,2.0,2.0,1
+Hyundai Tucson SE,2.0,2.0,1
+Hyundai Sonata Limited,2.0,2.0,1
+Hyundai Elantra N Base,2.0,2.0,1
+Hyundai Kona N Base,2.0,2.0,1
+Hyundai Palisade Limited,2.0,2.0,1
+Hyundai IONIQ Hybrid Limited,2.0,2.0,1
+Hyundai Tucson N Line,2.0,2.0,1
+Hyundai Elantra SE,2.0,2.0,1
+Hyundai Palisade SEL,2.0,2.0,1
+Hyundai Genesis 5.0,2.0,2.0,1
+Hyundai Santa Cruz 2.5T SEL Premium,2.0,2.0,1
+Hyundai Santa Fe Limited,2.0,2.0,1
+Hyundai Accent SEL,2.0,2.0,1
+Hyundai Santa Cruz 2.5T NIGHT,2.0,2.0,1
+Hyundai Santa Cruz 2.5T NIGHT,2.0,2.0,1
+Hyundai Santa Fe HEV Limited,2.0,2.0,1
+Hyundai Elantra N Base,2.0,2.0,1
+Hyundai Kona SEL,2.0,2.0,1
+Hyundai Sonata Hybrid Blue,2.0,2.0,1
+Hyundai Santa Fe Limited,2.0,2.0,1
+Hyundai Sonata SEL,2.0,2.0,1
+Hyundai Palisade SEL,2.0,2.0,1
+Hyundai Elantra GLS,2.0,2.0,1
+Hyundai Elantra HEV Limited,2.0,2.0,1
+Hyundai IONIQ 5 SE,2.0,2.0,1
+Hyundai Palisade Limited,2.0,2.0,1
+Hyundai Elantra N Line,2.0,2.0,1
+Hyundai Sonata SEL,2.0,2.0,1
+Hyundai Santa Fe SEL 2.4,2.0,2.0,1
+Hyundai Elantra HEV Blue,2.0,2.0,1
+Hyundai Tucson Hybrid Limited,2.0,2.0,1
+Hyundai Venue SEL,2.0,2.0,1
+Hyundai Veloster Base,2.0,2.0,1
+Hyundai Tucson Limited,2.0,2.0,1
+Hyundai Santa Fe Plug-In Hybrid Limited,2.0,2.0,1
+Hyundai Veloster 2.0 Premium,2.0,2.0,1
+Hyundai Tucson Hybrid Limited,2.0,2.0,1
+Hyundai Palisade SEL,2.0,2.0,1
+Hyundai Sonata SEL,2.0,2.0,1
+Hyundai Santa Cruz SEL,2.0,2.0,1
+Hyundai Kona Limited,2.0,2.0,1
+Hyundai Santa Fe Sport 2.0L Turbo Ultimate,2.0,2.0,1
+Hyundai Sonata N Line,2.0,2.0,1
+Hyundai Santa Cruz 2.5T Limited,2.0,2.0,1
+Hyundai Elantra GT Base (A6),2.0,2.0,1
+Hyundai Santa Cruz 2.5T Limited,2.0,2.0,1
+Hyundai Sonata GLS,2.0,2.0,1
+Hyundai Santa Fe SEL,2.0,2.0,1
+Hyundai Elantra Limited,2.0,2.0,1
+Hyundai Tucson Limited,2.0,2.0,1
+Hyundai Elantra GT Base,2.0,2.0,1
+Hyundai Tucson SEL,2.0,2.0,1
+Hyundai IONIQ Hybrid Blue,2.0,2.0,2
+Hyundai IONIQ Hybrid Blue,2.0,2.0,2
+Hyundai Kona SEL,2.0,2.0,1
+Hyundai Tucson Value,2.0,2.0,1
+Hyundai Santa Cruz 2.5T NIGHT,2.0,2.0,1
+Hyundai Sonata SE,2.0,2.0,1
+Hyundai Elantra GS,2.0,2.0,1
+Hyundai Sonata SE,2.0,2.0,1
+Hyundai Elantra GT N Line,2.0,2.0,1
+Hyundai Santa Fe HEV Limited,2.0,2.0,1
+Hyundai Sonata SEL,2.0,2.0,1
+Hyundai Santa Fe SEL 2.4,2.0,2.0,1
+Hyundai Sonata GLS,2.0,2.0,1
+Hyundai Sonata SEL,2.0,2.0,1
+Hyundai Elantra HEV Limited,2.0,2.0,1
+Hyundai Sonata SE,2.0,2.0,1
+Hyundai Sonata SEL,2.0,2.0,1
+INFINITI QX60 AUTOGRAPH,2.0,2.0,1
+INFINITI QX80 Luxe,2.0,2.0,1
+INFINITI Q50 Base,2.0,2.0,1
+INFINITI G37x Base,2.0,2.0,1
+INFINITI QX60 SENSORY,2.0,2.0,1
+INFINITI Q50 LUXE,2.0,2.0,1
+INFINITI Q50 3.0t LUXE,2.0,2.0,2
+INFINITI Q50 3.0t LUXE,2.0,2.0,2
+INFINITI QX80 Luxe,2.0,2.0,1
+INFINITI Q50 3.0t Sport,2.0,2.0,1
+INFINITI QX30 ESSENTIAL,2.0,2.0,1
+INFINITI QX50 SPORT,2.0,2.0,1
+INFINITI Q50 LUXE,2.0,2.0,1
+INFINITI Q60 LUXE,2.0,2.0,1
+INFINITI QX60 Luxe,2.0,2.0,1
+INFINITI QX56 Base,2.0,2.0,1
+INFINITI Q50 3.0t Red Sport 400,2.0,2.0,1
+INFINITI QX60 Base,2.0,2.0,1
+INFINITI Q60 2.0t LUXE,2.0,2.0,1
+INFINITI QX60 Base,2.0,2.0,1
+INFINITI QX50 Luxe,2.0,2.0,1
+INFINITI QX80 Luxe,2.0,2.0,1
+INFINITI QX80 Luxe,2.0,2.0,1
+INFINITI QX80 Luxe,2.0,2.0,1
+INFINITI Q50 3.0t LUXE,2.0,2.0,1
+INFINITI Q60 3.0t Red Sport 400,2.0,2.0,1
+INFINITI QX60 Base,2.0,2.0,1
+INFINITI QX80 SENSORY,2.0,2.0,1
+INFINITI QX80 SENSORY,2.0,2.0,1
+INFINITI Q70 3.7,2.0,2.0,1
+INFINITI QX55 LUXE,2.0,2.0,1
+INFINITI Q50 LUXE,2.0,2.0,1
+INFINITI QX56 Base,2.0,2.0,1
+INFINITI QX80 Luxe,2.0,2.0,1
+INFINITI QX50 ESSENTIAL,2.0,2.0,1
+INFINITI QX60 Pure,2.0,2.0,1
+INFINITI Q40 Base,2.0,2.0,1
+INFINITI QX55 LUXE,2.0,2.0,1
+INFINITI QX80 Base,2.0,2.0,1
+INFINITI QX55 SENSORY,2.0,2.0,1
+INFINITI QX80 Luxe,2.0,2.0,1
+INFINITI QX60 LUXE AWD,2.0,2.0,1
+INFINITI QX60 SENSORY,2.0,2.0,1
+INFINITI QX50 Luxe,2.0,2.0,1
+INFINITI QX60 Pure,2.0,2.0,1
+INFINITI QX80 Base,2.0,2.0,1
+INFINITI QX80 PREMIUM SELECT,2.0,2.0,1
+INFINITI QX50 Base,2.0,2.0,1
+INFINITI QX80 PREMIUM SELECT,2.0,2.0,1
+INFINITI QX60 Base,2.0,2.0,1
+INFINITI G35x Base,2.0,2.0,1
+INFINITI QX80 PREMIUM SELECT,2.0,2.0,1
+INFINITI QX60 Luxe,2.0,2.0,1
+INFINITI QX30 Premium,2.0,2.0,1
+INFINITI Q40 Base,2.0,2.0,1
+INFINITI QX60 Luxe,2.0,2.0,1
+INFINITI QX60 Luxe,2.0,2.0,1
+INFINITI QX60 Pure,2.0,2.0,1
+INFINITI QX60 SENSORY,2.0,2.0,1
+INFINITI G37 Journey,2.0,2.0,2
+INFINITI G37 Journey,2.0,2.0,2
+INFINITI QX50 Luxe,2.0,2.0,1
+INFINITI QX60 Luxe,2.0,2.0,1
+INFINITI QX60 Pure,2.0,2.0,1
+INFINITI QX80 SENSORY,2.0,2.0,1
+Lexus IS 350 F Sport,2.0,2.0,1
+Lexus GX 460 GX 460 Premium,2.0,2.0,1
+Lexus GX 460 Base,2.0,2.0,1
+Lexus LS 500 F Sport,2.0,2.0,1
+Lexus GX 460 Base,2.0,2.0,1
+Lexus IS 350 F Sport,2.0,2.0,1
+Lexus LX 470,2.0,2.0,1
+Lexus ES 300h 300H,2.0,2.0,1
+Lexus NX 450h+ Luxury,2.0,2.0,1
+Lexus GX 460 Luxury,2.0,2.0,1
+Lexus LC 500 Base,2.0,2.0,1
+Lexus NX 300h Base,2.0,2.0,1
+Lexus ES 350 Base,2.0,2.0,1
+Lexus RX 350 Premium,2.0,2.0,1
+Lexus UX 250h,2.0,2.0,1
+Lexus NX 300 Base,2.0,2.0,1
+Lexus RX 500h F SPORT PERFORMANCE,2.0,2.0,1
+Lexus NX 300h Base,2.0,2.0,1
+Lexus GX 460 Base,2.0,2.0,1
+Lexus GX 470 Base,2.0,2.0,1
+Lexus LX 600 Premium,2.0,2.0,1
+Lexus LS 430 Base (A6),2.0,2.0,1
+Lexus NX 350 NX 350 Premium,2.0,2.0,1
+Lexus GX 460 Base,2.0,2.0,1
+Lexus RC F Base,2.0,2.0,1
+Lexus NX 300 F Sport,2.0,2.0,1
+Lexus GX 470 Base (A5),2.0,2.0,1
+Lexus LS 430,2.0,2.0,1
+Lexus RX 350h Luxury,2.0,2.0,1
+Lexus RX 350 F Sport,2.0,2.0,1
+Lexus ES 350 Ultra Luxury,2.0,2.0,1
+Lexus IS 300 Base,2.0,2.0,1
+Lexus RC 300 Base,2.0,2.0,1
+Lexus IS 250 Crafted Line,2.0,2.0,1
+Lexus GX 460 Base,2.0,2.0,1
+Lexus IS 250 Base (A6),2.0,2.0,1
+Lexus GX 460 Base,2.0,2.0,1
+Lexus LC 500 Base,2.0,2.0,1
+Lexus LX 570 Three-Row,2.0,2.0,1
+Lexus RX 350 Luxury,2.0,2.0,1
+Lexus LX 570 Base,2.0,2.0,1
+Lexus RX 330,2.0,2.0,1
+Lexus GS 350 Base,2.0,2.0,1
+Lexus RX 350h Premium Plus,2.0,2.0,1
+Lexus LX 600 F SPORT,2.0,2.0,1
+Lexus IS 300 Base,2.0,2.0,1
+Lexus ES 350 Base,2.0,2.0,1
+Lexus CT 200h Base,2.0,2.0,1
+Lexus LS 460,2.0,2.0,1
+Lexus RX 350 Base,2.0,2.0,1
+Lexus RX 350 Base,2.0,2.0,1
+Lexus SC 430,2.0,2.0,1
+Lexus SC 430 Base,2.0,2.0,1
+Lexus ES 350 F Sport,2.0,2.0,1
+Lexus RX 350 F Sport,2.0,2.0,1
+Lexus RX 350 Base,2.0,2.0,1
+Lexus RX 350,2.0,2.0,1
+Lexus RX 350 350,2.0,2.0,1
+Lexus ES 350 Base,2.0,2.0,1
+Lexus GX 460 Base,2.0,2.0,2
+Lexus GX 460 Base,2.0,2.0,2
+Lexus IS 350 Base,2.0,2.0,1
+Lexus LS 460 Base,2.0,2.0,1
+Lexus UX 200 Base,2.0,2.0,1
+Lexus CT 200h Premium,2.0,2.0,1
+Lexus RX 350,2.0,2.0,1
+Lexus UX 250h Base,2.0,2.0,1
+Lexus ES 300h Base,2.0,2.0,1
+Lexus RC 350 Base,2.0,2.0,1
+Lexus RX 350 Base,2.0,2.0,1
+Lexus CT 200h Hybrid,2.0,2.0,1
+Lexus ES 330,2.0,2.0,1
+Lexus IS 500 F SPORT Performance,2.0,2.0,1
+Lexus RX 350 F Sport,2.0,2.0,1
+Lexus GS 350 F Sport,2.0,2.0,1
+Lexus RX 350,2.0,2.0,1
+Lexus GX 460,2.0,2.0,1
+Lexus LS 460 Base,2.0,2.0,1
+Lexus NX 300 Base,2.0,2.0,1
+Lexus NX 350h Premium,2.0,2.0,1
+Lexus IS 250C,2.0,2.0,1
+Lexus GX 460 Base,2.0,2.0,1
+Mercedes-Benz GLS 450 4MATIC,2.0,2.0,1
+Mercedes-Benz AMG GLE 63 S,2.0,2.0,1
+Mercedes-Benz AMG SL 63 SL 63 AMG 4MATIC,2.0,2.0,1
+Mercedes-Benz GLC 300 Base,2.0,2.0,1
+Mercedes-Benz GLC 300 Base,2.0,2.0,1
+Mercedes-Benz AMG GLE 63 S,2.0,2.0,1
+Mercedes-Benz GLS 450 4MATIC,2.0,2.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,2.0,2.0,1
+Mercedes-Benz GLE 350 Base,2.0,2.0,1
+Mercedes-Benz AMG GLE 63 S,2.0,2.0,1
+Mercedes-Benz AMG GLA 45 Base,2.0,2.0,1
+Mercedes-Benz GLC 300 Base,2.0,2.0,1
+Mercedes-Benz GLS 450 4MATIC,2.0,2.0,1
+Mercedes-Benz E-Class E 350,2.0,2.0,1
+Mercedes-Benz GLS 450 4MATIC,2.0,2.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,2.0,2.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,2.0,2.0,1
+Mercedes-Benz C-Class C 300 4MATIC,2.0,2.0,1
+Mercedes-Benz AMG GT 53 Base,2.0,2.0,1
+Mercedes-Benz Sprinter 3500XD High Roof,2.0,2.0,1
+Mercedes-Benz S-Class S 580 4MATIC,2.0,2.0,1
+Mercedes-Benz Sprinter 3500 High Roof,2.0,2.0,1
+Mercedes-Benz EQS 580 Base 4MATIC,2.0,2.0,1
+Mercedes-Benz GLC 300 Base,2.0,2.0,1
+Mercedes-Benz EQS 580 Base 4MATIC,2.0,2.0,1
+Mercedes-Benz AMG GLC 43 Base 4MATIC,2.0,2.0,1
+Mercedes-Benz GLC 300 Base,2.0,2.0,1
+Mercedes-Benz GLC 300 Base 4MATIC,2.0,2.0,1
+Mercedes-Benz AMG SL 63 Base,2.0,2.0,1
+Mercedes-Benz S-Class S 500 4MATIC,2.0,2.0,1
+Mercedes-Benz S-Class S 580 4MATIC,2.0,2.0,1
+Mercedes-Benz Sprinter 2500 Standard Roof,2.0,2.0,1
+Mercedes-Benz EQS 450+ EQS 450 4MATIC,2.0,2.0,1
+Mercedes-Benz E-Class E 350 4MATIC,2.0,2.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,2.0,2.0,1
+Mercedes-Benz S-Class S 580 4MATIC,2.0,2.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,2.0,2.0,1
+Mercedes-Benz GLC 300 Base,2.0,2.0,1
+Mercedes-Benz S-Class S 500 4MATIC,2.0,2.0,1
+Mercedes-Benz EQS 450 Base 4MATIC,2.0,2.0,1
+Mercedes-Benz AMG E 53 Base 4MATIC,2.0,2.0,1
+Mercedes-Benz S-Class S 500 4MATIC,2.0,2.0,1
+Mercedes-Benz Sprinter 2500 High Roof,2.0,2.0,1
+Mercedes-Benz S-Class S 500 4MATIC,2.0,2.0,1
+Mercedes-Benz GLS 450 4MATIC,2.0,2.0,1
+Mercedes-Benz E-Class E 350 4MATIC,2.0,2.0,1
+Mercedes-Benz EQS 580 Base 4MATIC,2.0,2.0,1
+Mercedes-Benz GLC 300 Base 4MATIC,2.0,2.0,1
+Mercedes-Benz EQS 450 Base 4MATIC,2.0,2.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,2.0,2.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,2.0,2.0,1
+Mercedes-Benz GLA 250 Base 4MATIC,2.0,2.0,1
+Mercedes-Benz S-Class S 500 4MATIC,2.0,2.0,1
+Mercedes-Benz Sprinter 2500 High Roof,2.0,2.0,1
+Mercedes-Benz S-Class S 500 4MATIC,2.0,2.0,1
+Mercedes-Benz EQS 450 Base 4MATIC,2.0,2.0,1
+Mercedes-Benz GLB 250 Base 4MATIC,2.0,2.0,1
+Mercedes-Benz G-Class G 550 4MATIC,2.0,2.0,1
+Mercedes-Benz S-Class S 580 4MATIC,2.0,2.0,1
+Mercedes-Benz AMG SL 63 SL 63 AMG 4MATIC,2.0,2.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,2.0,2.0,1
+Mercedes-Benz E-Class E 350 4MATIC,2.0,2.0,1
+Mercedes-Benz E-Class E 450,2.0,2.0,1
+Mercedes-Benz Sprinter 2500 Standard Roof,2.0,2.0,1
+Mercedes-Benz Sprinter 3500XD High Roof,2.0,2.0,1
+Mercedes-Benz GLB 250 Base 4MATIC,2.0,2.0,1
+Mercedes-Benz GLC 300 Base,2.0,2.0,1
+Mercedes-Benz GLA 250 Base 4MATIC,2.0,2.0,1
+Mercedes-Benz S-Class S 580 4MATIC,2.0,2.0,1
+Mercedes-Benz S-Class S 580 4MATIC,2.0,2.0,1
+Mercedes-Benz GLB 250 Base 4MATIC,2.0,2.0,1
+Mercedes-Benz Sprinter 3500XD High Roof,2.0,2.0,1
+Mercedes-Benz GLE 350 Base,2.0,2.0,1
+Mercedes-Benz EQS 450 Base 4MATIC,2.0,2.0,1
+Mercedes-Benz GLC 300 Base 4MATIC,2.0,2.0,2
+Mercedes-Benz GLC 300 Base 4MATIC,2.0,2.0,2
+Mercedes-Benz S-Class S 500 4MATIC,2.0,2.0,1
+Mercedes-Benz GLS 450 4MATIC,2.0,2.0,1
+Mercedes-Benz S-Class S 580 4MATIC,2.0,2.0,1
+Mercedes-Benz GLC 300 Base 4MATIC,2.0,2.0,1
+Mercedes-Benz C-Class C 300 4MATIC,2.0,2.0,1
+Mercedes-Benz GLC 300 Base 4MATIC,2.0,2.0,1
+Mercedes-Benz GLE 350 Base 4MATIC,2.0,2.0,1
+Mercedes-Benz EQS 450+ Base,2.0,2.0,1
+Mercedes-Benz GLS 450 4MATIC,2.0,2.0,1
+Mercedes-Benz GLC 300 Base,2.0,2.0,1
+Mercedes-Benz E-Class E 450,2.0,2.0,1
+Mercedes-Benz GLC 300 Base,2.0,2.0,1
+Mercedes-Benz Sprinter 3500XD High Roof,2.0,2.0,1
+Mercedes-Benz GLB 250 Base 4MATIC,2.0,2.0,1
+Mercedes-Benz AMG GT 53 Base,2.0,2.0,1
+Mercedes-Benz S-Class S 580 4MATIC,2.0,2.0,1
+Mercedes-Benz E-Class E 350,2.0,2.0,1
+Mercedes-Benz S-Class S 500 4MATIC,2.0,2.0,1
+Mercedes-Benz EQB 350 350,2.0,2.0,1
+Mercedes-Benz EQS 450 Base 4MATIC,2.0,2.0,1
+Mercedes-Benz EQS 580 Base 4MATIC,2.0,2.0,1
+Porsche Panamera 4 Edition,2.0,2.0,1
+Porsche 911 Carrera Cabriolet,2.0,2.0,1
+Porsche 911 Carrera GTS,2.0,2.0,1
+Porsche Cayenne Base,2.0,2.0,1
+Porsche Panamera Sport Turismo 4,2.0,2.0,1
+Porsche Cayenne Base (Tiptronic),2.0,2.0,1
+Porsche 911 Carrera,2.0,2.0,2
+Porsche 911 Carrera,2.0,2.0,2
+Porsche Cayman S,2.0,2.0,1
+Porsche Panamera 4S,2.0,2.0,1
+Porsche Panamera Turbo,2.0,2.0,1
+Porsche Panamera,2.0,2.0,1
+Porsche Macan S,2.0,2.0,1
+Porsche Taycan Turbo S,2.0,2.0,1
+Porsche 718 Boxster S,2.0,2.0,1
+Porsche Cayman Base,2.0,2.0,1
+Porsche Macan S,2.0,2.0,1
+Porsche Panamera 4S,2.0,2.0,1
+Porsche Panamera GTS,2.0,2.0,1
+Porsche 911 Carrera,2.0,2.0,1
+Porsche 911 Carrera Cabriolet,2.0,2.0,1
+Porsche Macan Base,2.0,2.0,1
+Porsche Taycan Base,2.0,2.0,1
+Porsche 911 GT3,2.0,2.0,1
+Porsche Panamera 4S,2.0,2.0,1
+Porsche Macan Turbo,2.0,2.0,1
+Porsche Panamera Turbo,2.0,2.0,1
+Porsche Macan Luxury AWD,2.0,2.0,1
+Porsche Macan S,2.0,2.0,1
+Porsche Macan GTS,2.0,2.0,1
+Porsche Cayenne Turbo Coupe AWD,2.0,2.0,1
+Porsche Cayenne AWD,2.0,2.0,1
+Porsche Taycan Turbo,2.0,2.0,1
+Porsche 911 GT3,2.0,2.0,1
+Porsche Cayenne Base,2.0,2.0,1
+Porsche Cayenne Turbo Coupe AWD,2.0,2.0,1
+Porsche Macan S,2.0,2.0,1
+Porsche 911 Carrera,2.0,2.0,1
+Porsche Cayenne Turbo,2.0,2.0,1
+Porsche 911 Carrera,2.0,2.0,1
+Porsche 911 Turbo S,2.0,2.0,1
+Porsche 911 Carrera 4S Cabriolet,2.0,2.0,1
+Porsche 911 GTS,2.0,2.0,1
+Porsche Panamera E-Hybrid 4,2.0,2.0,1
+Porsche Cayenne,2.0,2.0,1
+Porsche Boxster S,2.0,2.0,1
+Porsche Macan Base,2.0,2.0,1
+Porsche Cayenne GTS,2.0,2.0,1
+Porsche Cayenne S Coupe AWD,2.0,2.0,1
+Porsche Panamera Turbo,2.0,2.0,1
+Porsche Taycan 4S,2.0,2.0,1
+Porsche Cayenne Turbo Coupe AWD,2.0,2.0,1
+Porsche 718 Boxster Base,2.0,2.0,1
+Porsche Macan S,2.0,2.0,1
+Porsche 911 Carrera S,2.0,2.0,1
+Porsche Macan,2.0,2.0,1
+Porsche Cayman Base,2.0,2.0,1
+Porsche 911 GT3 RS,2.0,2.0,1
+Porsche Macan Base,2.0,2.0,1
+Porsche 911 Carrera S,2.0,2.0,1
+Porsche Taycan Turbo S,2.0,2.0,1
+Porsche 911 SC-TARGA,2.0,2.0,1
+Porsche 911 Targa 4 GTS,2.0,2.0,1
+Porsche 718 Boxster,2.0,2.0,1
+Porsche Cayenne S,2.0,2.0,1
+Porsche 911 Targa 4S,2.0,2.0,1
+Porsche Panamera E-Hybrid 4 Platinum Edition,2.0,2.0,1
+Porsche Taycan Turbo,2.0,2.0,1
+Porsche Macan Base (PDK),2.0,2.0,1
+Porsche Macan Base,2.0,2.0,1
+Porsche Cayenne Base,2.0,2.0,1
+Porsche Taycan Cross Turismo 4,2.0,2.0,1
+Porsche Macan Base (PDK),2.0,2.0,1
+Porsche Cayenne Platinum Edition,2.0,2.0,1
+Porsche Macan Base,2.0,2.0,1
+Porsche Macan Base,2.0,2.0,1
+Porsche 911 Carrera S,2.0,2.0,1
+Porsche Cayenne Base,2.0,2.0,1
+Porsche 718 Cayman GT4,2.0,2.0,1
+Porsche Cayenne E-Hybrid S,2.0,2.0,1
+Porsche 911 Turbo,2.0,2.0,1
+Porsche Macan Base,2.0,2.0,1
+Porsche Cayenne E-Hybrid E-HYBRID,2.0,2.0,1
+Porsche Cayenne Base,2.0,2.0,1
+Porsche 911 Turbo,2.0,2.0,1
+Porsche Macan Base,2.0,2.0,1
+Porsche 911 Carrera,2.0,2.0,1
+Porsche Macan Base,2.0,2.0,1
+Tesla Model S 100D,2.0,2.0,1
+Tesla Model S Long Range,2.0,2.0,1
+Tesla Model S 75D,2.0,2.0,1
+Tesla Model Y Performance,2.0,2.0,1
+Tesla Model X 75D,2.0,2.0,1
+Tesla Model 3 Long Range,2.0,2.0,1
+Tesla Model 3 Base,2.0,2.0,1
+Tesla Model X Long Range,2.0,2.0,1
+Tesla Model X Long Range,2.0,2.0,1
+Tesla Model S 90D,2.0,2.0,1
+Tesla Model S Long Range,2.0,2.0,1
+Tesla Model Y Performance,2.0,2.0,1
+Tesla Model Y Performance,2.0,2.0,1
+Tesla Model X 75D,2.0,2.0,1
+Tesla Model 3 Long Range,2.0,2.0,1
+Tesla Model Y Long Range,2.0,2.0,1
+Tesla Model Y Long Range,2.0,2.0,1
+Tesla Model Y Long Range,2.0,2.0,1
+Tesla Model S 100D,2.0,2.0,1
+Tesla Model 3 Performance,2.0,2.0,1
+Tesla Model S 100D,2.0,2.0,1
+Tesla Model S 100D,2.0,2.0,1
+Tesla Model S 70D,2.0,2.0,1
+Tesla Model S P90D,2.0,2.0,1
+Tesla Model Y Long Range,2.0,2.0,1
+Tesla Model X P100D,2.0,2.0,1
+Tesla Model S Long Range AWD,2.0,2.0,1
+Tesla Model S 90D,2.0,2.0,1
+Tesla Model S 90D,2.0,2.0,1
+Tesla Model S Plaid,2.0,2.0,1
+Tesla Model 3 Long Range,2.0,2.0,1
+Tesla Model 3 Long Range,2.0,2.0,1
+Tesla Model S Performance,2.0,2.0,1
+Tesla Model X 100D,2.0,2.0,1
+Tesla Model S Long Range,2.0,2.0,1
+Tesla Model Y Long Range,2.0,2.0,1
+Tesla Model 3 Mid Range,2.0,2.0,1
+Tesla Model S Long Range,2.0,2.0,1
+Tesla Model 3 Mid Range,2.0,2.0,1
+Tesla Model Y Long Range,2.0,2.0,1
+Tesla Model X Long Range,2.0,2.0,1
+Tesla Model X 100D,2.0,2.0,1
+Tesla Model 3 Long Range,2.0,2.0,1
+Tesla Model 3 Standard Range Plus,2.0,2.0,1
+Tesla Model S 75D,2.0,2.0,1
+Tesla Model X 75D,2.0,2.0,1
+Tesla Model S 75D,2.0,2.0,1
+Tesla Model 3 Long Range,2.0,2.0,1
+Tesla Model 3 Performance,2.0,2.0,1
+Tesla Model 3 Mid Range,2.0,2.0,1
+Tesla Model S Long Range,2.0,2.0,1
+Tesla Model S 70D,2.0,2.0,1
+Tesla Model S Long Range,2.0,2.0,1
+Tesla Model 3 Standard Range Plus,2.0,2.0,1
+Tesla Model Y Long Range,2.0,2.0,1
+Tesla Model 3 Performance,2.0,2.0,1
+Tesla Model 3 Long Range,2.0,2.0,1
+Tesla Model Y Long Range,2.0,2.0,1
+Tesla Model Y Long Range,2.0,2.0,1
+Tesla Model 3 Performance,2.0,2.0,1
+Tesla Model Y Long Range,2.0,2.0,1
+Tesla Model 3 Standard Range Plus,2.0,2.0,1
+Tesla Model 3 Long Range,2.0,2.0,1
+Tesla Model S 75D,2.0,2.0,1
+Tesla Model S 75D,2.0,2.0,1
+Tesla Model Y Performance,2.0,2.0,1
+Tesla Model 3 Long Range,2.0,2.0,1
+Tesla Model 3 Mid Range,2.0,2.0,1
+Tesla Model S 60 kWh Battery,2.0,2.0,1
+Tesla Model X Performance,2.0,2.0,1
+Tesla Model 3 Standard Range,2.0,2.0,1
+Tesla Model X 100D,2.0,2.0,1
+Tesla Model X Performance,2.0,2.0,1
+Tesla Model Y Long Range,2.0,2.0,1
+Tesla Model X 100D,2.0,2.0,1
+Tesla Model 3 Base,2.0,2.0,1
+Tesla Model S Long Range,2.0,2.0,1
+Tesla Model S 85,2.0,2.0,1
+Tesla Model X 75D,2.0,2.0,1
+Tesla Model S Base,2.0,2.0,1
+Tesla Model S 100D,2.0,2.0,1
+Tesla Model Y Long Range,2.0,2.0,1
+Tesla Model 3 Long Range,2.0,2.0,1
+Tesla Model 3 Mid Range,2.0,2.0,1
+Tesla Model Y Long Range,2.0,2.0,1
+Tesla Model 3 Standard Range Plus,2.0,2.0,1
+Tesla Model 3 Standard Range Plus,2.0,2.0,1
+Tesla Model Y Long Range,2.0,2.0,1
+Tesla Model 3 Standard Range Plus,2.0,2.0,1
+Tesla Model S 100D,2.0,2.0,1
+Tesla Model X Long Range,2.0,2.0,1
+Tesla Model S 85D,2.0,2.0,1
+Toyota Tundra Platinum,2.0,2.0,1
+Toyota Sienna XLE,2.0,2.0,1
+Toyota Camry SE,2.0,2.0,1
+Toyota Highlander Hybrid XLE,2.0,2.0,1
+Toyota Tundra SR5,2.0,2.0,1
+Toyota 4Runner 40th Anniversary Special Edition,2.0,2.0,1
+Toyota Sienna LE,2.0,2.0,1
+Toyota Tacoma Limited,2.0,2.0,1
+Toyota 4Runner TRD Off Road Premium,2.0,2.0,1
+Toyota 4Runner Limited,2.0,2.0,1
+Toyota RAV4 XLE,2.0,2.0,1
+Toyota Sequoia TRD Pro,2.0,2.0,1
+Toyota RAV4 Hybrid Limited,2.0,2.0,1
+Toyota RAV4 Hybrid XLE Premium,2.0,2.0,1
+Toyota Tundra Hybrid TRD Pro,2.0,2.0,1
+Toyota Tundra Limited,2.0,2.0,1
+Toyota 4Runner TRD Off Road,2.0,2.0,1
+Toyota Tundra SR,2.0,2.0,1
+Toyota Land Cruiser V8,2.0,2.0,1
+Toyota Highlander Hybrid LE,2.0,2.0,1
+Toyota Tacoma SR5,2.0,2.0,1
+Toyota RAV4 LE,2.0,2.0,1
+Toyota RAV4 Prime XSE,2.0,2.0,1
+Toyota Tundra Hybrid Limited,2.0,2.0,1
+Toyota Tundra SR5,2.0,2.0,1
+Toyota Corolla Hatchback XSE,2.0,2.0,1
+Toyota RAV4 Hybrid Limited,2.0,2.0,1
+Toyota Highlander Hybrid XLE,2.0,2.0,1
+Toyota Highlander Hybrid LE,2.0,2.0,1
+Toyota Camry XSE V6,2.0,2.0,1
+Toyota Highlander LE,2.0,2.0,1
+Toyota 4Runner TRD Sport,2.0,2.0,1
+Toyota Tundra SR5,2.0,2.0,1
+Toyota Sequoia SR5,2.0,2.0,1
+Toyota Tundra Hybrid Limited,2.0,2.0,1
+Toyota Tundra Limited,2.0,2.0,1
+Toyota Tundra SR5,2.0,2.0,1
+Toyota Camry XSE,2.0,2.0,1
+Toyota Sienna XLE,2.0,2.0,1
+Toyota Mirai Base,2.0,2.0,1
+Toyota Sienna XLE 8 Passenger,2.0,2.0,1
+Toyota bZ4X XLE,2.0,2.0,1
+Volkswagen ID.4 Pro,2.0,2.0,1
+Volkswagen Atlas Cross Sport 4MOTION,2.0,2.0,1
+Volkswagen Jetta GLI 2.0T Autobahn,2.0,2.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SEL Premium R-Line,2.0,2.0,1
+Volkswagen Routan SE w/RSE & Navigation,2.0,2.0,1
+Volkswagen Passat 2.0T SE,2.0,2.0,1
+Volkswagen Atlas 3.6L SEL,2.0,2.0,1
+Volkswagen ID.4 Pro,2.0,2.0,1
+Volkswagen Jetta 2.0T GLI,2.0,2.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SEL Premium R-Line,2.0,2.0,1
+Volkswagen Taos 1.5T SE,2.0,2.0,1
+Volkswagen Arteon 2.0T SEL R-Line,2.0,2.0,1
+Volkswagen Atlas 3.6L V6 SE w/Technology R-Line,2.0,2.0,1
+Volkswagen Tiguan 2.0T SEL Premium R-Line,2.0,2.0,1
+Volkswagen Tiguan 2.0T Premium,2.0,2.0,1
+Volkswagen Jetta DSG TDI w/Premium/Nav,2.0,2.0,1
+Volkswagen Atlas 3.6L SEL,2.0,2.0,1
+Volkswagen Atlas Cross Sport 2.0T SEL R-Line,2.0,2.0,1
+Volkswagen Tiguan 2.0T SE,2.0,2.0,1
+Volkswagen Tiguan 2.0T SEL,2.0,2.0,1
+Volkswagen Jetta 1.5T SE,2.0,2.0,1
+Volkswagen Golf GTI 2.0T SE,2.0,2.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SEL Premium,2.0,2.0,1
+Volkswagen Atlas Cross Sport 2.0T S,2.0,2.0,1
+Volkswagen Arteon 2.0T SEL Premium R-Line,2.0,2.0,1
+Volkswagen Beetle 2.5L,2.0,2.0,1
+Volkswagen Atlas 3.6L SE w/Technology,2.0,2.0,1
+Volkswagen Tiguan 2.0T SEL Premium,2.0,2.0,1
+Volkswagen Arteon 2.0T SEL R-Line,2.0,2.0,1
+Volkswagen Atlas Cross Sport 2.0T SEL,2.0,2.0,1
+Volkswagen Passat 1.8T S,2.0,2.0,1
+Volkswagen Atlas 3.6L V6 SE w/Technology,2.0,2.0,1
+Volkswagen Tiguan 2.0T SEL R-Line,2.0,2.0,1
+Volkswagen CC 2.0T Sport,2.0,2.0,1
+Volkswagen Atlas 3.6L SE,2.0,2.0,1
+Volkswagen Atlas 3.6L SE w/Technology,2.0,2.0,1
+Volkswagen Taos 1.5T SEL,2.0,2.0,1
+Volkswagen Tiguan 2.0T SE,2.0,2.0,1
+Volkswagen Taos 1.5T SE,2.0,2.0,1
+Volkswagen Tiguan 2.0T SE R-Line Black,2.0,2.0,1
+Volkswagen Beetle 2.5L,2.0,2.0,1
+Volkswagen Taos 1.5T SE,2.0,2.0,1
+Volkswagen Tiguan,2.0,2.0,1
+Volkswagen Jetta DSG TDI SE w/Connectivity,2.0,2.0,1
+Volkswagen Golf GTI 2.0T Autobahn,2.0,2.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SEL R-Line,2.0,2.0,1
+Volkswagen ID.4 Pro S,2.0,2.0,1
+Volkswagen Passat 1.8T Wolfsburg Ed,2.0,2.0,1
+Volkswagen Beetle 2.0T S,2.0,2.0,1
+Volkswagen Jetta 1.5T SE,2.0,2.0,1
+Volkswagen CC 2.0T Sport Plus,2.0,2.0,1
+Volkswagen Atlas 2.0T S,2.0,2.0,1
+Volkswagen Passat 2.0T SE,2.0,2.0,1
+Volkswagen Jetta 1.4T SE,2.0,2.0,1
+Volkswagen ID.4 Pro S,2.0,2.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SEL Premium R-Line,2.0,2.0,1
+Volkswagen Tiguan Auto SEL,2.0,2.0,1
+Volkswagen ID.4 Pro,2.0,2.0,1
+Volkswagen Taos 1.5T SE,2.0,2.0,1
+Volkswagen Tiguan 2.0T SE,2.0,2.0,1
+Volkswagen Passat 2.0T R-Line,2.0,2.0,1
+Volkswagen Tiguan 2.0T SE,2.0,2.0,1
+Volkswagen Tiguan 4MOTION Auto S,2.0,2.0,1
+Volkswagen Tiguan 2.0T SE R-Line Black,2.0,2.0,1
+Volkswagen Tiguan 2.0T SE R-Line Black,2.0,2.0,1
+Volkswagen Passat 2.0T R-Line,2.0,2.0,1
+Volkswagen Atlas 3.6L SE,2.0,2.0,1
+Volkswagen Jetta 1.4T R-Line,2.0,2.0,1
+Volkswagen Tiguan 2.0T SEL,2.0,2.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SE w/Technology,2.0,2.0,1
+Volkswagen New Beetle 2.5,2.0,2.0,1
+Volkswagen Passat 2.0T SE,2.0,2.0,1
+Volkswagen Taos 1.5T SE,2.0,2.0,1
+Volkswagen Atlas 2.0T SEL,2.0,2.0,1
+Volkswagen Tiguan 2.0T SE R-Line Black,2.0,2.0,1
+Volkswagen Atlas Cross Sport 2.0T SE w/Technology,2.0,2.0,1
+Volkswagen Eurovan,2.0,2.0,1
+Volkswagen Atlas 3.6L SE w/Technology,2.0,2.0,1
+Volkswagen Jetta 1.4T SE,2.0,2.0,1
+BMW X7 M50i,1.5,1.5,2
+BMW X7 M50i,1.5,1.5,2
+Dodge Durango SRT 392,1.5,1.5,2
+Dodge Durango SRT 392,1.5,1.5,2
+Dodge Challenger SRT Hellcat,1.5,1.5,2
+Dodge Challenger SRT Hellcat,1.5,1.5,2
+Dodge Charger GT,1.5,1.5,2
+Dodge Charger GT,1.5,1.5,2
+Hyundai Sonata Limited 2.0T,1.5,1.5,2
+Hyundai Sonata Limited 2.0T,1.5,1.5,2
+Lexus IS 250C Base,1.5,1.5,2
+Lexus IS 250C Base,1.5,1.5,2
+Lexus ES 350 F SPORT Handling,1.5,1.5,2
+Lexus ES 350 F SPORT Handling,1.5,1.5,2
+Mercedes-Benz S-Class S 580 4MATIC,1.5,1.5,2
+Mercedes-Benz S-Class S 580 4MATIC,1.5,1.5,2
+Porsche 911 Turbo Cabriolet,1.5,1.5,2
+Porsche 911 Turbo Cabriolet,1.5,1.5,2
+Tesla Model X 90D,1.5,1.5,2
+Tesla Model X 90D,1.5,1.5,2
+Toyota Tacoma SR5,1.5,1.5,2
+Toyota Tacoma SR5,1.5,1.5,2
+Toyota Avalon Limited,1.5,1.5,2
+Toyota Avalon Limited,1.5,1.5,2
+Toyota Sienna XLE 8 Passenger,1.5,1.5,2
+Toyota Sienna XLE 8 Passenger,1.5,1.5,2
+Volkswagen Atlas 3.6L SEL Premium R-Line,1.5,1.5,2
+Volkswagen Atlas 3.6L SEL Premium R-Line,1.5,1.5,2
+Acura TLX Technology,1.0,1.0,1
+Acura MDX Technology,1.0,1.0,1
+Acura TLX A-Spec,1.0,1.0,1
+Acura TLX Technology,1.0,1.0,1
+Acura NSX Base,1.0,1.0,1
+Acura TLX Type S,1.0,1.0,1
+Acura MDX Type S,1.0,1.0,1
+Acura ILX Premium Package,1.0,1.0,1
+Acura MDX Type S w/Advance Package,1.0,1.0,1
+Acura ILX 2.4L,1.0,1.0,1
+Acura ILX Base,1.0,1.0,1
+Acura RDX A-Spec,1.0,1.0,1
+Acura TLX Type S,1.0,1.0,1
+Acura MDX Type S w/Advance Package,1.0,1.0,1
+Acura TLX Base,1.0,1.0,1
+Acura RDX Base,1.0,1.0,1
+Acura TLX A-Spec,1.0,1.0,1
+Acura MDX 3.5L w/Technology Package,1.0,1.0,1
+Acura RDX Technology Package,1.0,1.0,1
+Acura MDX 3.5L w/Technology Package,1.0,1.0,1
+Acura MDX 3.5L w/Advance & Entertainment Pkgs,1.0,1.0,1
+Acura MDX 3.5L Technology Package,1.0,1.0,1
+Acura TLX A-Spec,1.0,1.0,1
+Acura TL Technology,1.0,1.0,1
+Acura TLX V6 A-Spec,1.0,1.0,1
+Acura MDX 3.5L w/Technology Package,1.0,1.0,1
+Acura TLX Advance,1.0,1.0,1
+Acura MDX 3.5L,1.0,1.0,1
+Acura ILX Premium Package,1.0,1.0,1
+Acura MDX 3.7L Advance,1.0,1.0,1
+Acura MDX 3.5L,1.0,1.0,1
+Acura TLX FWD,1.0,1.0,1
+Acura MDX Advance,1.0,1.0,1
+Acura ILX Premium Package,1.0,1.0,1
+Acura MDX Advance,1.0,1.0,1
+Acura RLX Sport Hybrid Advance Package,1.0,1.0,1
+Acura ILX 2.0L,1.0,1.0,1
+Acura MDX 3.5L w/Technology Package,1.0,1.0,1
+Acura MDX 3.5L w/Technology Package,1.0,1.0,1
+Acura RLX Technology Package,1.0,1.0,1
+Acura TLX Technology,1.0,1.0,1
+Acura Integra Base,1.0,1.0,1
+Acura MDX 3.5L w/Technology & Entertainment Pkgs,1.0,1.0,1
+Acura MDX SH-AWD,1.0,1.0,1
+Acura TLX V6 w/Technology Package,1.0,1.0,1
+Acura MDX 3.5L w/Technology Package,1.0,1.0,1
+Acura NSX Base,1.0,1.0,1
+Acura TLX A-Spec,1.0,1.0,1
+Acura MDX 3.5L,1.0,1.0,1
+Acura MDX 3.5L,1.0,1.0,1
+Acura ILX 2.0L Technology,1.0,1.0,1
+Acura MDX Base,1.0,1.0,1
+Acura MDX A-Spec,1.0,1.0,1
+Acura TLX V6 w/Technology Package,1.0,1.0,1
+Acura MDX Technology,1.0,1.0,1
+Acura TLX V6 w/Technology Package,1.0,1.0,1
+Acura RDX Technology,1.0,1.0,1
+Acura TL 3.2,1.0,1.0,1
+Acura RDX Technology Package,1.0,1.0,1
+Acura RDX A-Spec,1.0,1.0,1
+Acura MDX A-Spec,1.0,1.0,1
+Acura MDX 3.5L w/Technology Package,1.0,1.0,1
+Acura TLX A-Spec,1.0,1.0,1
+Acura TLX A-Spec,1.0,1.0,1
+Acura RSX,1.0,1.0,1
+Acura MDX 3.5L,1.0,1.0,1
+Acura MDX 3.5L,1.0,1.0,1
+Acura Integra w/A-Spec Package,1.0,1.0,1
+Acura MDX,1.0,1.0,1
+Acura MDX Base,1.0,1.0,1
+Acura MDX Base,1.0,1.0,1
+Acura Integra A-Spec Technology,1.0,1.0,1
+Acura RDX Technology Package,1.0,1.0,1
+Acura TLX A-Spec,1.0,1.0,1
+Acura MDX Technology,1.0,1.0,1
+Acura TLX V6 w/Technology Package,1.0,1.0,1
+Acura RDX Base,1.0,1.0,1
+Acura RDX Base,1.0,1.0,1
+Acura Integra A-Spec Technology,1.0,1.0,1
+Acura Integra Base,1.0,1.0,1
+BMW X5 M50i,1.0,1.0,1
+BMW M4 Competition xDrive,1.0,1.0,1
+BMW 530 530i xDrive,1.0,1.0,1
+BMW 430 i xDrive,1.0,1.0,1
+BMW X3 xDrive30i,1.0,1.0,1
+BMW X6 M50i,1.0,1.0,1
+BMW i4 Gran Coupe M50,1.0,1.0,1
+BMW M4 Competition xDrive,1.0,1.0,1
+BMW 750 i xDrive,1.0,1.0,1
+BMW 760 760i xDrive,1.0,1.0,1
+BMW 540 i xDrive,1.0,1.0,1
+BMW X3 xDrive30i,1.0,1.0,1
+BMW 760 760i xDrive,1.0,1.0,1
+BMW M4 Competition xDrive,1.0,1.0,1
+BMW X6 xDrive40i,1.0,1.0,1
+BMW X5 M50i,1.0,1.0,1
+BMW i4 Gran Coupe M50,1.0,1.0,1
+BMW iX xDrive50,1.0,1.0,1
+BMW X4 M40i,1.0,1.0,1
+BMW M6 Gran Coupe Gran Coupe,1.0,1.0,1
+BMW X3 M40i,1.0,1.0,1
+BMW X5 PHEV xDrive45e,1.0,1.0,1
+BMW X5 xDrive40i,1.0,1.0,1
+BMW M440 Gran Coupe M440i Gran Coupe,1.0,1.0,1
+BMW M3,1.0,1.0,1
+BMW X3 M40i,1.0,1.0,1
+BMW 340 i xDrive,1.0,1.0,1
+BMW 1 Series M Base,1.0,1.0,1
+BMW M5 Base,1.0,1.0,1
+BMW 750 i xDrive,1.0,1.0,1
+BMW M2 Base,1.0,1.0,1
+BMW X6 xDrive40i,1.0,1.0,1
+BMW 840 Gran Coupe i xDrive,1.0,1.0,1
+BMW X3 xDrive30i,1.0,1.0,1
+BMW iX xDrive50,1.0,1.0,1
+BMW M440 i xDrive,1.0,1.0,1
+BMW 550 i,1.0,1.0,1
+BMW 840 i xDrive,1.0,1.0,1
+BMW X5 xDrive35i,1.0,1.0,1
+BMW X6 M Base,1.0,1.0,1
+BMW M440 i xDrive,1.0,1.0,1
+BMW 650 i,1.0,1.0,1
+BMW X7 xDrive40i,1.0,1.0,1
+BMW 760 760i xDrive,1.0,1.0,1
+BMW 750 i xDrive,1.0,1.0,1
+BMW X5 xDrive40i,1.0,1.0,1
+BMW i8 Base,1.0,1.0,1
+BMW X6 xDrive35i,1.0,1.0,1
+BMW X3 xDrive30i,1.0,1.0,1
+BMW X5 PHEV xDrive45e,1.0,1.0,1
+BMW M440 i,1.0,1.0,1
+BMW 640 Gran Turismo i xDrive,1.0,1.0,1
+BMW M3,1.0,1.0,1
+BMW X3 M Competition,1.0,1.0,1
+BMW iX xDrive50,1.0,1.0,1
+BMW M850 i xDrive,1.0,1.0,1
+BMW 228 Gran Coupe i xDrive,1.0,1.0,1
+BMW 530 i xDrive,1.0,1.0,1
+BMW Z4 sDrive35i,1.0,1.0,1
+BMW 330 i xDrive,1.0,1.0,1
+BMW X5 xDrive35i,1.0,1.0,1
+BMW 540 i xDrive,1.0,1.0,1
+BMW X1 xDrive28i,1.0,1.0,1
+BMW 530 i,1.0,1.0,1
+BMW M550 i Xdrive,1.0,1.0,1
+BMW M550 i xDrive,1.0,1.0,1
+BMW M550 i xDrive,1.0,1.0,1
+BMW 750 i xDrive,1.0,1.0,1
+BMW X7 xDrive50i,1.0,1.0,1
+BMW 330 i,1.0,1.0,1
+BMW X5 xDrive35i,1.0,1.0,1
+BMW 740 i,1.0,1.0,1
+BMW 330e xDrive,1.0,1.0,2
+BMW 330e xDrive,1.0,1.0,2
+BMW 330 i xDrive,1.0,1.0,1
+BMW X5 M Base,1.0,1.0,1
+BMW 328 i xDrive,1.0,1.0,1
+BMW M340 i xDrive,1.0,1.0,2
+BMW M340 i xDrive,1.0,1.0,2
+BMW X7 M50i,1.0,1.0,1
+BMW iX xDrive50,1.0,1.0,1
+BMW 750 i,1.0,1.0,1
+BMW 430 i xDrive,1.0,1.0,1
+BMW 750 i xDrive,1.0,1.0,1
+Chevrolet Bolt EUV LT,1.0,1.0,1
+Chevrolet Camaro LT1,1.0,1.0,1
+Chevrolet Malibu LT,1.0,1.0,1
+Chevrolet Trailblazer RS,1.0,1.0,1
+Chevrolet Silverado 2500 LT,1.0,1.0,1
+Chevrolet Camaro 1LT,1.0,1.0,1
+Chevrolet Silverado 1500 LT,1.0,1.0,1
+Chevrolet Colorado Z71,1.0,1.0,1
+Chevrolet Silverado 3500 LTZ,1.0,1.0,1
+Chevrolet Silverado 1500 LT,1.0,1.0,1
+Chevrolet Equinox LS,1.0,1.0,1
+Chevrolet Silverado 1500 LT,1.0,1.0,1
+Chevrolet Colorado Z71,1.0,1.0,1
+Chevrolet Tahoe LS,1.0,1.0,1
+Chevrolet Silverado 2500 LT,1.0,1.0,1
+Chevrolet Colorado Z71,1.0,1.0,1
+Chevrolet Silverado 1500 LTZ,1.0,1.0,1
+Chevrolet Bolt EUV LT,1.0,1.0,1
+Chevrolet Tahoe LS,1.0,1.0,1
+Chevrolet Camaro 1LT,1.0,1.0,1
+Chevrolet Suburban Premier,1.0,1.0,1
+Chevrolet Silverado 2500 Custom,1.0,1.0,1
+Chevrolet Suburban High Country,1.0,1.0,1
+Chevrolet Trax LT,1.0,1.0,1
+Chevrolet Trax LT,1.0,1.0,1
+Chevrolet Camaro LT1,1.0,1.0,1
+Chevrolet Camaro ZL1,1.0,1.0,1
+Chevrolet Camaro LT1,1.0,1.0,1
+Chevrolet Suburban LS,1.0,1.0,1
+Chevrolet Silverado 2500 WT,1.0,1.0,1
+Chevrolet Silverado 2500 LTZ,1.0,1.0,1
+Chevrolet Tahoe LT,1.0,1.0,1
+Chevrolet Tahoe LT,1.0,1.0,1
+Chevrolet Avalanche 1500 LTZ,1.0,1.0,1
+Chevrolet Silverado 1500 Custom,1.0,1.0,1
+Chevrolet Silverado 1500 LT,1.0,1.0,1
+Chevrolet Blazer 2LT,1.0,1.0,1
+Chevrolet Trax LT,1.0,1.0,1
+Chevrolet Silverado 1500 LT,1.0,1.0,1
+Chevrolet Tahoe Premier,1.0,1.0,1
+Chevrolet Suburban Premier,1.0,1.0,1
+Chevrolet Silverado 1500 High Country,1.0,1.0,1
+Chevrolet Silverado 2500 WT,1.0,1.0,1
+Chevrolet Tahoe Z71,1.0,1.0,1
+Chevrolet Traverse 1LT,1.0,1.0,1
+Chevrolet Silverado 2500 WT,1.0,1.0,1
+Chevrolet Silverado 1500 LT Trail Boss,1.0,1.0,1
+Chevrolet Traverse LT Leather,1.0,1.0,1
+Chevrolet Tahoe LT,1.0,1.0,1
+Chevrolet Suburban LT,1.0,1.0,1
+Chevrolet Corvette Stingray w/1LT,1.0,1.0,1
+Chevrolet Bolt EUV Premier,1.0,1.0,1
+Chevrolet Colorado Z71,1.0,1.0,1
+Chevrolet Blazer 2LT,1.0,1.0,1
+Chevrolet Traverse LT Leather,1.0,1.0,1
+Chevrolet Tahoe LT,1.0,1.0,1
+Chevrolet Silverado 1500 Limited RST,1.0,1.0,1
+Chevrolet Blazer 2LT,1.0,1.0,1
+Chevrolet Traverse Premier,1.0,1.0,1
+Chevrolet Cruze 2LT,1.0,1.0,1
+Chevrolet Malibu LT,1.0,1.0,1
+Chevrolet Silverado 1500 LT Trail Boss,1.0,1.0,1
+Chevrolet Suburban LT,1.0,1.0,1
+Chevrolet Silverado 1500 RST,1.0,1.0,1
+Chevrolet Silverado 2500 LS H/D,1.0,1.0,1
+Chevrolet Silverado 1500 LTZ,1.0,1.0,1
+Dodge Durango R/T,1.0,1.0,1
+Dodge Charger SXT,1.0,1.0,1
+Dodge Challenger SRT Hellcat,1.0,1.0,1
+Dodge Challenger R/T,1.0,1.0,1
+Dodge Challenger R/T,1.0,1.0,1
+Dodge Durango Citadel,1.0,1.0,2
+Dodge Durango Citadel,1.0,1.0,2
+Dodge Durango SXT,1.0,1.0,1
+Dodge Charger Scat Pack,1.0,1.0,1
+Dodge Durango R/T,1.0,1.0,1
+Dodge Challenger R/T,1.0,1.0,1
+Dodge Durango GT,1.0,1.0,1
+Dodge Challenger R/T,1.0,1.0,1
+Dodge Challenger GT,1.0,1.0,1
+Dodge Challenger SXT,1.0,1.0,1
+Dodge Challenger R/T,1.0,1.0,1
+Dodge Challenger R/T,1.0,1.0,1
+Dodge Grand Caravan SE,1.0,1.0,1
+Dodge Charger SRT Hellcat Widebody,1.0,1.0,1
+Dodge Durango R/T,1.0,1.0,1
+Dodge Ram 2500 SLT,1.0,1.0,1
+Dodge Durango SXT Plus,1.0,1.0,1
+Dodge Charger SXT,1.0,1.0,1
+Dodge Charger R/T,1.0,1.0,1
+Dodge Charger GT,1.0,1.0,1
+Dodge Challenger R/T Scat Pack,1.0,1.0,1
+Dodge Challenger R/T,1.0,1.0,1
+Dodge Charger GT,1.0,1.0,1
+Dodge Challenger R/T Plus,1.0,1.0,1
+Dodge Nitro SE,1.0,1.0,1
+Dodge Charger R/T,1.0,1.0,1
+Dodge Durango SXT,1.0,1.0,1
+Dodge Nitro Heat,1.0,1.0,1
+Dodge Charger SXT,1.0,1.0,1
+Dodge Ram 2500 Sport Quad Cab,1.0,1.0,1
+Dodge Challenger R/T,1.0,1.0,1
+Dodge Avenger SXT,1.0,1.0,1
+Dodge Challenger GT,1.0,1.0,1
+Dodge Ram 1500 SLT,1.0,1.0,1
+Dodge Grand Caravan AVP/SE,1.0,1.0,1
+Dodge Challenger R/T,1.0,1.0,1
+Dodge Durango GT,1.0,1.0,1
+Dodge Charger SRT Hellcat,1.0,1.0,1
+Dodge Durango R/T,1.0,1.0,1
+Dodge Durango Citadel,1.0,1.0,1
+Dodge Charger SXT,1.0,1.0,1
+Dodge Charger SXT,1.0,1.0,1
+Dodge Charger SXT,1.0,1.0,1
+Dodge Dart SE,1.0,1.0,1
+Dodge Challenger R/T,1.0,1.0,1
+Dodge Ram 2500 SLT,1.0,1.0,1
+Dodge Challenger SXT,1.0,1.0,1
+Dodge Challenger R/T,1.0,1.0,1
+Dodge Charger R/T 392,1.0,1.0,1
+Dodge Challenger SRT 392,1.0,1.0,1
+Dodge Durango GT,1.0,1.0,1
+Dodge Charger Scat Pack,1.0,1.0,1
+Dodge Challenger SXT,1.0,1.0,1
+Dodge Durango R/T,1.0,1.0,1
+Dodge Journey R/T,1.0,1.0,1
+Dodge Challenger R/T Scat Pack,1.0,1.0,1
+Dodge Durango GT,1.0,1.0,1
+Dodge Ram 2500 ST,1.0,1.0,1
+Dodge Dakota Big Horn/Lone Star,1.0,1.0,1
+Dodge Charger Scat Pack,1.0,1.0,1
+Dodge Durango GT,1.0,1.0,1
+Dodge Durango R/T,1.0,1.0,1
+Dodge Challenger SXT,1.0,1.0,1
+Dodge Grand Caravan GT,1.0,1.0,1
+Dodge Challenger GT,1.0,1.0,1
+Dodge Grand Caravan SE,1.0,1.0,1
+Dodge Dart SXT,1.0,1.0,1
+Dodge Challenger R/T Scat Pack,1.0,1.0,1
+Dodge Avenger SE,1.0,1.0,1
+Dodge Challenger R/T,1.0,1.0,1
+Dodge Durango R/T,1.0,1.0,1
+Dodge Charger SXT,1.0,1.0,1
+Dodge Challenger R/T,1.0,1.0,1
+Dodge Charger R/T,1.0,1.0,1
+Dodge Ram 2500 Power Wagon,1.0,1.0,1
+Dodge Dart SXT,1.0,1.0,1
+Dodge Charger SXT,1.0,1.0,1
+Dodge Ram 3500 ST,1.0,1.0,1
+Dodge Durango Limited,1.0,1.0,1
+Dodge Challenger SXT,1.0,1.0,1
+Dodge Charger R/T,1.0,1.0,1
+Dodge Charger SE,1.0,1.0,1
+Dodge Challenger SXT,1.0,1.0,1
+Dodge Challenger SXT,1.0,1.0,1
+Dodge Challenger SRT Hellcat,1.0,1.0,1
+Ford Explorer ST,1.0,1.0,1
+Ford Explorer Platinum,1.0,1.0,1
+Ford Explorer XLT,1.0,1.0,1
+Ford Mustang Mach 1,1.0,1.0,1
+Ford F-350 XLT,1.0,1.0,1
+Ford Bronco,1.0,1.0,1
+Ford F-250 Lariat,1.0,1.0,1
+Ford Escape Titanium,1.0,1.0,1
+Ford Bronco Big Bend,1.0,1.0,1
+Ford Explorer XLT,1.0,1.0,1
+Ford F-150 Tremor,1.0,1.0,1
+Ford Bronco Base,1.0,1.0,1
+Ford Mustang GT Premium,1.0,1.0,1
+Ford Mustang Mach 1,1.0,1.0,1
+Ford Bronco,1.0,1.0,1
+Ford Expedition Max XLT,1.0,1.0,1
+Ford Explorer Platinum,1.0,1.0,1
+Ford Bronco,1.0,1.0,1
+Ford Mustang Mach 1,1.0,1.0,1
+Ford Explorer XLT,1.0,1.0,1
+Ford Bronco,1.0,1.0,1
+Ford F-150 Lariat,1.0,1.0,1
+Ford Mustang Mach 1,1.0,1.0,1
+Ford Explorer XLT,1.0,1.0,1
+Ford Ranger Lariat,1.0,1.0,1
+Ford Mustang Mach-E Select,1.0,1.0,1
+Ford F-250 XLT,1.0,1.0,1
+Ford Bronco Black Diamond,1.0,1.0,1
+Ford F-250 Lariat,1.0,1.0,1
+Ford Transit-350 XLT,1.0,1.0,1
+Ford Expedition XLT,1.0,1.0,1
+Ford Bronco Wildtrak,1.0,1.0,1
+Ford Mustang SVT Cobra,1.0,1.0,1
+Ford Expedition Limited,1.0,1.0,1
+Ford F-150 Lightning LARIAT,1.0,1.0,1
+Ford F-150 Raptor,1.0,1.0,1
+Ford Ranger XLT,1.0,1.0,1
+Ford F-250 XL,1.0,1.0,1
+Ford Bronco Big Bend,1.0,1.0,1
+Ford F-150 Lariat,1.0,1.0,1
+Ford Bronco Raptor,1.0,1.0,1
+Ford Mustang EcoBoost,1.0,1.0,1
+Ford Explorer XLT,1.0,1.0,1
+Ford Mustang Mach-E Select,1.0,1.0,1
+Ford F-250 XLT,1.0,1.0,1
+Ford F-150 Lightning Platinum,1.0,1.0,1
+Ford Explorer XLT,1.0,1.0,1
+Ford EcoSport S,1.0,1.0,1
+Ford Expedition Max XLT,1.0,1.0,1
+Ford Expedition XLT,1.0,1.0,1
+Ford Edge SEL,1.0,1.0,1
+Ford F-150 Raptor,1.0,1.0,1
+Hyundai IONIQ 5 SEL,1.0,1.0,1
+Hyundai Santa Cruz 2.5T Limited,1.0,1.0,1
+Hyundai Palisade SE,1.0,1.0,1
+Hyundai IONIQ 5 SEL,1.0,1.0,1
+Hyundai IONIQ 5 SE,1.0,1.0,1
+Hyundai Palisade Calligraphy,1.0,1.0,1
+Hyundai Kona N Base,1.0,1.0,1
+Hyundai Sonata Limited,1.0,1.0,1
+Hyundai Kona N Base,1.0,1.0,1
+Hyundai Tucson Hybrid Blue,1.0,1.0,1
+Hyundai Tucson N Line,1.0,1.0,1
+Hyundai Sonata SEL Plus,1.0,1.0,1
+Hyundai Sonata SEL,1.0,1.0,1
+Hyundai IONIQ 5 SEL,1.0,1.0,1
+Hyundai Venue SEL,1.0,1.0,1
+Hyundai Elantra N Base,1.0,1.0,1
+Hyundai Palisade Calligraphy,1.0,1.0,1
+Hyundai Palisade Calligraphy,1.0,1.0,1
+Hyundai Elantra Touring GLS,1.0,1.0,1
+Hyundai Palisade Limited,1.0,1.0,1
+Hyundai Kona SEL,1.0,1.0,1
+Hyundai Elantra SE,1.0,1.0,1
+Hyundai Palisade Calligraphy,1.0,1.0,1
+Hyundai Santa Fe XRT,1.0,1.0,1
+Hyundai Sonata Hybrid SEL,1.0,1.0,1
+Hyundai IONIQ 5 SEL,1.0,1.0,1
+Hyundai Venue Limited,1.0,1.0,1
+Hyundai Genesis Coupe 3.8 R-Spec,1.0,1.0,1
+Hyundai Santa Cruz 2.5T Limited,1.0,1.0,1
+Hyundai Palisade Limited,1.0,1.0,1
+Hyundai Santa Fe SEL,1.0,1.0,1
+Hyundai Elantra HEV Blue,1.0,1.0,1
+Hyundai Kona SE,1.0,1.0,1
+Hyundai Palisade SEL,1.0,1.0,1
+Hyundai Santa Fe SE,1.0,1.0,1
+Hyundai Palisade Limited,1.0,1.0,1
+Hyundai Santa Fe Limited,1.0,1.0,1
+Hyundai Santa Fe HEV SEL Premium,1.0,1.0,1
+Hyundai Tucson SE,1.0,1.0,1
+Hyundai Sonata SEL,1.0,1.0,1
+Hyundai Elantra N Base,1.0,1.0,1
+Hyundai Kona EV Limited,1.0,1.0,1
+Hyundai Tucson Sport,1.0,1.0,1
+Hyundai Sonata SEL,1.0,1.0,1
+Hyundai Santa Fe SEL 2.4,1.0,1.0,1
+Hyundai Kona SE,1.0,1.0,1
+Hyundai Veloster Base,1.0,1.0,1
+Hyundai Sonata Hybrid Limited,1.0,1.0,1
+Hyundai Santa Fe SE 2.4,1.0,1.0,1
+Hyundai Palisade Calligraphy,1.0,1.0,1
+Hyundai Palisade Limited,1.0,1.0,1
+Hyundai Tucson SEL,1.0,1.0,1
+Hyundai Santa Fe Calligraphy,1.0,1.0,1
+Hyundai Santa Fe SEL 2.4,1.0,1.0,1
+Hyundai Genesis Coupe 3.8 R-Spec,1.0,1.0,1
+Hyundai Venue SEL,1.0,1.0,1
+Hyundai Santa Fe Limited,1.0,1.0,1
+Hyundai Sonata SE,1.0,1.0,1
+Hyundai Kona EV Limited,1.0,1.0,1
+Hyundai Santa Fe SEL 2.4,1.0,1.0,1
+Hyundai Palisade SEL,1.0,1.0,1
+Hyundai Kona SEL,1.0,1.0,1
+Hyundai Santa Fe Sport,1.0,1.0,1
+Hyundai Santa Cruz 2.5L SEL,1.0,1.0,1
+Hyundai Santa Fe Limited 2.0T,1.0,1.0,1
+INFINITI Q50 LUXE,1.0,1.0,1
+INFINITI QX80 PREMIUM SELECT,1.0,1.0,1
+INFINITI Q50 3.0t LUXE,1.0,1.0,1
+INFINITI QX80 Base,1.0,1.0,1
+INFINITI QX80 SENSORY,1.0,1.0,1
+INFINITI QX60 SENSORY,1.0,1.0,1
+INFINITI QX55 LUXE,1.0,1.0,1
+INFINITI QX55 ESSENTIAL,1.0,1.0,1
+INFINITI EX35 Journey,1.0,1.0,1
+INFINITI QX60 SENSORY,1.0,1.0,1
+INFINITI QX80 Luxe,1.0,1.0,1
+INFINITI Q50 3.0t LUXE,1.0,1.0,1
+INFINITI QX80 Luxe,1.0,1.0,1
+INFINITI QX60 Base,1.0,1.0,1
+INFINITI Q50 Base,1.0,1.0,1
+INFINITI QX80 SENSORY,1.0,1.0,1
+INFINITI QX80 Luxe,1.0,1.0,1
+INFINITI QX80 Luxe,1.0,1.0,1
+INFINITI QX56 Base,1.0,1.0,2
+INFINITI QX56 Base,1.0,1.0,2
+INFINITI QX55 LUXE,1.0,1.0,1
+INFINITI QX50 ESSENTIAL,1.0,1.0,1
+INFINITI QX60 Luxe,1.0,1.0,1
+INFINITI QX80 Base,1.0,1.0,1
+INFINITI QX80 Limited,1.0,1.0,1
+INFINITI Q50 3.0t Red Sport 400,1.0,1.0,1
+INFINITI QX55 ESSENTIAL,1.0,1.0,1
+INFINITI Q50 Base,1.0,1.0,1
+INFINITI QX80 Base,1.0,1.0,1
+INFINITI QX80 PREMIUM SELECT,1.0,1.0,1
+INFINITI QX30 Sport,1.0,1.0,1
+INFINITI QX56,1.0,1.0,1
+INFINITI QX80 SENSORY,1.0,1.0,1
+INFINITI G37x Base,1.0,1.0,1
+INFINITI Q60 3.0t Red Sport 400,1.0,1.0,1
+INFINITI Q60 IPL Base,1.0,1.0,1
+INFINITI QX50 LUXE,1.0,1.0,1
+INFINITI Q50 3.0t Red Sport 400,1.0,1.0,1
+INFINITI Q50 3.0t Signature Edition,1.0,1.0,1
+INFINITI QX50 ESSENTIAL,1.0,1.0,1
+INFINITI QX60 Luxe,1.0,1.0,1
+INFINITI QX80 Luxe,1.0,1.0,1
+INFINITI QX50 Luxe,1.0,1.0,1
+INFINITI QX70 Base,1.0,1.0,1
+INFINITI QX55 ESSENTIAL,1.0,1.0,1
+INFINITI QX50 AUTOGRAPH,1.0,1.0,1
+INFINITI Q50 3.0t Red Sport 400,1.0,1.0,1
+INFINITI QX80 Base,1.0,1.0,1
+INFINITI QX50 Journey,1.0,1.0,1
+INFINITI QX80 Luxe,1.0,1.0,1
+INFINITI Q50 3.0t LUXE,1.0,1.0,1
+INFINITI EX35 Journey,1.0,1.0,1
+INFINITI QX80 Luxe,1.0,1.0,1
+INFINITI QX55 ESSENTIAL,1.0,1.0,1
+INFINITI QX55 LUXE,1.0,1.0,1
+INFINITI QX80 PREMIUM SELECT,1.0,1.0,1
+INFINITI QX80 Base,1.0,1.0,1
+INFINITI QX60 Luxe,1.0,1.0,1
+INFINITI G35x Base,1.0,1.0,1
+INFINITI QX50 Luxe,1.0,1.0,1
+INFINITI QX80 Luxe,1.0,1.0,1
+INFINITI FX35 Base,1.0,1.0,1
+INFINITI QX50 ESSENTIAL,1.0,1.0,1
+INFINITI QX80 PREMIUM SELECT,1.0,1.0,1
+INFINITI Q50 3.0t Sport,1.0,1.0,1
+INFINITI QX60 Luxe,1.0,1.0,1
+INFINITI QX80 Luxe,1.0,1.0,1
+INFINITI Q60 LUXE,1.0,1.0,1
+INFINITI QX50 Base,1.0,1.0,1
+INFINITI QX60 Base,1.0,1.0,1
+INFINITI QX80 Luxe,1.0,1.0,1
+INFINITI QX60 Base,1.0,1.0,1
+INFINITI QX55 ESSENTIAL,1.0,1.0,1
+INFINITI QX80 PREMIUM SELECT,1.0,1.0,1
+INFINITI QX60 Base,1.0,1.0,1
+INFINITI QX80 Base,1.0,1.0,1
+INFINITI QX55 SENSORY,1.0,1.0,1
+INFINITI QX80 Luxe,1.0,1.0,1
+INFINITI QX50 ESSENTIAL,1.0,1.0,1
+INFINITI QX80 Luxe,1.0,1.0,1
+INFINITI QX80 SENSORY,1.0,1.0,1
+INFINITI Q50 3.0t LUXE,1.0,1.0,1
+INFINITI QX70 Base,1.0,1.0,1
+INFINITI QX80 Luxe,1.0,1.0,1
+INFINITI Q50 3.0t Red Sport 400,1.0,1.0,1
+INFINITI Q60 2.0t Premium,1.0,1.0,1
+INFINITI QX80 PREMIUM SELECT,1.0,1.0,1
+Lexus GX 460 Base,1.0,1.0,1
+Lexus RX 350h Premium Plus,1.0,1.0,1
+Lexus GX 460 GX 460 Premium,1.0,1.0,1
+Lexus GX 460 Luxury,1.0,1.0,1
+Lexus ES 300h F SPORT,1.0,1.0,1
+Lexus NX 300h Base,1.0,1.0,1
+Lexus LX 570 Base,1.0,1.0,1
+Lexus IS 350 F Sport,1.0,1.0,1
+Lexus RX 350 Base,1.0,1.0,1
+Lexus LX 570,1.0,1.0,1
+Lexus GX 460 Base,1.0,1.0,1
+Lexus RX 500h F SPORT PERFORMANCE,1.0,1.0,1
+Lexus ES 300h Base,1.0,1.0,1
+Lexus ES 350 Crafted Line,1.0,1.0,1
+Lexus ES 300h Base,1.0,1.0,1
+Lexus RX 350 RX 350,1.0,1.0,1
+Lexus NX 350 Luxury,1.0,1.0,1
+Lexus NX 350 Premium,1.0,1.0,1
+Lexus SC 430,1.0,1.0,1
+Lexus ES 250 ES 250,1.0,1.0,1
+Lexus IS 300 Base,1.0,1.0,1
+Lexus IS 250 250,1.0,1.0,1
+Lexus IS 350 Base,1.0,1.0,1
+Lexus IS 200t Base,1.0,1.0,1
+Lexus IS 350 Base,1.0,1.0,1
+Lexus RX 350h Premium,1.0,1.0,1
+Lexus RX 350 Luxury,1.0,1.0,1
+Lexus GS 350 Base,1.0,1.0,1
+Lexus GS 350 Base,1.0,1.0,1
+Lexus UX 200 UX 200 Luxury,1.0,1.0,1
+Lexus IS 300 Base,1.0,1.0,1
+Lexus ES 350 Base,1.0,1.0,1
+Lexus UX 250h Premium,1.0,1.0,1
+Lexus RX 350 Base,1.0,1.0,1
+Lexus RX 350 Base,1.0,1.0,1
+Lexus LX 570 Two-Row,1.0,1.0,1
+Lexus GS 350 F Sport,1.0,1.0,1
+Lexus ES 350 Base,1.0,1.0,1
+Lexus RX 350 F Sport,1.0,1.0,1
+Lexus GX 460 GX 460 Luxury,1.0,1.0,1
+Lexus IS 200t Base,1.0,1.0,1
+Lexus IS 300 IS 300,1.0,1.0,1
+Lexus NX 350 Luxury,1.0,1.0,1
+Lexus ES 350 Base,1.0,1.0,1
+Lexus ES 350 Base,1.0,1.0,1
+Lexus ES 350 350,1.0,1.0,1
+Lexus ES 350 Base,1.0,1.0,1
+Lexus LS 460 Base,1.0,1.0,1
+Lexus NX 300h Base,1.0,1.0,1
+Lexus RX 330 Base (A5),1.0,1.0,1
+Lexus ES 350 Base,1.0,1.0,1
+Lexus NX 200t Base,1.0,1.0,1
+Lexus ES 350 Base,1.0,1.0,1
+Lexus RX 350 RX 350 F SPORT,1.0,1.0,1
+Lexus RX 350 Base,1.0,1.0,1
+Lexus ES 350 F Sport,1.0,1.0,1
+Lexus IS 250C Base,1.0,1.0,1
+Lexus UX 200 F Sport,1.0,1.0,1
+Lexus GX 460 Premium,1.0,1.0,1
+Lexus IS 350 Base,1.0,1.0,1
+Lexus UX 250h Premium,1.0,1.0,1
+Lexus LX 570 Base,1.0,1.0,1
+Lexus ES 350 Base,1.0,1.0,1
+Lexus RX 450hL Base,1.0,1.0,1
+Lexus ES 350 F Sport,1.0,1.0,1
+Lexus RX 350 F Sport,1.0,1.0,1
+Lexus GX 460 GX 460,1.0,1.0,1
+Lexus IS 250 250,1.0,1.0,1
+Lexus RX 350,1.0,1.0,1
+Lexus LS 460 Base,1.0,1.0,1
+Lexus IS 350 F Sport,1.0,1.0,1
+Lexus ES 350 Base,1.0,1.0,1
+Lexus IS 250 Base,1.0,1.0,1
+Lexus GX 460 Base,1.0,1.0,1
+Lexus RX 350 Luxury,1.0,1.0,1
+Lexus UX 250h Base,1.0,1.0,1
+Lexus NX 350 Luxury,1.0,1.0,1
+Lexus ES 350 Base,1.0,1.0,1
+Lexus ES 350 Base,1.0,1.0,1
+Lexus UX 250h Premium,1.0,1.0,1
+Lexus IS 350 Base,1.0,1.0,1
+Lexus IS 300,1.0,1.0,1
+Lexus ES 350 Base,1.0,1.0,1
+Lexus RC 350 Base,1.0,1.0,1
+Mercedes-Benz S-Class S 580 4MATIC,1.0,1.0,1
+Mercedes-Benz EQS 450+ Base,1.0,1.0,1
+Mercedes-Benz EQB 350 350,1.0,1.0,1
+Mercedes-Benz S-Class S 580 4MATIC,1.0,1.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,1.0,1.0,1
+Mercedes-Benz Sprinter 2500 High Roof,1.0,1.0,1
+Mercedes-Benz GLB 250 Base 4MATIC,1.0,1.0,1
+Mercedes-Benz GLS 450 4MATIC,1.0,1.0,1
+Mercedes-Benz S-Class S 580 4MATIC,1.0,1.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,1.0,1.0,1
+Mercedes-Benz GLB 250 Base 4MATIC,1.0,1.0,1
+Mercedes-Benz EQS 580 Base 4MATIC,1.0,1.0,1
+Mercedes-Benz GLC 300 Base 4MATIC,1.0,1.0,1
+Mercedes-Benz AMG GLC 43 GLC 43 AMG 4MATIC,1.0,1.0,1
+Mercedes-Benz GLC 300 Base,1.0,1.0,1
+Mercedes-Benz S-Class S 500 4MATIC,1.0,1.0,1
+Mercedes-Benz GLC 300 Base,1.0,1.0,1
+Mercedes-Benz Maybach S 580 4MATIC,1.0,1.0,1
+Mercedes-Benz GLB 250 Base 4MATIC,1.0,1.0,1
+Mercedes-Benz AMG GLE 53 Base,1.0,1.0,1
+Mercedes-Benz S-Class S 500 4MATIC,1.0,1.0,1
+Mercedes-Benz GLC 300 Base,1.0,1.0,1
+Mercedes-Benz Sprinter 2500 Standard Roof,1.0,1.0,1
+Mercedes-Benz GLC 300 Base,1.0,1.0,1
+Mercedes-Benz S-Class S 580 4MATIC,1.0,1.0,1
+Mercedes-Benz GLE 350 Base 4MATIC,1.0,1.0,1
+Mercedes-Benz EQS 580 Base 4MATIC,1.0,1.0,1
+Mercedes-Benz AMG E 53 Base 4MATIC,1.0,1.0,1
+Mercedes-Benz EQB 350 350,1.0,1.0,1
+Mercedes-Benz EQS 450 Base 4MATIC,1.0,1.0,1
+Mercedes-Benz GLB 250 Base 4MATIC,1.0,1.0,1
+Mercedes-Benz S-Class S 580 4MATIC,1.0,1.0,1
+Mercedes-Benz AMG SL 63 SL 63 AMG 4MATIC,1.0,1.0,1
+Mercedes-Benz E-Class E 450,1.0,1.0,1
+Mercedes-Benz GLB 250 Base 4MATIC,1.0,1.0,1
+Mercedes-Benz S-Class S 580 4MATIC,1.0,1.0,1
+Mercedes-Benz EQS 580 Base 4MATIC,1.0,1.0,1
+Mercedes-Benz S-Class S 580 4MATIC,1.0,1.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,1.0,1.0,1
+Mercedes-Benz E-Class E 450,1.0,1.0,1
+Mercedes-Benz AMG GLC 43 Base 4MATIC,1.0,1.0,1
+Mercedes-Benz S-Class S 500 4MATIC,1.0,1.0,1
+Mercedes-Benz S-Class S 580 4MATIC,1.0,1.0,1
+Mercedes-Benz E-Class E 350,1.0,1.0,1
+Mercedes-Benz GLS 450 4MATIC,1.0,1.0,1
+Mercedes-Benz Sprinter 3500 High Roof,1.0,1.0,1
+Mercedes-Benz S-Class S 580 4MATIC,1.0,1.0,1
+Mercedes-Benz C-Class C 300 4MATIC,1.0,1.0,1
+Mercedes-Benz EQB 350 350,1.0,1.0,1
+Mercedes-Benz GLB 250 Base 4MATIC,1.0,1.0,1
+Mercedes-Benz EQS 450+ Base,1.0,1.0,1
+Mercedes-Benz GLS 450 4MATIC,1.0,1.0,1
+Mercedes-Benz G-Class G 550 4MATIC,1.0,1.0,1
+Mercedes-Benz C-Class C 300 4MATIC,1.0,1.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,1.0,1.0,1
+Mercedes-Benz GLE 350 Base 4MATIC,1.0,1.0,1
+Mercedes-Benz EQS 580 Base 4MATIC,1.0,1.0,1
+Mercedes-Benz AMG GLA 45 Base,1.0,1.0,1
+Mercedes-Benz EQS 450 Base 4MATIC,1.0,1.0,1
+Mercedes-Benz AMG GLE 53 Base,1.0,1.0,1
+Mercedes-Benz E-Class E 450,1.0,1.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,1.0,1.0,1
+Mercedes-Benz Sprinter 2500 High Roof,1.0,1.0,1
+Mercedes-Benz AMG E 53 Base 4MATIC,1.0,1.0,1
+Mercedes-Benz E-Class E 350 4MATIC,1.0,1.0,1
+Mercedes-Benz EQS 450 Base 4MATIC,1.0,1.0,1
+Mercedes-Benz EQS 450 Base 4MATIC,1.0,1.0,1
+Mercedes-Benz GLC 300 Base,1.0,1.0,1
+Mercedes-Benz AMG E 53 Base 4MATIC,1.0,1.0,1
+Mercedes-Benz E-Class E 350,1.0,1.0,1
+Mercedes-Benz GLS 450 4MATIC,1.0,1.0,1
+Mercedes-Benz AMG SL 63 Base,1.0,1.0,1
+Mercedes-Benz Sprinter 2500 144 WB,1.0,1.0,1
+Mercedes-Benz E-Class E 350 4MATIC,1.0,1.0,1
+Mercedes-Benz Sprinter 2500 High Roof,1.0,1.0,1
+Mercedes-Benz GLS 450 4MATIC,1.0,1.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,1.0,1.0,1
+Mercedes-Benz E-Class E 350 4MATIC,1.0,1.0,1
+Mercedes-Benz S-Class S 580 4MATIC,1.0,1.0,1
+Mercedes-Benz S-Class S 580 4MATIC,1.0,1.0,1
+Mercedes-Benz AMG SL 63 Base,1.0,1.0,1
+Mercedes-Benz GLC 300 Base 4MATIC,1.0,1.0,1
+Mercedes-Benz EQE 350 Base 4MATIC,1.0,1.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,1.0,1.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,1.0,1.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,1.0,1.0,1
+Mercedes-Benz GLE 450 AWD 4MATIC,1.0,1.0,1
+Porsche Cayman S,1.0,1.0,1
+Porsche Taycan Base,1.0,1.0,1
+Porsche Panamera E-Hybrid Turbo S,1.0,1.0,1
+Porsche 718 Cayman GTS,1.0,1.0,1
+Porsche 911 Turbo S,1.0,1.0,1
+Porsche Panamera 4,1.0,1.0,1
+Porsche Panamera 4S,1.0,1.0,1
+Porsche 718 Cayman GT4,1.0,1.0,1
+Porsche Panamera Sport Turismo 4S,1.0,1.0,1
+Porsche 911 Carrera S,1.0,1.0,1
+Porsche Panamera 4,1.0,1.0,1
+Porsche Macan Base,1.0,1.0,1
+Porsche Cayenne GTS,1.0,1.0,1
+Porsche 911 Carrera 4 GTS,1.0,1.0,1
+Porsche 911 Carrera,1.0,1.0,1
+Porsche Macan Base,1.0,1.0,1
+Porsche Macan Base,1.0,1.0,1
+Porsche Macan Base,1.0,1.0,1
+Porsche 718 Boxster GTS,1.0,1.0,1
+Porsche 911 Carrera,1.0,1.0,1
+Porsche 718 Boxster GTS,1.0,1.0,1
+Porsche Cayenne Platinum Edition,1.0,1.0,1
+Porsche Cayenne Turbo,1.0,1.0,1
+Porsche Cayman Base,1.0,1.0,1
+Porsche Taycan Turbo,1.0,1.0,1
+Porsche Macan S,1.0,1.0,1
+Porsche Cayenne Platinum Edition,1.0,1.0,1
+Porsche 911 Carrera 4S,1.0,1.0,1
+Porsche 911 Targa 4S,1.0,1.0,1
+Porsche Macan Base,1.0,1.0,1
+Porsche 911 Carrera,1.0,1.0,1
+Porsche Cayenne Base,1.0,1.0,1
+Porsche 911 Carrera 4S,1.0,1.0,1
+Porsche Panamera,1.0,1.0,1
+Porsche Macan Base (PDK),1.0,1.0,1
+Porsche Cayenne Base,1.0,1.0,1
+Porsche 911 Targa 4,1.0,1.0,1
+Porsche Cayenne Turbo,1.0,1.0,1
+Porsche Cayenne Base,1.0,1.0,1
+Porsche Macan S,1.0,1.0,1
+Porsche Macan,1.0,1.0,1
+Porsche 911 Carrera 4S,1.0,1.0,1
+Porsche 911 Turbo S,1.0,1.0,1
+Porsche Macan Base,1.0,1.0,1
+Porsche Cayenne S,1.0,1.0,1
+Porsche 911 Carrera,1.0,1.0,1
+Porsche 911 GT2 RS,1.0,1.0,1
+Porsche Macan S,1.0,1.0,1
+Porsche Macan S,1.0,1.0,1
+Porsche Panamera 4S,1.0,1.0,1
+Porsche 911 Carrera S,1.0,1.0,1
+Porsche 911 Turbo,1.0,1.0,1
+Porsche Cayenne Platinum Edition,1.0,1.0,1
+Porsche Macan,1.0,1.0,1
+Porsche Macan Base,1.0,1.0,1
+Porsche Macan S,1.0,1.0,1
+Porsche Macan,1.0,1.0,1
+Porsche Cayman GT4,1.0,1.0,1
+Porsche Cayenne Base,1.0,1.0,1
+Porsche 911 Carrera 4S,1.0,1.0,1
+Porsche Macan S,1.0,1.0,1
+Porsche Macan Base,1.0,1.0,1
+Porsche Cayenne AWD,1.0,1.0,2
+Porsche Cayenne AWD,1.0,1.0,2
+Porsche Panamera E-Hybrid 4 Platinum Edition,1.0,1.0,1
+Porsche 718 Boxster Base,1.0,1.0,1
+Porsche Macan Base,1.0,1.0,1
+Porsche Cayenne Base (Tiptronic),1.0,1.0,1
+Porsche Macan Base,1.0,1.0,1
+Porsche Panamera 4,1.0,1.0,1
+Porsche Macan Base,1.0,1.0,1
+Porsche Macan S,1.0,1.0,1
+Porsche Panamera Turbo,1.0,1.0,1
+Porsche Cayenne S,1.0,1.0,1
+Porsche Cayenne Base,1.0,1.0,1
+Porsche 911 Carrera S,1.0,1.0,1
+Porsche 911 GT3,1.0,1.0,1
+Porsche 911 Carrera GTS,1.0,1.0,1
+Porsche Panamera,1.0,1.0,1
+Porsche 718 Boxster GTS 4.0,1.0,1.0,1
+Porsche 911 Turbo S,1.0,1.0,1
+Tesla Model 3 Long Range,1.0,1.0,1
+Tesla Model Y Performance,1.0,1.0,1
+Tesla Model X P90D,1.0,1.0,1
+Tesla Model Y Long Range,1.0,1.0,1
+Tesla Model Y Long Range,1.0,1.0,1
+Tesla Model S Performance,1.0,1.0,1
+Tesla Model 3 Standard Range Plus,1.0,1.0,1
+Tesla Model 3 Standard Range Plus,1.0,1.0,1
+Tesla Model 3 Long Range,1.0,1.0,1
+Tesla Model S 75D,1.0,1.0,1
+Tesla Model 3 Performance,1.0,1.0,1
+Tesla Model S 90D,1.0,1.0,1
+Tesla Model X Standard Range,1.0,1.0,1
+Tesla Model S Long Range,1.0,1.0,1
+Tesla Roadster,1.0,1.0,1
+Tesla Model X Performance,1.0,1.0,1
+Tesla Model Y Long Range,1.0,1.0,1
+Tesla Model S 70D,1.0,1.0,1
+Tesla Model S 75D,1.0,1.0,1
+Tesla Model X Performance,1.0,1.0,1
+Tesla Model S P100D,1.0,1.0,1
+Tesla Model Y Long Range,1.0,1.0,1
+Tesla Model X Long Range,1.0,1.0,1
+Tesla Model S 75D,1.0,1.0,1
+Tesla Model S P85D,1.0,1.0,1
+Tesla Model Y Long Range,1.0,1.0,1
+Tesla Model 3 Performance,1.0,1.0,1
+Tesla Model 3 Long Range,1.0,1.0,1
+Tesla Model X P100D,1.0,1.0,1
+Tesla Model Y Standard Range,1.0,1.0,1
+Tesla Model Y Long Range,1.0,1.0,1
+Tesla Model S Long Range,1.0,1.0,1
+Tesla Model Y Performance,1.0,1.0,1
+Tesla Model X 75D,1.0,1.0,1
+Tesla Model 3 Performance,1.0,1.0,1
+Tesla Model 3 Long Range,1.0,1.0,1
+Tesla Model Y Long Range,1.0,1.0,1
+Tesla Model S 75D,1.0,1.0,1
+Tesla Model 3 Performance,1.0,1.0,1
+Tesla Model 3 Standard Range Plus,1.0,1.0,1
+Tesla Model S Plaid,1.0,1.0,1
+Tesla Model X 75D,1.0,1.0,1
+Tesla Model 3 Long Range,1.0,1.0,1
+Tesla Model 3 Long Range,1.0,1.0,1
+Tesla Model Y Long Range,1.0,1.0,1
+Tesla Model Y Long Range,1.0,1.0,1
+Tesla Model 3 Long Range,1.0,1.0,1
+Tesla Model 3 Long Range,1.0,1.0,1
+Tesla Model Y Long Range,1.0,1.0,1
+Tesla Model 3 Standard Range,1.0,1.0,1
+Tesla Model S,1.0,1.0,1
+Tesla Model 3 Long Range,1.0,1.0,1
+Tesla Model 3 Long Range,1.0,1.0,1
+Tesla Model 3 Long Range,1.0,1.0,1
+Tesla Model 3 Long Range,1.0,1.0,1
+Tesla Model 3 Standard Range Plus,1.0,1.0,1
+Tesla Model S 70D,1.0,1.0,1
+Tesla Model 3 Standard Range Plus,1.0,1.0,1
+Tesla Model X 90D,1.0,1.0,1
+Tesla Model 3 Standard Range Plus,1.0,1.0,1
+Tesla Model X P100D,1.0,1.0,1
+Tesla Model 3 Long Range,1.0,1.0,1
+Tesla Model 3 Long Range,1.0,1.0,1
+Tesla Model Y Long Range,1.0,1.0,1
+Tesla Model X 90D,1.0,1.0,1
+Tesla Model Y Performance,1.0,1.0,1
+Tesla Model 3 Standard Range,1.0,1.0,1
+Tesla Model Y Long Range,1.0,1.0,1
+Tesla Model 3 Long Range,1.0,1.0,1
+Tesla Model S P85D,1.0,1.0,1
+Tesla Model S 100D,1.0,1.0,1
+Tesla Model 3 Standard Range Plus,1.0,1.0,1
+Tesla Model S 90D,1.0,1.0,1
+Tesla Model X 75D,1.0,1.0,1
+Tesla Model 3 Base,1.0,1.0,1
+Tesla Model Y Performance,1.0,1.0,1
+Toyota Highlander Hybrid Platinum,1.0,1.0,1
+Toyota Tundra 1794,1.0,1.0,1
+Toyota 4Runner 40th Anniversary Special Edition,1.0,1.0,1
+Toyota Tundra Platinum,1.0,1.0,1
+Toyota Tundra Hybrid Platinum,1.0,1.0,1
+Toyota Tacoma TRD Pro,1.0,1.0,1
+Toyota Corolla Cross LE,1.0,1.0,1
+Toyota 4Runner Limited,1.0,1.0,1
+Toyota 4Runner SR5 Premium,1.0,1.0,1
+Toyota Tundra SR5,1.0,1.0,1
+Toyota Tundra Hybrid Platinum,1.0,1.0,1
+Toyota 4Runner 40th Anniversary Special Edition,1.0,1.0,1
+Toyota Sienna LE,1.0,1.0,1
+Toyota Tacoma TRD Off Road,1.0,1.0,1
+Toyota Tacoma TRD Off Road,1.0,1.0,1
+Toyota 4Runner Limited,1.0,1.0,1
+Toyota Avalon XSE,1.0,1.0,1
+Toyota GR86 Premium,1.0,1.0,1
+Toyota Tundra Limited,1.0,1.0,1
+Toyota GR86 Premium,1.0,1.0,1
+Toyota Corolla Cross XLE,1.0,1.0,1
+Toyota Prius Four,1.0,1.0,1
+Toyota Tacoma TRD Sport,1.0,1.0,1
+Toyota Tundra Limited,1.0,1.0,1
+Toyota Prius Prime Premium,1.0,1.0,1
+Toyota Tacoma SR,1.0,1.0,1
+Toyota Highlander Hybrid LE,1.0,1.0,1
+Toyota Highlander LE,1.0,1.0,1
+Toyota Tundra SR,1.0,1.0,1
+Toyota Corolla Hybrid SE,1.0,1.0,1
+Toyota 4Runner SR5,1.0,1.0,1
+Toyota Avalon Limited,1.0,1.0,1
+Toyota Highlander XSE,1.0,1.0,1
+Toyota Tacoma,1.0,1.0,1
+Toyota Corolla Hatchback SE,1.0,1.0,1
+Toyota 86 Base,1.0,1.0,1
+Toyota Prius Prime LE,1.0,1.0,1
+Toyota Sequoia Limited,1.0,1.0,1
+Toyota Camry Hybrid LE,1.0,1.0,1
+Toyota Highlander SE,1.0,1.0,1
+Toyota Camry SE,1.0,1.0,1
+Toyota Sequoia SR5,1.0,1.0,1
+Toyota Highlander Hybrid LE,1.0,1.0,1
+Toyota 4Runner Limited,1.0,1.0,1
+Toyota Venza Limited,1.0,1.0,1
+Toyota Highlander Hybrid Platinum,1.0,1.0,1
+Toyota Tundra SR5,1.0,1.0,1
+Volkswagen Tiguan 2.0T SE R-Line Black,1.0,1.0,1
+Volkswagen ID.4 Pro S,1.0,1.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SEL R-Line,1.0,1.0,1
+Volkswagen Tiguan 2.0T SE,1.0,1.0,1
+Volkswagen ID.4 Pro S,1.0,1.0,1
+Volkswagen Jetta GLI 2.0T Autobahn,1.0,1.0,1
+Volkswagen Atlas 3.6L SE w/Technology,1.0,1.0,1
+Volkswagen Golf GTI 2.0T SE,1.0,1.0,1
+Volkswagen Tiguan 2.0T SEL R-Line,1.0,1.0,1
+Volkswagen ID.4 Pro S,1.0,1.0,1
+Volkswagen ID.4 Pro S,1.0,1.0,1
+Volkswagen Atlas 3.6L SE w/Technology,1.0,1.0,1
+Volkswagen Jetta 1.4T S,1.0,1.0,1
+Volkswagen ID.4 Pro S,1.0,1.0,1
+Volkswagen Atlas 3.6 V6 SE w/ Technology R-Line,1.0,1.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SE w/Technology,1.0,1.0,1
+Volkswagen Passat 2.5 SE,1.0,1.0,1
+Volkswagen Jetta 1.4T SE,1.0,1.0,1
+Volkswagen New Beetle,1.0,1.0,1
+Volkswagen CC 2.0T Sport,1.0,1.0,1
+Volkswagen Golf R 2-Door,1.0,1.0,1
+Volkswagen Tiguan 2.0T S,1.0,1.0,1
+Volkswagen Atlas 2.0T SEL Premium,1.0,1.0,1
+Volkswagen Arteon 2.0T SEL Premium R-Line,1.0,1.0,1
+Volkswagen Jetta SportWagen DSG TDI,1.0,1.0,1
+Volkswagen Tiguan 2.0T S,1.0,1.0,1
+Volkswagen Passat 2.0T SE,1.0,1.0,1
+Volkswagen Tiguan 2.0T S,1.0,1.0,1
+Volkswagen Passat Komfort,1.0,1.0,1
+Volkswagen Golf 1.4T TSI,1.0,1.0,1
+Volkswagen ID.4 Pro,1.0,1.0,1
+Volkswagen Jetta 2.0T GLI SE,1.0,1.0,1
+Volkswagen Jetta Man S,1.0,1.0,1
+Volkswagen Atlas 3.6L SEL Premium,1.0,1.0,1
+Volkswagen Passat 2.0T SE,1.0,1.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SEL,1.0,1.0,1
+Volkswagen Tiguan 2.0T SE R-Line Black,1.0,1.0,1
+Volkswagen Atlas 2.0T S,1.0,1.0,1
+Volkswagen Arteon 2.0T SEL R-Line,1.0,1.0,1
+Volkswagen ID.4 1st Edition,1.0,1.0,1
+Volkswagen Arteon 2.0T SEL Premium R-Line,1.0,1.0,1
+Volkswagen Jetta SportWagen TDI,1.0,1.0,1
+Volkswagen Atlas 2.0T SEL,1.0,1.0,1
+Volkswagen Atlas 3.6 V6 SE w/ Technology,1.0,1.0,1
+Volkswagen Tiguan 2.0T SEL Premium R-Line,1.0,1.0,1
+Volkswagen Atlas 3.6L V6 SE w/Technology,1.0,1.0,1
+Volkswagen Atlas 3.6L SEL,1.0,1.0,1
+Volkswagen Atlas 3.6L SEL Premium,1.0,1.0,1
+Volkswagen Atlas 3.6L SE w/Technology,1.0,1.0,1
+Volkswagen Passat 2.0T S,1.0,1.0,1
+Volkswagen Beetle (Pre-1980) Base,1.0,1.0,1
+Volkswagen Passat 2.0T SE,1.0,1.0,1
+Volkswagen Tiguan 2.0T SE R-Line Black,1.0,1.0,1
+Volkswagen Golf 2.5L,1.0,1.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SEL,1.0,1.0,1
+Volkswagen Atlas Cross Sport 2.0T SE,1.0,1.0,1
+Volkswagen Atlas 3.6L SE w/Technology,1.0,1.0,1
+Volkswagen Passat 2.0T Wolfsburg,1.0,1.0,1
+Volkswagen Golf R 4-Door,1.0,1.0,1
+Volkswagen Atlas Cross Sport 2.0T SE,1.0,1.0,1
+Volkswagen ID.4 Pro S,1.0,1.0,1
+Volkswagen Tiguan 2.0T S,1.0,1.0,1
+Volkswagen Golf GTI AUTOBAHN,1.0,1.0,1
+Volkswagen Jetta GLI 2.0T Autobahn,1.0,1.0,1
+Volkswagen Jetta 1.4T R-Line,1.0,1.0,1
+Volkswagen Jetta SE,1.0,1.0,1
+Volkswagen Tiguan 2.0T SE R-Line Black,1.0,1.0,1
+Volkswagen GTI 4-Door,1.0,1.0,1
+Volkswagen ID.4 Pro S,1.0,1.0,1
+Volkswagen Passat 2.0T SE,1.0,1.0,1
+Volkswagen ID.4 Pro S,1.0,1.0,1
+Volkswagen Jetta SportWagen S,1.0,1.0,1
+Volkswagen Taos 1.5T S,1.0,1.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SEL Premium R-Line,1.0,1.0,1
+Volkswagen Atlas 2.0T SE w/Technology,1.0,1.0,1
+Volkswagen Golf TSI S 4-Door,1.0,1.0,1
+Volkswagen Arteon 2.0T SEL R-Line 4MOTION,1.0,1.0,1
+Volkswagen Tiguan 2.0T SE,1.0,1.0,1
+Volkswagen Beetle 2.0T R-Line,1.0,1.0,1
+Volkswagen Beetle 2.0T Turbo,1.0,1.0,1
+Volkswagen Beetle 2.0T S,1.0,1.0,1
+Volkswagen Atlas Cross Sport 2.0T SE,1.0,1.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SE w/Technology,1.0,1.0,1
+Volkswagen Atlas Cross Sport 3.6L V6 SEL,1.0,1.0,1
+Volkswagen Jetta S,1.0,1.0,1
+Volkswagen Atlas 3.6 V6 SEL Premium R-Line,1.0,1.0,1
+Volkswagen Tiguan 2.0T S,1.0,1.0,1
+Volkswagen Atlas 2.0T SE w/Technology,1.0,1.0,1
