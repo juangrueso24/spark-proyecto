@@ -5,5 +5,13 @@ __pycache__/
 *.swp
 .DS_Store
 .env
+
+# Entorno virtual y salidas de Spark
 venv/
 out/
+
+# Ignorar TODOS los CSV de la raíz
+*.csv
+
+# Pero SÍ versionar los CSV que estén dentro de data/
+!data/*.csv
