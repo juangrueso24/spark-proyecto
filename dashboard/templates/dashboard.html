@@ -87,7 +87,7 @@
     </tbody>
   </table>
 
-{# ===================== VISTA CALIFICACIONES (NUEVA) ===================== #}
+{# ===================== VISTA CALIFICACIONES ===================== #}
 {% elif vista == 'calificaciones' %}
   <h2>Calificaciones</h2>
   <p class="small">
@@ -216,12 +216,11 @@
     }
   }
 
-  // ================= CALIFICACIONES (NUEVO JS) =================
+  // ================= CALIFICACIONES =================
   if (vista === "calificaciones") {
     const distLabels = {{ dist_labels|default([])|tojson }};
     const distValues = {{ dist_values|default([])|tojson }};
 
-    // Izquierda: "Promedio" por estrella (visual bonito usando las estrellas mismas)
     const promLabels = distLabels;
     const promData   = distLabels.map(v => Number(v));
 
@@ -253,7 +252,6 @@
       });
     }
 
-    // Derecha: distribución real de calificaciones
     const ctxDist = document.getElementById('chartDistEstrellas');
     if (ctxDist) {
       new Chart(ctxDist.getContext('2d'), {
@@ -291,12 +289,8 @@
         options: {
           responsive: true,
           scales: {
-            y: {
-              beginAtZero: true
-            },
-            x: {
-              ticks: { maxRotation: 60, minRotation: 60, autoSkip: false }
-            }
+            y: { beginAtZero: true },
+            x: { ticks: { maxRotation: 60, minRotation: 60, autoSkip: false } }
           }
         }
       });
